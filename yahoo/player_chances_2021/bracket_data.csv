@@ -1,0 +1,2206 @@
+,Bracket Name,Picks,Round,Winner,Correct?,Points,Total
+0,My Swell Bracket,Duke,1.0,Duke,True,1.0,72.0
+1,My Swell Bracket,UCF,1.0,UCF,True,1.0,72.0
+2,My Swell Bracket,Liberty,1.0,Liberty,True,1.0,72.0
+3,My Swell Bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,72.0
+4,My Swell Bracket,Belmont,1.0,Maryland,False,0.0,72.0
+5,My Swell Bracket,LSU,1.0,LSU,True,1.0,72.0
+6,My Swell Bracket,Louisville,1.0,Minnesota,False,0.0,72.0
+7,My Swell Bracket,Michigan St.,1.0,Michigan St.,True,1.0,72.0
+8,My Swell Bracket,Gonzaga,1.0,Gonzaga,True,1.0,72.0
+9,My Swell Bracket,Baylor,1.0,Baylor,True,1.0,72.0
+10,My Swell Bracket,Marquette,1.0,Murray St.,False,0.0,72.0
+11,My Swell Bracket,Florida St.,1.0,Florida St.,True,1.0,72.0
+12,My Swell Bracket,Buffalo,1.0,Buffalo,True,1.0,72.0
+13,My Swell Bracket,Texas Tech,1.0,Texas Tech,True,1.0,72.0
+14,My Swell Bracket,Florida,1.0,Florida,True,1.0,72.0
+15,My Swell Bracket,Michigan,1.0,Michigan,True,1.0,72.0
+16,My Swell Bracket,Virginia,1.0,Virginia,True,1.0,72.0
+17,My Swell Bracket,Oklahoma,1.0,Oklahoma,True,1.0,72.0
+18,My Swell Bracket,Oregon,1.0,Oregon,True,1.0,72.0
+19,My Swell Bracket,Kansas St.,1.0,UC Irvine,False,0.0,72.0
+20,My Swell Bracket,Villanova,1.0,Villanova,True,1.0,72.0
+21,My Swell Bracket,Purdue,1.0,Purdue,True,1.0,72.0
+22,My Swell Bracket,Iowa,1.0,Iowa,True,1.0,72.0
+23,My Swell Bracket,Tennessee,1.0,Tennessee,True,1.0,72.0
+24,My Swell Bracket,N. Carolina,1.0,N. Carolina,True,1.0,72.0
+25,My Swell Bracket,Washington,1.0,Washington,True,1.0,72.0
+26,My Swell Bracket,Auburn,1.0,Auburn,True,1.0,72.0
+27,My Swell Bracket,Kansas,1.0,Kansas,True,1.0,72.0
+28,My Swell Bracket,Iowa St.,1.0,Ohio St.,False,0.0,72.0
+29,My Swell Bracket,Houston,1.0,Houston,True,1.0,72.0
+30,My Swell Bracket,Seton Hall,1.0,Wofford,False,0.0,72.0
+31,My Swell Bracket,Kentucky,1.0,Kentucky,True,1.0,72.0
+32,My Swell Bracket,Duke,2.0,Duke,True,2.0,72.0
+33,My Swell Bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,72.0
+34,My Swell Bracket,LSU,2.0,LSU,True,2.0,72.0
+35,My Swell Bracket,Michigan St.,2.0,Michigan St.,True,2.0,72.0
+36,My Swell Bracket,Gonzaga,2.0,Gonzaga,True,2.0,72.0
+37,My Swell Bracket,Marquette,2.0,Florida St.,False,0.0,72.0
+38,My Swell Bracket,Texas Tech,2.0,Texas Tech,True,2.0,72.0
+39,My Swell Bracket,Michigan,2.0,Michigan,True,2.0,72.0
+40,My Swell Bracket,Virginia,2.0,Virginia,True,2.0,72.0
+41,My Swell Bracket,Oregon,2.0,Oregon,True,2.0,72.0
+42,My Swell Bracket,Purdue,2.0,Purdue,True,2.0,72.0
+43,My Swell Bracket,Tennessee,2.0,Tennessee,True,2.0,72.0
+44,My Swell Bracket,N. Carolina,2.0,N. Carolina,True,2.0,72.0
+45,My Swell Bracket,Auburn,2.0,Auburn,True,2.0,72.0
+46,My Swell Bracket,Houston,2.0,Houston,True,2.0,72.0
+47,My Swell Bracket,Kentucky,2.0,Kentucky,True,2.0,72.0
+48,My Swell Bracket,Duke,4.0,Duke,True,4.0,72.0
+49,My Swell Bracket,LSU,4.0,Michigan St.,False,0.0,72.0
+50,My Swell Bracket,Gonzaga,4.0,Gonzaga,True,4.0,72.0
+51,My Swell Bracket,Texas Tech,4.0,Texas Tech,True,4.0,72.0
+52,My Swell Bracket,Virginia,4.0,Virginia,True,4.0,72.0
+53,My Swell Bracket,Tennessee,4.0,Purdue,False,0.0,72.0
+54,My Swell Bracket,N. Carolina,4.0,Auburn,False,0.0,72.0
+55,My Swell Bracket,Houston,4.0,Kentucky,False,0.0,72.0
+56,My Swell Bracket,Duke,8.0,Michigan St.,False,0.0,72.0
+57,My Swell Bracket,Gonzaga,8.0,Texas Tech,False,0.0,72.0
+58,My Swell Bracket,Tennessee,8.0,Virginia,False,0.0,72.0
+59,My Swell Bracket,N. Carolina,8.0,Auburn,False,0.0,72.0
+60,My Swell Bracket,Duke,16.0,0,False,0.0,72.0
+61,My Swell Bracket,Tennessee,16.0,0,False,0.0,72.0
+62,My Swell Bracket,Tennessee,32.0,0,False,0.0,72.0
+63,why not,Duke,1.0,Duke,True,1.0,79.0
+64,why not,UCF,1.0,UCF,True,1.0,79.0
+65,why not,Mississippi St.,1.0,Liberty,False,0.0,79.0
+66,why not,Virginia Tech,1.0,Virginia Tech,True,1.0,79.0
+67,why not,Belmont,1.0,Maryland,False,0.0,79.0
+68,why not,Yale,1.0,LSU,False,0.0,79.0
+69,why not,Minnesota,1.0,Minnesota,True,1.0,79.0
+70,why not,Michigan St.,1.0,Michigan St.,True,1.0,79.0
+71,why not,Gonzaga,1.0,Gonzaga,True,1.0,79.0
+72,why not,Syracuse,1.0,Baylor,False,0.0,79.0
+73,why not,Murray St.,1.0,Murray St.,True,1.0,79.0
+74,why not,Florida St.,1.0,Florida St.,True,1.0,79.0
+75,why not,Buffalo,1.0,Buffalo,True,1.0,79.0
+76,why not,Texas Tech,1.0,Texas Tech,True,1.0,79.0
+77,why not,Florida,1.0,Florida,True,1.0,79.0
+78,why not,Michigan,1.0,Michigan,True,1.0,79.0
+79,why not,Virginia,1.0,Virginia,True,1.0,79.0
+80,why not,Oklahoma,1.0,Oklahoma,True,1.0,79.0
+81,why not,Oregon,1.0,Oregon,True,1.0,79.0
+82,why not,UC Irvine,1.0,UC Irvine,True,1.0,79.0
+83,why not,Villanova,1.0,Villanova,True,1.0,79.0
+84,why not,Purdue,1.0,Purdue,True,1.0,79.0
+85,why not,Cincinnati,1.0,Iowa,False,0.0,79.0
+86,why not,Tennessee,1.0,Tennessee,True,1.0,79.0
+87,why not,N. Carolina,1.0,N. Carolina,True,1.0,79.0
+88,why not,Utah St.,1.0,Washington,False,0.0,79.0
+89,why not,Auburn,1.0,Auburn,True,1.0,79.0
+90,why not,Kansas,1.0,Kansas,True,1.0,79.0
+91,why not,Iowa St.,1.0,Ohio St.,False,0.0,79.0
+92,why not,Houston,1.0,Houston,True,1.0,79.0
+93,why not,Wofford,1.0,Wofford,True,1.0,79.0
+94,why not,Kentucky,1.0,Kentucky,True,1.0,79.0
+95,why not,Duke,2.0,Duke,True,2.0,79.0
+96,why not,Virginia Tech,2.0,Virginia Tech,True,2.0,79.0
+97,why not,Belmont,2.0,LSU,False,0.0,79.0
+98,why not,Michigan St.,2.0,Michigan St.,True,2.0,79.0
+99,why not,Gonzaga,2.0,Gonzaga,True,2.0,79.0
+100,why not,Florida St.,2.0,Florida St.,True,2.0,79.0
+101,why not,Texas Tech,2.0,Texas Tech,True,2.0,79.0
+102,why not,Michigan,2.0,Michigan,True,2.0,79.0
+103,why not,Virginia,2.0,Virginia,True,2.0,79.0
+104,why not,Oregon,2.0,Oregon,True,2.0,79.0
+105,why not,Purdue,2.0,Purdue,True,2.0,79.0
+106,why not,Tennessee,2.0,Tennessee,True,2.0,79.0
+107,why not,N. Carolina,2.0,N. Carolina,True,2.0,79.0
+108,why not,Auburn,2.0,Auburn,True,2.0,79.0
+109,why not,Houston,2.0,Houston,True,2.0,79.0
+110,why not,Kentucky,2.0,Kentucky,True,2.0,79.0
+111,why not,Duke,4.0,Duke,True,4.0,79.0
+112,why not,Michigan St.,4.0,Michigan St.,True,4.0,79.0
+113,why not,Gonzaga,4.0,Gonzaga,True,4.0,79.0
+114,why not,Michigan,4.0,Texas Tech,False,0.0,79.0
+115,why not,Virginia,4.0,Virginia,True,4.0,79.0
+116,why not,Tennessee,4.0,Purdue,False,0.0,79.0
+117,why not,N. Carolina,4.0,Auburn,False,0.0,79.0
+118,why not,Houston,4.0,Kentucky,False,0.0,79.0
+119,why not,Duke,8.0,Michigan St.,False,0.0,79.0
+120,why not,Gonzaga,8.0,Texas Tech,False,0.0,79.0
+121,why not,Virginia,8.0,Virginia,True,8.0,79.0
+122,why not,N. Carolina,8.0,Auburn,False,0.0,79.0
+123,why not,Duke,16.0,0,False,0.0,79.0
+124,why not,N. Carolina,16.0,0,False,0.0,79.0
+125,why not,Duke,32.0,0,False,0.0,79.0
+126,Justin's Nice Bracket,Duke,1.0,Duke,True,1.0,70.0
+127,Justin's Nice Bracket,UCF,1.0,UCF,True,1.0,70.0
+128,Justin's Nice Bracket,Mississippi St.,1.0,Liberty,False,0.0,70.0
+129,Justin's Nice Bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,70.0
+130,Justin's Nice Bracket,Maryland,1.0,Maryland,True,1.0,70.0
+131,Justin's Nice Bracket,LSU,1.0,LSU,True,1.0,70.0
+132,Justin's Nice Bracket,Louisville,1.0,Minnesota,False,0.0,70.0
+133,Justin's Nice Bracket,Michigan St.,1.0,Michigan St.,True,1.0,70.0
+134,Justin's Nice Bracket,Gonzaga,1.0,Gonzaga,True,1.0,70.0
+135,Justin's Nice Bracket,Syracuse,1.0,Baylor,False,0.0,70.0
+136,Justin's Nice Bracket,Murray St.,1.0,Murray St.,True,1.0,70.0
+137,Justin's Nice Bracket,Florida St.,1.0,Florida St.,True,1.0,70.0
+138,Justin's Nice Bracket,Buffalo,1.0,Buffalo,True,1.0,70.0
+139,Justin's Nice Bracket,Texas Tech,1.0,Texas Tech,True,1.0,70.0
+140,Justin's Nice Bracket,Nevada,1.0,Florida,False,0.0,70.0
+141,Justin's Nice Bracket,Michigan,1.0,Michigan,True,1.0,70.0
+142,Justin's Nice Bracket,Virginia,1.0,Virginia,True,1.0,70.0
+143,Justin's Nice Bracket,Oklahoma,1.0,Oklahoma,True,1.0,70.0
+144,Justin's Nice Bracket,Wisconsin,1.0,Oregon,False,0.0,70.0
+145,Justin's Nice Bracket,Kansas St.,1.0,UC Irvine,False,0.0,70.0
+146,Justin's Nice Bracket,Villanova,1.0,Villanova,True,1.0,70.0
+147,Justin's Nice Bracket,Purdue,1.0,Purdue,True,1.0,70.0
+148,Justin's Nice Bracket,Iowa,1.0,Iowa,True,1.0,70.0
+149,Justin's Nice Bracket,Tennessee,1.0,Tennessee,True,1.0,70.0
+150,Justin's Nice Bracket,N. Carolina,1.0,N. Carolina,True,1.0,70.0
+151,Justin's Nice Bracket,Utah St.,1.0,Washington,False,0.0,70.0
+152,Justin's Nice Bracket,Auburn,1.0,Auburn,True,1.0,70.0
+153,Justin's Nice Bracket,Kansas,1.0,Kansas,True,1.0,70.0
+154,Justin's Nice Bracket,Iowa St.,1.0,Ohio St.,False,0.0,70.0
+155,Justin's Nice Bracket,Houston,1.0,Houston,True,1.0,70.0
+156,Justin's Nice Bracket,Wofford,1.0,Wofford,True,1.0,70.0
+157,Justin's Nice Bracket,Kentucky,1.0,Kentucky,True,1.0,70.0
+158,Justin's Nice Bracket,Duke,2.0,Duke,True,2.0,70.0
+159,Justin's Nice Bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,70.0
+160,Justin's Nice Bracket,LSU,2.0,LSU,True,2.0,70.0
+161,Justin's Nice Bracket,Michigan St.,2.0,Michigan St.,True,2.0,70.0
+162,Justin's Nice Bracket,Gonzaga,2.0,Gonzaga,True,2.0,70.0
+163,Justin's Nice Bracket,Florida St.,2.0,Florida St.,True,2.0,70.0
+164,Justin's Nice Bracket,Texas Tech,2.0,Texas Tech,True,2.0,70.0
+165,Justin's Nice Bracket,Michigan,2.0,Michigan,True,2.0,70.0
+166,Justin's Nice Bracket,Virginia,2.0,Virginia,True,2.0,70.0
+167,Justin's Nice Bracket,Kansas St.,2.0,Oregon,False,0.0,70.0
+168,Justin's Nice Bracket,Purdue,2.0,Purdue,True,2.0,70.0
+169,Justin's Nice Bracket,Tennessee,2.0,Tennessee,True,2.0,70.0
+170,Justin's Nice Bracket,N. Carolina,2.0,N. Carolina,True,2.0,70.0
+171,Justin's Nice Bracket,Auburn,2.0,Auburn,True,2.0,70.0
+172,Justin's Nice Bracket,Houston,2.0,Houston,True,2.0,70.0
+173,Justin's Nice Bracket,Kentucky,2.0,Kentucky,True,2.0,70.0
+174,Justin's Nice Bracket,Duke,4.0,Duke,True,4.0,70.0
+175,Justin's Nice Bracket,Michigan St.,4.0,Michigan St.,True,4.0,70.0
+176,Justin's Nice Bracket,Florida St.,4.0,Gonzaga,False,0.0,70.0
+177,Justin's Nice Bracket,Michigan,4.0,Texas Tech,False,0.0,70.0
+178,Justin's Nice Bracket,Virginia,4.0,Virginia,True,4.0,70.0
+179,Justin's Nice Bracket,Tennessee,4.0,Purdue,False,0.0,70.0
+180,Justin's Nice Bracket,N. Carolina,4.0,Auburn,False,0.0,70.0
+181,Justin's Nice Bracket,Kentucky,4.0,Kentucky,True,4.0,70.0
+182,Justin's Nice Bracket,Duke,8.0,Michigan St.,False,0.0,70.0
+183,Justin's Nice Bracket,Michigan,8.0,Texas Tech,False,0.0,70.0
+184,Justin's Nice Bracket,Tennessee,8.0,Virginia,False,0.0,70.0
+185,Justin's Nice Bracket,Kentucky,8.0,Auburn,False,0.0,70.0
+186,Justin's Nice Bracket,Duke,16.0,0,False,0.0,70.0
+187,Justin's Nice Bracket,Kentucky,16.0,0,False,0.0,70.0
+188,Justin's Nice Bracket,Kentucky,32.0,0,False,0.0,70.0
+189,The Orchids of Steven,Duke,1.0,Duke,True,1.0,77.0
+190,The Orchids of Steven,UCF,1.0,UCF,True,1.0,77.0
+191,The Orchids of Steven,Mississippi St.,1.0,Liberty,False,0.0,77.0
+192,The Orchids of Steven,Virginia Tech,1.0,Virginia Tech,True,1.0,77.0
+193,The Orchids of Steven,Maryland,1.0,Maryland,True,1.0,77.0
+194,The Orchids of Steven,LSU,1.0,LSU,True,1.0,77.0
+195,The Orchids of Steven,Louisville,1.0,Minnesota,False,0.0,77.0
+196,The Orchids of Steven,Michigan St.,1.0,Michigan St.,True,1.0,77.0
+197,The Orchids of Steven,Gonzaga,1.0,Gonzaga,True,1.0,77.0
+198,The Orchids of Steven,Baylor,1.0,Baylor,True,1.0,77.0
+199,The Orchids of Steven,Marquette,1.0,Murray St.,False,0.0,77.0
+200,The Orchids of Steven,Florida St.,1.0,Florida St.,True,1.0,77.0
+201,The Orchids of Steven,Buffalo,1.0,Buffalo,True,1.0,77.0
+202,The Orchids of Steven,Texas Tech,1.0,Texas Tech,True,1.0,77.0
+203,The Orchids of Steven,Florida,1.0,Florida,True,1.0,77.0
+204,The Orchids of Steven,Michigan,1.0,Michigan,True,1.0,77.0
+205,The Orchids of Steven,Virginia,1.0,Virginia,True,1.0,77.0
+206,The Orchids of Steven,Oklahoma,1.0,Oklahoma,True,1.0,77.0
+207,The Orchids of Steven,Oregon,1.0,Oregon,True,1.0,77.0
+208,The Orchids of Steven,Kansas St.,1.0,UC Irvine,False,0.0,77.0
+209,The Orchids of Steven,Villanova,1.0,Villanova,True,1.0,77.0
+210,The Orchids of Steven,Old Dominion,1.0,Purdue,False,0.0,77.0
+211,The Orchids of Steven,Cincinnati,1.0,Iowa,False,0.0,77.0
+212,The Orchids of Steven,Tennessee,1.0,Tennessee,True,1.0,77.0
+213,The Orchids of Steven,N. Carolina,1.0,N. Carolina,True,1.0,77.0
+214,The Orchids of Steven,Washington,1.0,Washington,True,1.0,77.0
+215,The Orchids of Steven,Auburn,1.0,Auburn,True,1.0,77.0
+216,The Orchids of Steven,Kansas,1.0,Kansas,True,1.0,77.0
+217,The Orchids of Steven,Ohio St.,1.0,Ohio St.,True,1.0,77.0
+218,The Orchids of Steven,Houston,1.0,Houston,True,1.0,77.0
+219,The Orchids of Steven,Seton Hall,1.0,Wofford,False,0.0,77.0
+220,The Orchids of Steven,Kentucky,1.0,Kentucky,True,1.0,77.0
+221,The Orchids of Steven,Duke,2.0,Duke,True,2.0,77.0
+222,The Orchids of Steven,Virginia Tech,2.0,Virginia Tech,True,2.0,77.0
+223,The Orchids of Steven,Maryland,2.0,LSU,False,0.0,77.0
+224,The Orchids of Steven,Michigan St.,2.0,Michigan St.,True,2.0,77.0
+225,The Orchids of Steven,Gonzaga,2.0,Gonzaga,True,2.0,77.0
+226,The Orchids of Steven,Florida St.,2.0,Florida St.,True,2.0,77.0
+227,The Orchids of Steven,Texas Tech,2.0,Texas Tech,True,2.0,77.0
+228,The Orchids of Steven,Michigan,2.0,Michigan,True,2.0,77.0
+229,The Orchids of Steven,Virginia,2.0,Virginia,True,2.0,77.0
+230,The Orchids of Steven,Oregon,2.0,Oregon,True,2.0,77.0
+231,The Orchids of Steven,Villanova,2.0,Purdue,False,0.0,77.0
+232,The Orchids of Steven,Tennessee,2.0,Tennessee,True,2.0,77.0
+233,The Orchids of Steven,N. Carolina,2.0,N. Carolina,True,2.0,77.0
+234,The Orchids of Steven,Auburn,2.0,Auburn,True,2.0,77.0
+235,The Orchids of Steven,Houston,2.0,Houston,True,2.0,77.0
+236,The Orchids of Steven,Kentucky,2.0,Kentucky,True,2.0,77.0
+237,The Orchids of Steven,Duke,4.0,Duke,True,4.0,77.0
+238,The Orchids of Steven,Michigan St.,4.0,Michigan St.,True,4.0,77.0
+239,The Orchids of Steven,Gonzaga,4.0,Gonzaga,True,4.0,77.0
+240,The Orchids of Steven,Michigan,4.0,Texas Tech,False,0.0,77.0
+241,The Orchids of Steven,Virginia,4.0,Virginia,True,4.0,77.0
+242,The Orchids of Steven,Villanova,4.0,Purdue,False,0.0,77.0
+243,The Orchids of Steven,N. Carolina,4.0,Auburn,False,0.0,77.0
+244,The Orchids of Steven,Houston,4.0,Kentucky,False,0.0,77.0
+245,The Orchids of Steven,Michigan St.,8.0,Michigan St.,True,8.0,77.0
+246,The Orchids of Steven,Michigan,8.0,Texas Tech,False,0.0,77.0
+247,The Orchids of Steven,Villanova,8.0,Virginia,False,0.0,77.0
+248,The Orchids of Steven,Houston,8.0,Auburn,False,0.0,77.0
+249,The Orchids of Steven,Michigan,16.0,0,False,0.0,77.0
+250,The Orchids of Steven,Houston,16.0,0,False,0.0,77.0
+251,The Orchids of Steven,Michigan,32.0,0,False,0.0,77.0
+252,kjones,Duke,1.0,Duke,True,1.0,69.0
+253,kjones,VCU,1.0,UCF,False,0.0,69.0
+254,kjones,Mississippi St.,1.0,Liberty,False,0.0,69.0
+255,kjones,Virginia Tech,1.0,Virginia Tech,True,1.0,69.0
+256,kjones,Belmont,1.0,Maryland,False,0.0,69.0
+257,kjones,LSU,1.0,LSU,True,1.0,69.0
+258,kjones,Minnesota,1.0,Minnesota,True,1.0,69.0
+259,kjones,Michigan St.,1.0,Michigan St.,True,1.0,69.0
+260,kjones,Gonzaga,1.0,Gonzaga,True,1.0,69.0
+261,kjones,Baylor,1.0,Baylor,True,1.0,69.0
+262,kjones,Murray St.,1.0,Murray St.,True,1.0,69.0
+263,kjones,Florida St.,1.0,Florida St.,True,1.0,69.0
+264,kjones,Buffalo,1.0,Buffalo,True,1.0,69.0
+265,kjones,Texas Tech,1.0,Texas Tech,True,1.0,69.0
+266,kjones,Nevada,1.0,Florida,False,0.0,69.0
+267,kjones,Michigan,1.0,Michigan,True,1.0,69.0
+268,kjones,Virginia,1.0,Virginia,True,1.0,69.0
+269,kjones,Mississippi,1.0,Oklahoma,False,0.0,69.0
+270,kjones,Oregon,1.0,Oregon,True,1.0,69.0
+271,kjones,Kansas St.,1.0,UC Irvine,False,0.0,69.0
+272,kjones,Villanova,1.0,Villanova,True,1.0,69.0
+273,kjones,Purdue,1.0,Purdue,True,1.0,69.0
+274,kjones,Iowa,1.0,Iowa,True,1.0,69.0
+275,kjones,Tennessee,1.0,Tennessee,True,1.0,69.0
+276,kjones,N. Carolina,1.0,N. Carolina,True,1.0,69.0
+277,kjones,Utah St.,1.0,Washington,False,0.0,69.0
+278,kjones,N. Mex. St.,1.0,Auburn,False,0.0,69.0
+279,kjones,Kansas,1.0,Kansas,True,1.0,69.0
+280,kjones,Iowa St.,1.0,Ohio St.,False,0.0,69.0
+281,kjones,Houston,1.0,Houston,True,1.0,69.0
+282,kjones,Wofford,1.0,Wofford,True,1.0,69.0
+283,kjones,Kentucky,1.0,Kentucky,True,1.0,69.0
+284,kjones,Duke,2.0,Duke,True,2.0,69.0
+285,kjones,Virginia Tech,2.0,Virginia Tech,True,2.0,69.0
+286,kjones,LSU,2.0,LSU,True,2.0,69.0
+287,kjones,Michigan St.,2.0,Michigan St.,True,2.0,69.0
+288,kjones,Gonzaga,2.0,Gonzaga,True,2.0,69.0
+289,kjones,Florida St.,2.0,Florida St.,True,2.0,69.0
+290,kjones,Texas Tech,2.0,Texas Tech,True,2.0,69.0
+291,kjones,Michigan,2.0,Michigan,True,2.0,69.0
+292,kjones,Virginia,2.0,Virginia,True,2.0,69.0
+293,kjones,Oregon,2.0,Oregon,True,2.0,69.0
+294,kjones,Purdue,2.0,Purdue,True,2.0,69.0
+295,kjones,Tennessee,2.0,Tennessee,True,2.0,69.0
+296,kjones,N. Carolina,2.0,N. Carolina,True,2.0,69.0
+297,kjones,N. Mex. St.,2.0,Auburn,False,0.0,69.0
+298,kjones,Houston,2.0,Houston,True,2.0,69.0
+299,kjones,Kentucky,2.0,Kentucky,True,2.0,69.0
+300,kjones,Duke,4.0,Duke,True,4.0,69.0
+301,kjones,Michigan St.,4.0,Michigan St.,True,4.0,69.0
+302,kjones,Gonzaga,4.0,Gonzaga,True,4.0,69.0
+303,kjones,Michigan,4.0,Texas Tech,False,0.0,69.0
+304,kjones,Virginia,4.0,Virginia,True,4.0,69.0
+305,kjones,Tennessee,4.0,Purdue,False,0.0,69.0
+306,kjones,N. Carolina,4.0,Auburn,False,0.0,69.0
+307,kjones,Houston,4.0,Kentucky,False,0.0,69.0
+308,kjones,Duke,8.0,Michigan St.,False,0.0,69.0
+309,kjones,Gonzaga,8.0,Texas Tech,False,0.0,69.0
+310,kjones,Tennessee,8.0,Virginia,False,0.0,69.0
+311,kjones,N. Carolina,8.0,Auburn,False,0.0,69.0
+312,kjones,Gonzaga,16.0,0,False,0.0,69.0
+313,kjones,Tennessee,16.0,0,False,0.0,69.0
+314,kjones,Gonzaga,32.0,0,False,0.0,69.0
+315,it's all a guess!,Duke,1.0,Duke,True,1.0,76.0
+316,it's all a guess!,UCF,1.0,UCF,True,1.0,76.0
+317,it's all a guess!,Mississippi St.,1.0,Liberty,False,0.0,76.0
+318,it's all a guess!,Virginia Tech,1.0,Virginia Tech,True,1.0,76.0
+319,it's all a guess!,Belmont,1.0,Maryland,False,0.0,76.0
+320,it's all a guess!,LSU,1.0,LSU,True,1.0,76.0
+321,it's all a guess!,Minnesota,1.0,Minnesota,True,1.0,76.0
+322,it's all a guess!,Michigan St.,1.0,Michigan St.,True,1.0,76.0
+323,it's all a guess!,Gonzaga,1.0,Gonzaga,True,1.0,76.0
+324,it's all a guess!,Syracuse,1.0,Baylor,False,0.0,76.0
+325,it's all a guess!,Murray St.,1.0,Murray St.,True,1.0,76.0
+326,it's all a guess!,Florida St.,1.0,Florida St.,True,1.0,76.0
+327,it's all a guess!,Buffalo,1.0,Buffalo,True,1.0,76.0
+328,it's all a guess!,Texas Tech,1.0,Texas Tech,True,1.0,76.0
+329,it's all a guess!,Nevada,1.0,Florida,False,0.0,76.0
+330,it's all a guess!,Michigan,1.0,Michigan,True,1.0,76.0
+331,it's all a guess!,Virginia,1.0,Virginia,True,1.0,76.0
+332,it's all a guess!,Oklahoma,1.0,Oklahoma,True,1.0,76.0
+333,it's all a guess!,Wisconsin,1.0,Oregon,False,0.0,76.0
+334,it's all a guess!,UC Irvine,1.0,UC Irvine,True,1.0,76.0
+335,it's all a guess!,St. Mary's,1.0,Villanova,False,0.0,76.0
+336,it's all a guess!,Purdue,1.0,Purdue,True,1.0,76.0
+337,it's all a guess!,Cincinnati,1.0,Iowa,False,0.0,76.0
+338,it's all a guess!,Tennessee,1.0,Tennessee,True,1.0,76.0
+339,it's all a guess!,N. Carolina,1.0,N. Carolina,True,1.0,76.0
+340,it's all a guess!,Washington,1.0,Washington,True,1.0,76.0
+341,it's all a guess!,Auburn,1.0,Auburn,True,1.0,76.0
+342,it's all a guess!,Kansas,1.0,Kansas,True,1.0,76.0
+343,it's all a guess!,Iowa St.,1.0,Ohio St.,False,0.0,76.0
+344,it's all a guess!,Houston,1.0,Houston,True,1.0,76.0
+345,it's all a guess!,Wofford,1.0,Wofford,True,1.0,76.0
+346,it's all a guess!,Kentucky,1.0,Kentucky,True,1.0,76.0
+347,it's all a guess!,Duke,2.0,Duke,True,2.0,76.0
+348,it's all a guess!,Mississippi St.,2.0,Virginia Tech,False,0.0,76.0
+349,it's all a guess!,LSU,2.0,LSU,True,2.0,76.0
+350,it's all a guess!,Michigan St.,2.0,Michigan St.,True,2.0,76.0
+351,it's all a guess!,Gonzaga,2.0,Gonzaga,True,2.0,76.0
+352,it's all a guess!,Florida St.,2.0,Florida St.,True,2.0,76.0
+353,it's all a guess!,Texas Tech,2.0,Texas Tech,True,2.0,76.0
+354,it's all a guess!,Michigan,2.0,Michigan,True,2.0,76.0
+355,it's all a guess!,Virginia,2.0,Virginia,True,2.0,76.0
+356,it's all a guess!,Wisconsin,2.0,Oregon,False,0.0,76.0
+357,it's all a guess!,Purdue,2.0,Purdue,True,2.0,76.0
+358,it's all a guess!,Tennessee,2.0,Tennessee,True,2.0,76.0
+359,it's all a guess!,N. Carolina,2.0,N. Carolina,True,2.0,76.0
+360,it's all a guess!,Auburn,2.0,Auburn,True,2.0,76.0
+361,it's all a guess!,Houston,2.0,Houston,True,2.0,76.0
+362,it's all a guess!,Kentucky,2.0,Kentucky,True,2.0,76.0
+363,it's all a guess!,Duke,4.0,Duke,True,4.0,76.0
+364,it's all a guess!,Michigan St.,4.0,Michigan St.,True,4.0,76.0
+365,it's all a guess!,Gonzaga,4.0,Gonzaga,True,4.0,76.0
+366,it's all a guess!,Texas Tech,4.0,Texas Tech,True,4.0,76.0
+367,it's all a guess!,Virginia,4.0,Virginia,True,4.0,76.0
+368,it's all a guess!,Tennessee,4.0,Purdue,False,0.0,76.0
+369,it's all a guess!,N. Carolina,4.0,Auburn,False,0.0,76.0
+370,it's all a guess!,Kentucky,4.0,Kentucky,True,4.0,76.0
+371,it's all a guess!,Duke,8.0,Michigan St.,False,0.0,76.0
+372,it's all a guess!,Gonzaga,8.0,Texas Tech,False,0.0,76.0
+373,it's all a guess!,Tennessee,8.0,Virginia,False,0.0,76.0
+374,it's all a guess!,Kentucky,8.0,Auburn,False,0.0,76.0
+375,it's all a guess!,Duke,16.0,0,False,0.0,76.0
+376,it's all a guess!,Tennessee,16.0,0,False,0.0,76.0
+377,it's all a guess!,Duke,32.0,0,False,0.0,76.0
+378,Cole's Super Bracket,Duke,1.0,Duke,True,1.0,67.0
+379,Cole's Super Bracket,VCU,1.0,UCF,False,0.0,67.0
+380,Cole's Super Bracket,Liberty,1.0,Liberty,True,1.0,67.0
+381,Cole's Super Bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,67.0
+382,Cole's Super Bracket,Belmont,1.0,Maryland,False,0.0,67.0
+383,Cole's Super Bracket,LSU,1.0,LSU,True,1.0,67.0
+384,Cole's Super Bracket,Minnesota,1.0,Minnesota,True,1.0,67.0
+385,Cole's Super Bracket,Michigan St.,1.0,Michigan St.,True,1.0,67.0
+386,Cole's Super Bracket,Gonzaga,1.0,Gonzaga,True,1.0,67.0
+387,Cole's Super Bracket,Syracuse,1.0,Baylor,False,0.0,67.0
+388,Cole's Super Bracket,Murray St.,1.0,Murray St.,True,1.0,67.0
+389,Cole's Super Bracket,Florida St.,1.0,Florida St.,True,1.0,67.0
+390,Cole's Super Bracket,Buffalo,1.0,Buffalo,True,1.0,67.0
+391,Cole's Super Bracket,Texas Tech,1.0,Texas Tech,True,1.0,67.0
+392,Cole's Super Bracket,Nevada,1.0,Florida,False,0.0,67.0
+393,Cole's Super Bracket,Michigan,1.0,Michigan,True,1.0,67.0
+394,Cole's Super Bracket,Virginia,1.0,Virginia,True,1.0,67.0
+395,Cole's Super Bracket,Mississippi,1.0,Oklahoma,False,0.0,67.0
+396,Cole's Super Bracket,Oregon,1.0,Oregon,True,1.0,67.0
+397,Cole's Super Bracket,Kansas St.,1.0,UC Irvine,False,0.0,67.0
+398,Cole's Super Bracket,Villanova,1.0,Villanova,True,1.0,67.0
+399,Cole's Super Bracket,Purdue,1.0,Purdue,True,1.0,67.0
+400,Cole's Super Bracket,Cincinnati,1.0,Iowa,False,0.0,67.0
+401,Cole's Super Bracket,Tennessee,1.0,Tennessee,True,1.0,67.0
+402,Cole's Super Bracket,N. Carolina,1.0,N. Carolina,True,1.0,67.0
+403,Cole's Super Bracket,Washington,1.0,Washington,True,1.0,67.0
+404,Cole's Super Bracket,Auburn,1.0,Auburn,True,1.0,67.0
+405,Cole's Super Bracket,Kansas,1.0,Kansas,True,1.0,67.0
+406,Cole's Super Bracket,Iowa St.,1.0,Ohio St.,False,0.0,67.0
+407,Cole's Super Bracket,Houston,1.0,Houston,True,1.0,67.0
+408,Cole's Super Bracket,Seton Hall,1.0,Wofford,False,0.0,67.0
+409,Cole's Super Bracket,Kentucky,1.0,Kentucky,True,1.0,67.0
+410,Cole's Super Bracket,Duke,2.0,Duke,True,2.0,67.0
+411,Cole's Super Bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,67.0
+412,Cole's Super Bracket,LSU,2.0,LSU,True,2.0,67.0
+413,Cole's Super Bracket,Michigan St.,2.0,Michigan St.,True,2.0,67.0
+414,Cole's Super Bracket,Gonzaga,2.0,Gonzaga,True,2.0,67.0
+415,Cole's Super Bracket,Florida St.,2.0,Florida St.,True,2.0,67.0
+416,Cole's Super Bracket,Texas Tech,2.0,Texas Tech,True,2.0,67.0
+417,Cole's Super Bracket,Nevada,2.0,Michigan,False,0.0,67.0
+418,Cole's Super Bracket,Virginia,2.0,Virginia,True,2.0,67.0
+419,Cole's Super Bracket,Oregon,2.0,Oregon,True,2.0,67.0
+420,Cole's Super Bracket,Villanova,2.0,Purdue,False,0.0,67.0
+421,Cole's Super Bracket,Tennessee,2.0,Tennessee,True,2.0,67.0
+422,Cole's Super Bracket,N. Carolina,2.0,N. Carolina,True,2.0,67.0
+423,Cole's Super Bracket,Auburn,2.0,Auburn,True,2.0,67.0
+424,Cole's Super Bracket,Houston,2.0,Houston,True,2.0,67.0
+425,Cole's Super Bracket,Kentucky,2.0,Kentucky,True,2.0,67.0
+426,Cole's Super Bracket,Duke,4.0,Duke,True,4.0,67.0
+427,Cole's Super Bracket,LSU,4.0,Michigan St.,False,0.0,67.0
+428,Cole's Super Bracket,Florida St.,4.0,Gonzaga,False,0.0,67.0
+429,Cole's Super Bracket,Texas Tech,4.0,Texas Tech,True,4.0,67.0
+430,Cole's Super Bracket,Virginia,4.0,Virginia,True,4.0,67.0
+431,Cole's Super Bracket,Tennessee,4.0,Purdue,False,0.0,67.0
+432,Cole's Super Bracket,N. Carolina,4.0,Auburn,False,0.0,67.0
+433,Cole's Super Bracket,Kentucky,4.0,Kentucky,True,4.0,67.0
+434,Cole's Super Bracket,LSU,8.0,Michigan St.,False,0.0,67.0
+435,Cole's Super Bracket,Florida St.,8.0,Texas Tech,False,0.0,67.0
+436,Cole's Super Bracket,Tennessee,8.0,Virginia,False,0.0,67.0
+437,Cole's Super Bracket,Kentucky,8.0,Auburn,False,0.0,67.0
+438,Cole's Super Bracket,LSU,16.0,0,False,0.0,67.0
+439,Cole's Super Bracket,Kentucky,16.0,0,False,0.0,67.0
+440,Cole's Super Bracket,Kentucky,32.0,0,False,0.0,67.0
+441,Dylan's Definitive Bracket,Duke,1.0,Duke,True,1.0,74.0
+442,Dylan's Definitive Bracket,VCU,1.0,UCF,False,0.0,74.0
+443,Dylan's Definitive Bracket,Mississippi St.,1.0,Liberty,False,0.0,74.0
+444,Dylan's Definitive Bracket,Saint Louis,1.0,Virginia Tech,False,0.0,74.0
+445,Dylan's Definitive Bracket,Belmont,1.0,Maryland,False,0.0,74.0
+446,Dylan's Definitive Bracket,LSU,1.0,LSU,True,1.0,74.0
+447,Dylan's Definitive Bracket,Louisville,1.0,Minnesota,False,0.0,74.0
+448,Dylan's Definitive Bracket,Michigan St.,1.0,Michigan St.,True,1.0,74.0
+449,Dylan's Definitive Bracket,Gonzaga,1.0,Gonzaga,True,1.0,74.0
+450,Dylan's Definitive Bracket,Baylor,1.0,Baylor,True,1.0,74.0
+451,Dylan's Definitive Bracket,Murray St.,1.0,Murray St.,True,1.0,74.0
+452,Dylan's Definitive Bracket,Florida St.,1.0,Florida St.,True,1.0,74.0
+453,Dylan's Definitive Bracket,Buffalo,1.0,Buffalo,True,1.0,74.0
+454,Dylan's Definitive Bracket,Texas Tech,1.0,Texas Tech,True,1.0,74.0
+455,Dylan's Definitive Bracket,Nevada,1.0,Florida,False,0.0,74.0
+456,Dylan's Definitive Bracket,Michigan,1.0,Michigan,True,1.0,74.0
+457,Dylan's Definitive Bracket,Virginia,1.0,Virginia,True,1.0,74.0
+458,Dylan's Definitive Bracket,Oklahoma,1.0,Oklahoma,True,1.0,74.0
+459,Dylan's Definitive Bracket,Oregon,1.0,Oregon,True,1.0,74.0
+460,Dylan's Definitive Bracket,UC Irvine,1.0,UC Irvine,True,1.0,74.0
+461,Dylan's Definitive Bracket,Villanova,1.0,Villanova,True,1.0,74.0
+462,Dylan's Definitive Bracket,Purdue,1.0,Purdue,True,1.0,74.0
+463,Dylan's Definitive Bracket,Cincinnati,1.0,Iowa,False,0.0,74.0
+464,Dylan's Definitive Bracket,Tennessee,1.0,Tennessee,True,1.0,74.0
+465,Dylan's Definitive Bracket,N. Carolina,1.0,N. Carolina,True,1.0,74.0
+466,Dylan's Definitive Bracket,Washington,1.0,Washington,True,1.0,74.0
+467,Dylan's Definitive Bracket,Auburn,1.0,Auburn,True,1.0,74.0
+468,Dylan's Definitive Bracket,Kansas,1.0,Kansas,True,1.0,74.0
+469,Dylan's Definitive Bracket,Iowa St.,1.0,Ohio St.,False,0.0,74.0
+470,Dylan's Definitive Bracket,Houston,1.0,Houston,True,1.0,74.0
+471,Dylan's Definitive Bracket,Wofford,1.0,Wofford,True,1.0,74.0
+472,Dylan's Definitive Bracket,Kentucky,1.0,Kentucky,True,1.0,74.0
+473,Dylan's Definitive Bracket,Duke,2.0,Duke,True,2.0,74.0
+474,Dylan's Definitive Bracket,Mississippi St.,2.0,Virginia Tech,False,0.0,74.0
+475,Dylan's Definitive Bracket,LSU,2.0,LSU,True,2.0,74.0
+476,Dylan's Definitive Bracket,Michigan St.,2.0,Michigan St.,True,2.0,74.0
+477,Dylan's Definitive Bracket,Gonzaga,2.0,Gonzaga,True,2.0,74.0
+478,Dylan's Definitive Bracket,Florida St.,2.0,Florida St.,True,2.0,74.0
+479,Dylan's Definitive Bracket,Texas Tech,2.0,Texas Tech,True,2.0,74.0
+480,Dylan's Definitive Bracket,Michigan,2.0,Michigan,True,2.0,74.0
+481,Dylan's Definitive Bracket,Virginia,2.0,Virginia,True,2.0,74.0
+482,Dylan's Definitive Bracket,Oregon,2.0,Oregon,True,2.0,74.0
+483,Dylan's Definitive Bracket,Villanova,2.0,Purdue,False,0.0,74.0
+484,Dylan's Definitive Bracket,Tennessee,2.0,Tennessee,True,2.0,74.0
+485,Dylan's Definitive Bracket,N. Carolina,2.0,N. Carolina,True,2.0,74.0
+486,Dylan's Definitive Bracket,Auburn,2.0,Auburn,True,2.0,74.0
+487,Dylan's Definitive Bracket,Iowa St.,2.0,Houston,False,0.0,74.0
+488,Dylan's Definitive Bracket,Kentucky,2.0,Kentucky,True,2.0,74.0
+489,Dylan's Definitive Bracket,Duke,4.0,Duke,True,4.0,74.0
+490,Dylan's Definitive Bracket,Michigan St.,4.0,Michigan St.,True,4.0,74.0
+491,Dylan's Definitive Bracket,Gonzaga,4.0,Gonzaga,True,4.0,74.0
+492,Dylan's Definitive Bracket,Texas Tech,4.0,Texas Tech,True,4.0,74.0
+493,Dylan's Definitive Bracket,Virginia,4.0,Virginia,True,4.0,74.0
+494,Dylan's Definitive Bracket,Villanova,4.0,Purdue,False,0.0,74.0
+495,Dylan's Definitive Bracket,N. Carolina,4.0,Auburn,False,0.0,74.0
+496,Dylan's Definitive Bracket,Kentucky,4.0,Kentucky,True,4.0,74.0
+497,Dylan's Definitive Bracket,Duke,8.0,Michigan St.,False,0.0,74.0
+498,Dylan's Definitive Bracket,Gonzaga,8.0,Texas Tech,False,0.0,74.0
+499,Dylan's Definitive Bracket,Villanova,8.0,Virginia,False,0.0,74.0
+500,Dylan's Definitive Bracket,Kentucky,8.0,Auburn,False,0.0,74.0
+501,Dylan's Definitive Bracket,Gonzaga,16.0,0,False,0.0,74.0
+502,Dylan's Definitive Bracket,Kentucky,16.0,0,False,0.0,74.0
+503,Dylan's Definitive Bracket,Gonzaga,32.0,0,False,0.0,74.0
+504,KHAM,Duke,1.0,Duke,True,1.0,74.0
+505,KHAM,UCF,1.0,UCF,True,1.0,74.0
+506,KHAM,Liberty,1.0,Liberty,True,1.0,74.0
+507,KHAM,Virginia Tech,1.0,Virginia Tech,True,1.0,74.0
+508,KHAM,Belmont,1.0,Maryland,False,0.0,74.0
+509,KHAM,Yale,1.0,LSU,False,0.0,74.0
+510,KHAM,Louisville,1.0,Minnesota,False,0.0,74.0
+511,KHAM,Michigan St.,1.0,Michigan St.,True,1.0,74.0
+512,KHAM,Gonzaga,1.0,Gonzaga,True,1.0,74.0
+513,KHAM,Syracuse,1.0,Baylor,False,0.0,74.0
+514,KHAM,Murray St.,1.0,Murray St.,True,1.0,74.0
+515,KHAM,Florida St.,1.0,Florida St.,True,1.0,74.0
+516,KHAM,Buffalo,1.0,Buffalo,True,1.0,74.0
+517,KHAM,Texas Tech,1.0,Texas Tech,True,1.0,74.0
+518,KHAM,Nevada,1.0,Florida,False,0.0,74.0
+519,KHAM,Michigan,1.0,Michigan,True,1.0,74.0
+520,KHAM,Virginia,1.0,Virginia,True,1.0,74.0
+521,KHAM,Oklahoma,1.0,Oklahoma,True,1.0,74.0
+522,KHAM,Oregon,1.0,Oregon,True,1.0,74.0
+523,KHAM,UC Irvine,1.0,UC Irvine,True,1.0,74.0
+524,KHAM,Villanova,1.0,Villanova,True,1.0,74.0
+525,KHAM,Purdue,1.0,Purdue,True,1.0,74.0
+526,KHAM,Cincinnati,1.0,Iowa,False,0.0,74.0
+527,KHAM,Tennessee,1.0,Tennessee,True,1.0,74.0
+528,KHAM,N. Carolina,1.0,N. Carolina,True,1.0,74.0
+529,KHAM,Utah St.,1.0,Washington,False,0.0,74.0
+530,KHAM,Auburn,1.0,Auburn,True,1.0,74.0
+531,KHAM,Kansas,1.0,Kansas,True,1.0,74.0
+532,KHAM,Iowa St.,1.0,Ohio St.,False,0.0,74.0
+533,KHAM,Houston,1.0,Houston,True,1.0,74.0
+534,KHAM,Wofford,1.0,Wofford,True,1.0,74.0
+535,KHAM,Kentucky,1.0,Kentucky,True,1.0,74.0
+536,KHAM,Duke,2.0,Duke,True,2.0,74.0
+537,KHAM,Virginia Tech,2.0,Virginia Tech,True,2.0,74.0
+538,KHAM,Belmont,2.0,LSU,False,0.0,74.0
+539,KHAM,Michigan St.,2.0,Michigan St.,True,2.0,74.0
+540,KHAM,Gonzaga,2.0,Gonzaga,True,2.0,74.0
+541,KHAM,Florida St.,2.0,Florida St.,True,2.0,74.0
+542,KHAM,Buffalo,2.0,Texas Tech,False,0.0,74.0
+543,KHAM,Michigan,2.0,Michigan,True,2.0,74.0
+544,KHAM,Virginia,2.0,Virginia,True,2.0,74.0
+545,KHAM,Oregon,2.0,Oregon,True,2.0,74.0
+546,KHAM,Purdue,2.0,Purdue,True,2.0,74.0
+547,KHAM,Tennessee,2.0,Tennessee,True,2.0,74.0
+548,KHAM,N. Carolina,2.0,N. Carolina,True,2.0,74.0
+549,KHAM,Auburn,2.0,Auburn,True,2.0,74.0
+550,KHAM,Houston,2.0,Houston,True,2.0,74.0
+551,KHAM,Wofford,2.0,Kentucky,False,0.0,74.0
+552,KHAM,Duke,4.0,Duke,True,4.0,74.0
+553,KHAM,Michigan St.,4.0,Michigan St.,True,4.0,74.0
+554,KHAM,Gonzaga,4.0,Gonzaga,True,4.0,74.0
+555,KHAM,Michigan,4.0,Texas Tech,False,0.0,74.0
+556,KHAM,Virginia,4.0,Virginia,True,4.0,74.0
+557,KHAM,Tennessee,4.0,Purdue,False,0.0,74.0
+558,KHAM,N. Carolina,4.0,Auburn,False,0.0,74.0
+559,KHAM,Houston,4.0,Kentucky,False,0.0,74.0
+560,KHAM,Duke,8.0,Michigan St.,False,0.0,74.0
+561,KHAM,Gonzaga,8.0,Texas Tech,False,0.0,74.0
+562,KHAM,Virginia,8.0,Virginia,True,8.0,74.0
+563,KHAM,N. Carolina,8.0,Auburn,False,0.0,74.0
+564,KHAM,Duke,16.0,0,False,0.0,74.0
+565,KHAM,Virginia,16.0,0,False,0.0,74.0
+566,KHAM,Virginia,32.0,0,False,0.0,74.0
+567,Andrew's Amazing Bracket,Duke,1.0,Duke,True,1.0,70.0
+568,Andrew's Amazing Bracket,VCU,1.0,UCF,False,0.0,70.0
+569,Andrew's Amazing Bracket,Liberty,1.0,Liberty,True,1.0,70.0
+570,Andrew's Amazing Bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,70.0
+571,Andrew's Amazing Bracket,Maryland,1.0,Maryland,True,1.0,70.0
+572,Andrew's Amazing Bracket,Yale,1.0,LSU,False,0.0,70.0
+573,Andrew's Amazing Bracket,Minnesota,1.0,Minnesota,True,1.0,70.0
+574,Andrew's Amazing Bracket,Michigan St.,1.0,Michigan St.,True,1.0,70.0
+575,Andrew's Amazing Bracket,Gonzaga,1.0,Gonzaga,True,1.0,70.0
+576,Andrew's Amazing Bracket,Syracuse,1.0,Baylor,False,0.0,70.0
+577,Andrew's Amazing Bracket,Murray St.,1.0,Murray St.,True,1.0,70.0
+578,Andrew's Amazing Bracket,Florida St.,1.0,Florida St.,True,1.0,70.0
+579,Andrew's Amazing Bracket,Buffalo,1.0,Buffalo,True,1.0,70.0
+580,Andrew's Amazing Bracket,Texas Tech,1.0,Texas Tech,True,1.0,70.0
+581,Andrew's Amazing Bracket,Nevada,1.0,Florida,False,0.0,70.0
+582,Andrew's Amazing Bracket,Michigan,1.0,Michigan,True,1.0,70.0
+583,Andrew's Amazing Bracket,Virginia,1.0,Virginia,True,1.0,70.0
+584,Andrew's Amazing Bracket,Oklahoma,1.0,Oklahoma,True,1.0,70.0
+585,Andrew's Amazing Bracket,Wisconsin,1.0,Oregon,False,0.0,70.0
+586,Andrew's Amazing Bracket,Kansas St.,1.0,UC Irvine,False,0.0,70.0
+587,Andrew's Amazing Bracket,St. Mary's,1.0,Villanova,False,0.0,70.0
+588,Andrew's Amazing Bracket,Purdue,1.0,Purdue,True,1.0,70.0
+589,Andrew's Amazing Bracket,Iowa,1.0,Iowa,True,1.0,70.0
+590,Andrew's Amazing Bracket,Tennessee,1.0,Tennessee,True,1.0,70.0
+591,Andrew's Amazing Bracket,N. Carolina,1.0,N. Carolina,True,1.0,70.0
+592,Andrew's Amazing Bracket,Utah St.,1.0,Washington,False,0.0,70.0
+593,Andrew's Amazing Bracket,Auburn,1.0,Auburn,True,1.0,70.0
+594,Andrew's Amazing Bracket,Kansas,1.0,Kansas,True,1.0,70.0
+595,Andrew's Amazing Bracket,Ohio St.,1.0,Ohio St.,True,1.0,70.0
+596,Andrew's Amazing Bracket,Houston,1.0,Houston,True,1.0,70.0
+597,Andrew's Amazing Bracket,Wofford,1.0,Wofford,True,1.0,70.0
+598,Andrew's Amazing Bracket,Kentucky,1.0,Kentucky,True,1.0,70.0
+599,Andrew's Amazing Bracket,Duke,2.0,Duke,True,2.0,70.0
+600,Andrew's Amazing Bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,70.0
+601,Andrew's Amazing Bracket,Maryland,2.0,LSU,False,0.0,70.0
+602,Andrew's Amazing Bracket,Michigan St.,2.0,Michigan St.,True,2.0,70.0
+603,Andrew's Amazing Bracket,Gonzaga,2.0,Gonzaga,True,2.0,70.0
+604,Andrew's Amazing Bracket,Murray St.,2.0,Florida St.,False,0.0,70.0
+605,Andrew's Amazing Bracket,Texas Tech,2.0,Texas Tech,True,2.0,70.0
+606,Andrew's Amazing Bracket,Michigan,2.0,Michigan,True,2.0,70.0
+607,Andrew's Amazing Bracket,Virginia,2.0,Virginia,True,2.0,70.0
+608,Andrew's Amazing Bracket,Wisconsin,2.0,Oregon,False,0.0,70.0
+609,Andrew's Amazing Bracket,Purdue,2.0,Purdue,True,2.0,70.0
+610,Andrew's Amazing Bracket,Tennessee,2.0,Tennessee,True,2.0,70.0
+611,Andrew's Amazing Bracket,N. Carolina,2.0,N. Carolina,True,2.0,70.0
+612,Andrew's Amazing Bracket,Auburn,2.0,Auburn,True,2.0,70.0
+613,Andrew's Amazing Bracket,Houston,2.0,Houston,True,2.0,70.0
+614,Andrew's Amazing Bracket,Kentucky,2.0,Kentucky,True,2.0,70.0
+615,Andrew's Amazing Bracket,Duke,4.0,Duke,True,4.0,70.0
+616,Andrew's Amazing Bracket,Michigan St.,4.0,Michigan St.,True,4.0,70.0
+617,Andrew's Amazing Bracket,Gonzaga,4.0,Gonzaga,True,4.0,70.0
+618,Andrew's Amazing Bracket,Michigan,4.0,Texas Tech,False,0.0,70.0
+619,Andrew's Amazing Bracket,Virginia,4.0,Virginia,True,4.0,70.0
+620,Andrew's Amazing Bracket,Tennessee,4.0,Purdue,False,0.0,70.0
+621,Andrew's Amazing Bracket,N. Carolina,4.0,Auburn,False,0.0,70.0
+622,Andrew's Amazing Bracket,Kentucky,4.0,Kentucky,True,4.0,70.0
+623,Andrew's Amazing Bracket,Duke,8.0,Michigan St.,False,0.0,70.0
+624,Andrew's Amazing Bracket,Gonzaga,8.0,Texas Tech,False,0.0,70.0
+625,Andrew's Amazing Bracket,Tennessee,8.0,Virginia,False,0.0,70.0
+626,Andrew's Amazing Bracket,N. Carolina,8.0,Auburn,False,0.0,70.0
+627,Andrew's Amazing Bracket,Duke,16.0,0,False,0.0,70.0
+628,Andrew's Amazing Bracket,N. Carolina,16.0,0,False,0.0,70.0
+629,Andrew's Amazing Bracket,Duke,32.0,0,False,0.0,70.0
+630,LeBronzo's Balls,Duke,1.0,Duke,True,1.0,86.0
+631,LeBronzo's Balls,UCF,1.0,UCF,True,1.0,86.0
+632,LeBronzo's Balls,Mississippi St.,1.0,Liberty,False,0.0,86.0
+633,LeBronzo's Balls,Virginia Tech,1.0,Virginia Tech,True,1.0,86.0
+634,LeBronzo's Balls,Maryland,1.0,Maryland,True,1.0,86.0
+635,LeBronzo's Balls,Yale,1.0,LSU,False,0.0,86.0
+636,LeBronzo's Balls,Minnesota,1.0,Minnesota,True,1.0,86.0
+637,LeBronzo's Balls,Michigan St.,1.0,Michigan St.,True,1.0,86.0
+638,LeBronzo's Balls,Gonzaga,1.0,Gonzaga,True,1.0,86.0
+639,LeBronzo's Balls,Baylor,1.0,Baylor,True,1.0,86.0
+640,LeBronzo's Balls,Murray St.,1.0,Murray St.,True,1.0,86.0
+641,LeBronzo's Balls,Florida St.,1.0,Florida St.,True,1.0,86.0
+642,LeBronzo's Balls,Buffalo,1.0,Buffalo,True,1.0,86.0
+643,LeBronzo's Balls,Texas Tech,1.0,Texas Tech,True,1.0,86.0
+644,LeBronzo's Balls,Florida,1.0,Florida,True,1.0,86.0
+645,LeBronzo's Balls,Michigan,1.0,Michigan,True,1.0,86.0
+646,LeBronzo's Balls,Virginia,1.0,Virginia,True,1.0,86.0
+647,LeBronzo's Balls,Mississippi,1.0,Oklahoma,False,0.0,86.0
+648,LeBronzo's Balls,Wisconsin,1.0,Oregon,False,0.0,86.0
+649,LeBronzo's Balls,Kansas St.,1.0,UC Irvine,False,0.0,86.0
+650,LeBronzo's Balls,Villanova,1.0,Villanova,True,1.0,86.0
+651,LeBronzo's Balls,Purdue,1.0,Purdue,True,1.0,86.0
+652,LeBronzo's Balls,Cincinnati,1.0,Iowa,False,0.0,86.0
+653,LeBronzo's Balls,Tennessee,1.0,Tennessee,True,1.0,86.0
+654,LeBronzo's Balls,N. Carolina,1.0,N. Carolina,True,1.0,86.0
+655,LeBronzo's Balls,Utah St.,1.0,Washington,False,0.0,86.0
+656,LeBronzo's Balls,Auburn,1.0,Auburn,True,1.0,86.0
+657,LeBronzo's Balls,Kansas,1.0,Kansas,True,1.0,86.0
+658,LeBronzo's Balls,Iowa St.,1.0,Ohio St.,False,0.0,86.0
+659,LeBronzo's Balls,Houston,1.0,Houston,True,1.0,86.0
+660,LeBronzo's Balls,Wofford,1.0,Wofford,True,1.0,86.0
+661,LeBronzo's Balls,Kentucky,1.0,Kentucky,True,1.0,86.0
+662,LeBronzo's Balls,Duke,2.0,Duke,True,2.0,86.0
+663,LeBronzo's Balls,Virginia Tech,2.0,Virginia Tech,True,2.0,86.0
+664,LeBronzo's Balls,Maryland,2.0,LSU,False,0.0,86.0
+665,LeBronzo's Balls,Michigan St.,2.0,Michigan St.,True,2.0,86.0
+666,LeBronzo's Balls,Gonzaga,2.0,Gonzaga,True,2.0,86.0
+667,LeBronzo's Balls,Florida St.,2.0,Florida St.,True,2.0,86.0
+668,LeBronzo's Balls,Texas Tech,2.0,Texas Tech,True,2.0,86.0
+669,LeBronzo's Balls,Michigan,2.0,Michigan,True,2.0,86.0
+670,LeBronzo's Balls,Virginia,2.0,Virginia,True,2.0,86.0
+671,LeBronzo's Balls,Wisconsin,2.0,Oregon,False,0.0,86.0
+672,LeBronzo's Balls,Purdue,2.0,Purdue,True,2.0,86.0
+673,LeBronzo's Balls,Cincinnati,2.0,Tennessee,False,0.0,86.0
+674,LeBronzo's Balls,N. Carolina,2.0,N. Carolina,True,2.0,86.0
+675,LeBronzo's Balls,Auburn,2.0,Auburn,True,2.0,86.0
+676,LeBronzo's Balls,Houston,2.0,Houston,True,2.0,86.0
+677,LeBronzo's Balls,Kentucky,2.0,Kentucky,True,2.0,86.0
+678,LeBronzo's Balls,Duke,4.0,Duke,True,4.0,86.0
+679,LeBronzo's Balls,Michigan St.,4.0,Michigan St.,True,4.0,86.0
+680,LeBronzo's Balls,Gonzaga,4.0,Gonzaga,True,4.0,86.0
+681,LeBronzo's Balls,Texas Tech,4.0,Texas Tech,True,4.0,86.0
+682,LeBronzo's Balls,Virginia,4.0,Virginia,True,4.0,86.0
+683,LeBronzo's Balls,Purdue,4.0,Purdue,True,4.0,86.0
+684,LeBronzo's Balls,N. Carolina,4.0,Auburn,False,0.0,86.0
+685,LeBronzo's Balls,Kentucky,4.0,Kentucky,True,4.0,86.0
+686,LeBronzo's Balls,Duke,8.0,Michigan St.,False,0.0,86.0
+687,LeBronzo's Balls,Gonzaga,8.0,Texas Tech,False,0.0,86.0
+688,LeBronzo's Balls,Virginia,8.0,Virginia,True,8.0,86.0
+689,LeBronzo's Balls,N. Carolina,8.0,Auburn,False,0.0,86.0
+690,LeBronzo's Balls,Duke,16.0,0,False,0.0,86.0
+691,LeBronzo's Balls,Virginia,16.0,0,False,0.0,86.0
+692,LeBronzo's Balls,Duke,32.0,0,False,0.0,86.0
+693,Ramona,Duke,1.0,Duke,True,1.0,65.0
+694,Ramona,UCF,1.0,UCF,True,1.0,65.0
+695,Ramona,Mississippi St.,1.0,Liberty,False,0.0,65.0
+696,Ramona,Virginia Tech,1.0,Virginia Tech,True,1.0,65.0
+697,Ramona,Maryland,1.0,Maryland,True,1.0,65.0
+698,Ramona,LSU,1.0,LSU,True,1.0,65.0
+699,Ramona,Louisville,1.0,Minnesota,False,0.0,65.0
+700,Ramona,Michigan St.,1.0,Michigan St.,True,1.0,65.0
+701,Ramona,Gonzaga,1.0,Gonzaga,True,1.0,65.0
+702,Ramona,Baylor,1.0,Baylor,True,1.0,65.0
+703,Ramona,Murray St.,1.0,Murray St.,True,1.0,65.0
+704,Ramona,Florida St.,1.0,Florida St.,True,1.0,65.0
+705,Ramona,Buffalo,1.0,Buffalo,True,1.0,65.0
+706,Ramona,Texas Tech,1.0,Texas Tech,True,1.0,65.0
+707,Ramona,Nevada,1.0,Florida,False,0.0,65.0
+708,Ramona,Michigan,1.0,Michigan,True,1.0,65.0
+709,Ramona,Virginia,1.0,Virginia,True,1.0,65.0
+710,Ramona,Mississippi,1.0,Oklahoma,False,0.0,65.0
+711,Ramona,Wisconsin,1.0,Oregon,False,0.0,65.0
+712,Ramona,Kansas St.,1.0,UC Irvine,False,0.0,65.0
+713,Ramona,Villanova,1.0,Villanova,True,1.0,65.0
+714,Ramona,Purdue,1.0,Purdue,True,1.0,65.0
+715,Ramona,Iowa,1.0,Iowa,True,1.0,65.0
+716,Ramona,Tennessee,1.0,Tennessee,True,1.0,65.0
+717,Ramona,N. Carolina,1.0,N. Carolina,True,1.0,65.0
+718,Ramona,Washington,1.0,Washington,True,1.0,65.0
+719,Ramona,Auburn,1.0,Auburn,True,1.0,65.0
+720,Ramona,Kansas,1.0,Kansas,True,1.0,65.0
+721,Ramona,Iowa St.,1.0,Ohio St.,False,0.0,65.0
+722,Ramona,Houston,1.0,Houston,True,1.0,65.0
+723,Ramona,Wofford,1.0,Wofford,True,1.0,65.0
+724,Ramona,Kentucky,1.0,Kentucky,True,1.0,65.0
+725,Ramona,Duke,2.0,Duke,True,2.0,65.0
+726,Ramona,Virginia Tech,2.0,Virginia Tech,True,2.0,65.0
+727,Ramona,Maryland,2.0,LSU,False,0.0,65.0
+728,Ramona,Michigan St.,2.0,Michigan St.,True,2.0,65.0
+729,Ramona,Gonzaga,2.0,Gonzaga,True,2.0,65.0
+730,Ramona,Florida St.,2.0,Florida St.,True,2.0,65.0
+731,Ramona,Texas Tech,2.0,Texas Tech,True,2.0,65.0
+732,Ramona,Michigan,2.0,Michigan,True,2.0,65.0
+733,Ramona,Virginia,2.0,Virginia,True,2.0,65.0
+734,Ramona,Kansas St.,2.0,Oregon,False,0.0,65.0
+735,Ramona,Villanova,2.0,Purdue,False,0.0,65.0
+736,Ramona,Tennessee,2.0,Tennessee,True,2.0,65.0
+737,Ramona,N. Carolina,2.0,N. Carolina,True,2.0,65.0
+738,Ramona,Kansas,2.0,Auburn,False,0.0,65.0
+739,Ramona,Houston,2.0,Houston,True,2.0,65.0
+740,Ramona,Kentucky,2.0,Kentucky,True,2.0,65.0
+741,Ramona,Duke,4.0,Duke,True,4.0,65.0
+742,Ramona,Michigan St.,4.0,Michigan St.,True,4.0,65.0
+743,Ramona,Gonzaga,4.0,Gonzaga,True,4.0,65.0
+744,Ramona,Michigan,4.0,Texas Tech,False,0.0,65.0
+745,Ramona,Kansas St.,4.0,Virginia,False,0.0,65.0
+746,Ramona,Tennessee,4.0,Purdue,False,0.0,65.0
+747,Ramona,N. Carolina,4.0,Auburn,False,0.0,65.0
+748,Ramona,Kentucky,4.0,Kentucky,True,4.0,65.0
+749,Ramona,Duke,8.0,Michigan St.,False,0.0,65.0
+750,Ramona,Michigan,8.0,Texas Tech,False,0.0,65.0
+751,Ramona,Tennessee,8.0,Virginia,False,0.0,65.0
+752,Ramona,N. Carolina,8.0,Auburn,False,0.0,65.0
+753,Ramona,Duke,16.0,0,False,0.0,65.0
+754,Ramona,N. Carolina,16.0,0,False,0.0,65.0
+755,Ramona,Duke,32.0,0,False,0.0,65.0
+756,andrew's arbitrary bracket,Duke,1.0,Duke,True,1.0,77.0
+757,andrew's arbitrary bracket,UCF,1.0,UCF,True,1.0,77.0
+758,andrew's arbitrary bracket,Mississippi St.,1.0,Liberty,False,0.0,77.0
+759,andrew's arbitrary bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,77.0
+760,andrew's arbitrary bracket,Maryland,1.0,Maryland,True,1.0,77.0
+761,andrew's arbitrary bracket,LSU,1.0,LSU,True,1.0,77.0
+762,andrew's arbitrary bracket,Louisville,1.0,Minnesota,False,0.0,77.0
+763,andrew's arbitrary bracket,Michigan St.,1.0,Michigan St.,True,1.0,77.0
+764,andrew's arbitrary bracket,Gonzaga,1.0,Gonzaga,True,1.0,77.0
+765,andrew's arbitrary bracket,Baylor,1.0,Baylor,True,1.0,77.0
+766,andrew's arbitrary bracket,Marquette,1.0,Murray St.,False,0.0,77.0
+767,andrew's arbitrary bracket,Florida St.,1.0,Florida St.,True,1.0,77.0
+768,andrew's arbitrary bracket,Buffalo,1.0,Buffalo,True,1.0,77.0
+769,andrew's arbitrary bracket,Texas Tech,1.0,Texas Tech,True,1.0,77.0
+770,andrew's arbitrary bracket,Florida,1.0,Florida,True,1.0,77.0
+771,andrew's arbitrary bracket,Michigan,1.0,Michigan,True,1.0,77.0
+772,andrew's arbitrary bracket,Virginia,1.0,Virginia,True,1.0,77.0
+773,andrew's arbitrary bracket,Oklahoma,1.0,Oklahoma,True,1.0,77.0
+774,andrew's arbitrary bracket,Wisconsin,1.0,Oregon,False,0.0,77.0
+775,andrew's arbitrary bracket,Kansas St.,1.0,UC Irvine,False,0.0,77.0
+776,andrew's arbitrary bracket,Villanova,1.0,Villanova,True,1.0,77.0
+777,andrew's arbitrary bracket,Purdue,1.0,Purdue,True,1.0,77.0
+778,andrew's arbitrary bracket,Iowa,1.0,Iowa,True,1.0,77.0
+779,andrew's arbitrary bracket,Tennessee,1.0,Tennessee,True,1.0,77.0
+780,andrew's arbitrary bracket,N. Carolina,1.0,N. Carolina,True,1.0,77.0
+781,andrew's arbitrary bracket,Washington,1.0,Washington,True,1.0,77.0
+782,andrew's arbitrary bracket,N. Mex. St.,1.0,Auburn,False,0.0,77.0
+783,andrew's arbitrary bracket,Kansas,1.0,Kansas,True,1.0,77.0
+784,andrew's arbitrary bracket,Ohio St.,1.0,Ohio St.,True,1.0,77.0
+785,andrew's arbitrary bracket,Houston,1.0,Houston,True,1.0,77.0
+786,andrew's arbitrary bracket,Seton Hall,1.0,Wofford,False,0.0,77.0
+787,andrew's arbitrary bracket,Kentucky,1.0,Kentucky,True,1.0,77.0
+788,andrew's arbitrary bracket,Duke,2.0,Duke,True,2.0,77.0
+789,andrew's arbitrary bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,77.0
+790,andrew's arbitrary bracket,Maryland,2.0,LSU,False,0.0,77.0
+791,andrew's arbitrary bracket,Michigan St.,2.0,Michigan St.,True,2.0,77.0
+792,andrew's arbitrary bracket,Gonzaga,2.0,Gonzaga,True,2.0,77.0
+793,andrew's arbitrary bracket,Florida St.,2.0,Florida St.,True,2.0,77.0
+794,andrew's arbitrary bracket,Texas Tech,2.0,Texas Tech,True,2.0,77.0
+795,andrew's arbitrary bracket,Michigan,2.0,Michigan,True,2.0,77.0
+796,andrew's arbitrary bracket,Virginia,2.0,Virginia,True,2.0,77.0
+797,andrew's arbitrary bracket,Kansas St.,2.0,Oregon,False,0.0,77.0
+798,andrew's arbitrary bracket,Villanova,2.0,Purdue,False,0.0,77.0
+799,andrew's arbitrary bracket,Tennessee,2.0,Tennessee,True,2.0,77.0
+800,andrew's arbitrary bracket,N. Carolina,2.0,N. Carolina,True,2.0,77.0
+801,andrew's arbitrary bracket,Kansas,2.0,Auburn,False,0.0,77.0
+802,andrew's arbitrary bracket,Houston,2.0,Houston,True,2.0,77.0
+803,andrew's arbitrary bracket,Kentucky,2.0,Kentucky,True,2.0,77.0
+804,andrew's arbitrary bracket,Duke,4.0,Duke,True,4.0,77.0
+805,andrew's arbitrary bracket,Michigan St.,4.0,Michigan St.,True,4.0,77.0
+806,andrew's arbitrary bracket,Gonzaga,4.0,Gonzaga,True,4.0,77.0
+807,andrew's arbitrary bracket,Michigan,4.0,Texas Tech,False,0.0,77.0
+808,andrew's arbitrary bracket,Virginia,4.0,Virginia,True,4.0,77.0
+809,andrew's arbitrary bracket,Villanova,4.0,Purdue,False,0.0,77.0
+810,andrew's arbitrary bracket,N. Carolina,4.0,Auburn,False,0.0,77.0
+811,andrew's arbitrary bracket,Kentucky,4.0,Kentucky,True,4.0,77.0
+812,andrew's arbitrary bracket,Duke,8.0,Michigan St.,False,0.0,77.0
+813,andrew's arbitrary bracket,Gonzaga,8.0,Texas Tech,False,0.0,77.0
+814,andrew's arbitrary bracket,Virginia,8.0,Virginia,True,8.0,77.0
+815,andrew's arbitrary bracket,N. Carolina,8.0,Auburn,False,0.0,77.0
+816,andrew's arbitrary bracket,Duke,16.0,0,False,0.0,77.0
+817,andrew's arbitrary bracket,Virginia,16.0,0,False,0.0,77.0
+818,andrew's arbitrary bracket,Duke,32.0,0,False,0.0,77.0
+819,John the leprechaun,Duke,1.0,Duke,True,1.0,60.0
+820,John the leprechaun,UCF,1.0,UCF,True,1.0,60.0
+821,John the leprechaun,Mississippi St.,1.0,Liberty,False,0.0,60.0
+822,John the leprechaun,Virginia Tech,1.0,Virginia Tech,True,1.0,60.0
+823,John the leprechaun,Maryland,1.0,Maryland,True,1.0,60.0
+824,John the leprechaun,LSU,1.0,LSU,True,1.0,60.0
+825,John the leprechaun,Minnesota,1.0,Minnesota,True,1.0,60.0
+826,John the leprechaun,Michigan St.,1.0,Michigan St.,True,1.0,60.0
+827,John the leprechaun,Gonzaga,1.0,Gonzaga,True,1.0,60.0
+828,John the leprechaun,Syracuse,1.0,Baylor,False,0.0,60.0
+829,John the leprechaun,Murray St.,1.0,Murray St.,True,1.0,60.0
+830,John the leprechaun,Florida St.,1.0,Florida St.,True,1.0,60.0
+831,John the leprechaun,Buffalo,1.0,Buffalo,True,1.0,60.0
+832,John the leprechaun,Texas Tech,1.0,Texas Tech,True,1.0,60.0
+833,John the leprechaun,Nevada,1.0,Florida,False,0.0,60.0
+834,John the leprechaun,Michigan,1.0,Michigan,True,1.0,60.0
+835,John the leprechaun,Virginia,1.0,Virginia,True,1.0,60.0
+836,John the leprechaun,Mississippi,1.0,Oklahoma,False,0.0,60.0
+837,John the leprechaun,Wisconsin,1.0,Oregon,False,0.0,60.0
+838,John the leprechaun,UC Irvine,1.0,UC Irvine,True,1.0,60.0
+839,John the leprechaun,Villanova,1.0,Villanova,True,1.0,60.0
+840,John the leprechaun,Purdue,1.0,Purdue,True,1.0,60.0
+841,John the leprechaun,Iowa,1.0,Iowa,True,1.0,60.0
+842,John the leprechaun,Tennessee,1.0,Tennessee,True,1.0,60.0
+843,John the leprechaun,N. Carolina,1.0,N. Carolina,True,1.0,60.0
+844,John the leprechaun,Utah St.,1.0,Washington,False,0.0,60.0
+845,John the leprechaun,N. Mex. St.,1.0,Auburn,False,0.0,60.0
+846,John the leprechaun,Kansas,1.0,Kansas,True,1.0,60.0
+847,John the leprechaun,Iowa St.,1.0,Ohio St.,False,0.0,60.0
+848,John the leprechaun,Houston,1.0,Houston,True,1.0,60.0
+849,John the leprechaun,Wofford,1.0,Wofford,True,1.0,60.0
+850,John the leprechaun,Kentucky,1.0,Kentucky,True,1.0,60.0
+851,John the leprechaun,Duke,2.0,Duke,True,2.0,60.0
+852,John the leprechaun,Virginia Tech,2.0,Virginia Tech,True,2.0,60.0
+853,John the leprechaun,Maryland,2.0,LSU,False,0.0,60.0
+854,John the leprechaun,Michigan St.,2.0,Michigan St.,True,2.0,60.0
+855,John the leprechaun,Gonzaga,2.0,Gonzaga,True,2.0,60.0
+856,John the leprechaun,Florida St.,2.0,Florida St.,True,2.0,60.0
+857,John the leprechaun,Texas Tech,2.0,Texas Tech,True,2.0,60.0
+858,John the leprechaun,Nevada,2.0,Michigan,False,0.0,60.0
+859,John the leprechaun,Virginia,2.0,Virginia,True,2.0,60.0
+860,John the leprechaun,UC Irvine,2.0,Oregon,False,0.0,60.0
+861,John the leprechaun,Purdue,2.0,Purdue,True,2.0,60.0
+862,John the leprechaun,Tennessee,2.0,Tennessee,True,2.0,60.0
+863,John the leprechaun,N. Carolina,2.0,N. Carolina,True,2.0,60.0
+864,John the leprechaun,N. Mex. St.,2.0,Auburn,False,0.0,60.0
+865,John the leprechaun,Houston,2.0,Houston,True,2.0,60.0
+866,John the leprechaun,Kentucky,2.0,Kentucky,True,2.0,60.0
+867,John the leprechaun,Duke,4.0,Duke,True,4.0,60.0
+868,John the leprechaun,Michigan St.,4.0,Michigan St.,True,4.0,60.0
+869,John the leprechaun,Florida St.,4.0,Gonzaga,False,0.0,60.0
+870,John the leprechaun,Nevada,4.0,Texas Tech,False,0.0,60.0
+871,John the leprechaun,Virginia,4.0,Virginia,True,4.0,60.0
+872,John the leprechaun,Tennessee,4.0,Purdue,False,0.0,60.0
+873,John the leprechaun,N. Carolina,4.0,Auburn,False,0.0,60.0
+874,John the leprechaun,Houston,4.0,Kentucky,False,0.0,60.0
+875,John the leprechaun,Duke,8.0,Michigan St.,False,0.0,60.0
+876,John the leprechaun,Florida St.,8.0,Texas Tech,False,0.0,60.0
+877,John the leprechaun,Tennessee,8.0,Virginia,False,0.0,60.0
+878,John the leprechaun,N. Carolina,8.0,Auburn,False,0.0,60.0
+879,John the leprechaun,Duke,16.0,0,False,0.0,60.0
+880,John the leprechaun,Tennessee,16.0,0,False,0.0,60.0
+881,John the leprechaun,Tennessee,32.0,0,False,0.0,60.0
+882,Sukhi,Duke,1.0,Duke,True,1.0,76.0
+883,Sukhi,VCU,1.0,UCF,False,0.0,76.0
+884,Sukhi,Mississippi St.,1.0,Liberty,False,0.0,76.0
+885,Sukhi,Virginia Tech,1.0,Virginia Tech,True,1.0,76.0
+886,Sukhi,Belmont,1.0,Maryland,False,0.0,76.0
+887,Sukhi,LSU,1.0,LSU,True,1.0,76.0
+888,Sukhi,Louisville,1.0,Minnesota,False,0.0,76.0
+889,Sukhi,Michigan St.,1.0,Michigan St.,True,1.0,76.0
+890,Sukhi,Gonzaga,1.0,Gonzaga,True,1.0,76.0
+891,Sukhi,Baylor,1.0,Baylor,True,1.0,76.0
+892,Sukhi,Murray St.,1.0,Murray St.,True,1.0,76.0
+893,Sukhi,Florida St.,1.0,Florida St.,True,1.0,76.0
+894,Sukhi,Buffalo,1.0,Buffalo,True,1.0,76.0
+895,Sukhi,Texas Tech,1.0,Texas Tech,True,1.0,76.0
+896,Sukhi,Florida,1.0,Florida,True,1.0,76.0
+897,Sukhi,Michigan,1.0,Michigan,True,1.0,76.0
+898,Sukhi,Virginia,1.0,Virginia,True,1.0,76.0
+899,Sukhi,Oklahoma,1.0,Oklahoma,True,1.0,76.0
+900,Sukhi,Wisconsin,1.0,Oregon,False,0.0,76.0
+901,Sukhi,Kansas St.,1.0,UC Irvine,False,0.0,76.0
+902,Sukhi,Villanova,1.0,Villanova,True,1.0,76.0
+903,Sukhi,Purdue,1.0,Purdue,True,1.0,76.0
+904,Sukhi,Cincinnati,1.0,Iowa,False,0.0,76.0
+905,Sukhi,Tennessee,1.0,Tennessee,True,1.0,76.0
+906,Sukhi,N. Carolina,1.0,N. Carolina,True,1.0,76.0
+907,Sukhi,Utah St.,1.0,Washington,False,0.0,76.0
+908,Sukhi,Auburn,1.0,Auburn,True,1.0,76.0
+909,Sukhi,Kansas,1.0,Kansas,True,1.0,76.0
+910,Sukhi,Iowa St.,1.0,Ohio St.,False,0.0,76.0
+911,Sukhi,Houston,1.0,Houston,True,1.0,76.0
+912,Sukhi,Seton Hall,1.0,Wofford,False,0.0,76.0
+913,Sukhi,Kentucky,1.0,Kentucky,True,1.0,76.0
+914,Sukhi,Duke,2.0,Duke,True,2.0,76.0
+915,Sukhi,Virginia Tech,2.0,Virginia Tech,True,2.0,76.0
+916,Sukhi,Belmont,2.0,LSU,False,0.0,76.0
+917,Sukhi,Michigan St.,2.0,Michigan St.,True,2.0,76.0
+918,Sukhi,Gonzaga,2.0,Gonzaga,True,2.0,76.0
+919,Sukhi,Florida St.,2.0,Florida St.,True,2.0,76.0
+920,Sukhi,Texas Tech,2.0,Texas Tech,True,2.0,76.0
+921,Sukhi,Michigan,2.0,Michigan,True,2.0,76.0
+922,Sukhi,Virginia,2.0,Virginia,True,2.0,76.0
+923,Sukhi,Kansas St.,2.0,Oregon,False,0.0,76.0
+924,Sukhi,Purdue,2.0,Purdue,True,2.0,76.0
+925,Sukhi,Tennessee,2.0,Tennessee,True,2.0,76.0
+926,Sukhi,N. Carolina,2.0,N. Carolina,True,2.0,76.0
+927,Sukhi,Kansas,2.0,Auburn,False,0.0,76.0
+928,Sukhi,Houston,2.0,Houston,True,2.0,76.0
+929,Sukhi,Kentucky,2.0,Kentucky,True,2.0,76.0
+930,Sukhi,Duke,4.0,Duke,True,4.0,76.0
+931,Sukhi,Michigan St.,4.0,Michigan St.,True,4.0,76.0
+932,Sukhi,Gonzaga,4.0,Gonzaga,True,4.0,76.0
+933,Sukhi,Michigan,4.0,Texas Tech,False,0.0,76.0
+934,Sukhi,Virginia,4.0,Virginia,True,4.0,76.0
+935,Sukhi,Tennessee,4.0,Purdue,False,0.0,76.0
+936,Sukhi,N. Carolina,4.0,Auburn,False,0.0,76.0
+937,Sukhi,Kentucky,4.0,Kentucky,True,4.0,76.0
+938,Sukhi,Duke,8.0,Michigan St.,False,0.0,76.0
+939,Sukhi,Michigan,8.0,Texas Tech,False,0.0,76.0
+940,Sukhi,Virginia,8.0,Virginia,True,8.0,76.0
+941,Sukhi,Kentucky,8.0,Auburn,False,0.0,76.0
+942,Sukhi,Duke,16.0,0,False,0.0,76.0
+943,Sukhi,Virginia,16.0,0,False,0.0,76.0
+944,Sukhi,Virginia,32.0,0,False,0.0,76.0
+945,Jarielle Lescarnacion,Duke,1.0,Duke,True,1.0,80.0
+946,Jarielle Lescarnacion,UCF,1.0,UCF,True,1.0,80.0
+947,Jarielle Lescarnacion,Mississippi St.,1.0,Liberty,False,0.0,80.0
+948,Jarielle Lescarnacion,Virginia Tech,1.0,Virginia Tech,True,1.0,80.0
+949,Jarielle Lescarnacion,Maryland,1.0,Maryland,True,1.0,80.0
+950,Jarielle Lescarnacion,LSU,1.0,LSU,True,1.0,80.0
+951,Jarielle Lescarnacion,Louisville,1.0,Minnesota,False,0.0,80.0
+952,Jarielle Lescarnacion,Michigan St.,1.0,Michigan St.,True,1.0,80.0
+953,Jarielle Lescarnacion,Gonzaga,1.0,Gonzaga,True,1.0,80.0
+954,Jarielle Lescarnacion,Syracuse,1.0,Baylor,False,0.0,80.0
+955,Jarielle Lescarnacion,Marquette,1.0,Murray St.,False,0.0,80.0
+956,Jarielle Lescarnacion,Florida St.,1.0,Florida St.,True,1.0,80.0
+957,Jarielle Lescarnacion,Buffalo,1.0,Buffalo,True,1.0,80.0
+958,Jarielle Lescarnacion,Texas Tech,1.0,Texas Tech,True,1.0,80.0
+959,Jarielle Lescarnacion,Florida,1.0,Florida,True,1.0,80.0
+960,Jarielle Lescarnacion,Michigan,1.0,Michigan,True,1.0,80.0
+961,Jarielle Lescarnacion,Virginia,1.0,Virginia,True,1.0,80.0
+962,Jarielle Lescarnacion,Oklahoma,1.0,Oklahoma,True,1.0,80.0
+963,Jarielle Lescarnacion,Wisconsin,1.0,Oregon,False,0.0,80.0
+964,Jarielle Lescarnacion,Kansas St.,1.0,UC Irvine,False,0.0,80.0
+965,Jarielle Lescarnacion,Villanova,1.0,Villanova,True,1.0,80.0
+966,Jarielle Lescarnacion,Purdue,1.0,Purdue,True,1.0,80.0
+967,Jarielle Lescarnacion,Cincinnati,1.0,Iowa,False,0.0,80.0
+968,Jarielle Lescarnacion,Tennessee,1.0,Tennessee,True,1.0,80.0
+969,Jarielle Lescarnacion,N. Carolina,1.0,N. Carolina,True,1.0,80.0
+970,Jarielle Lescarnacion,Washington,1.0,Washington,True,1.0,80.0
+971,Jarielle Lescarnacion,Auburn,1.0,Auburn,True,1.0,80.0
+972,Jarielle Lescarnacion,Kansas,1.0,Kansas,True,1.0,80.0
+973,Jarielle Lescarnacion,Iowa St.,1.0,Ohio St.,False,0.0,80.0
+974,Jarielle Lescarnacion,Houston,1.0,Houston,True,1.0,80.0
+975,Jarielle Lescarnacion,Wofford,1.0,Wofford,True,1.0,80.0
+976,Jarielle Lescarnacion,Kentucky,1.0,Kentucky,True,1.0,80.0
+977,Jarielle Lescarnacion,Duke,2.0,Duke,True,2.0,80.0
+978,Jarielle Lescarnacion,Virginia Tech,2.0,Virginia Tech,True,2.0,80.0
+979,Jarielle Lescarnacion,Maryland,2.0,LSU,False,0.0,80.0
+980,Jarielle Lescarnacion,Michigan St.,2.0,Michigan St.,True,2.0,80.0
+981,Jarielle Lescarnacion,Gonzaga,2.0,Gonzaga,True,2.0,80.0
+982,Jarielle Lescarnacion,Florida St.,2.0,Florida St.,True,2.0,80.0
+983,Jarielle Lescarnacion,Texas Tech,2.0,Texas Tech,True,2.0,80.0
+984,Jarielle Lescarnacion,Michigan,2.0,Michigan,True,2.0,80.0
+985,Jarielle Lescarnacion,Virginia,2.0,Virginia,True,2.0,80.0
+986,Jarielle Lescarnacion,Wisconsin,2.0,Oregon,False,0.0,80.0
+987,Jarielle Lescarnacion,Villanova,2.0,Purdue,False,0.0,80.0
+988,Jarielle Lescarnacion,Tennessee,2.0,Tennessee,True,2.0,80.0
+989,Jarielle Lescarnacion,N. Carolina,2.0,N. Carolina,True,2.0,80.0
+990,Jarielle Lescarnacion,Auburn,2.0,Auburn,True,2.0,80.0
+991,Jarielle Lescarnacion,Iowa St.,2.0,Houston,False,0.0,80.0
+992,Jarielle Lescarnacion,Kentucky,2.0,Kentucky,True,2.0,80.0
+993,Jarielle Lescarnacion,Duke,4.0,Duke,True,4.0,80.0
+994,Jarielle Lescarnacion,Michigan St.,4.0,Michigan St.,True,4.0,80.0
+995,Jarielle Lescarnacion,Gonzaga,4.0,Gonzaga,True,4.0,80.0
+996,Jarielle Lescarnacion,Texas Tech,4.0,Texas Tech,True,4.0,80.0
+997,Jarielle Lescarnacion,Virginia,4.0,Virginia,True,4.0,80.0
+998,Jarielle Lescarnacion,Tennessee,4.0,Purdue,False,0.0,80.0
+999,Jarielle Lescarnacion,N. Carolina,4.0,Auburn,False,0.0,80.0
+1000,Jarielle Lescarnacion,Kentucky,4.0,Kentucky,True,4.0,80.0
+1001,Jarielle Lescarnacion,Duke,8.0,Michigan St.,False,0.0,80.0
+1002,Jarielle Lescarnacion,Gonzaga,8.0,Texas Tech,False,0.0,80.0
+1003,Jarielle Lescarnacion,Virginia,8.0,Virginia,True,8.0,80.0
+1004,Jarielle Lescarnacion,Kentucky,8.0,Auburn,False,0.0,80.0
+1005,Jarielle Lescarnacion,Duke,16.0,0,False,0.0,80.0
+1006,Jarielle Lescarnacion,Virginia,16.0,0,False,0.0,80.0
+1007,Jarielle Lescarnacion,Duke,32.0,0,False,0.0,80.0
+1008,Luther Vandross,Duke,1.0,Duke,True,1.0,71.0
+1009,Luther Vandross,VCU,1.0,UCF,False,0.0,71.0
+1010,Luther Vandross,Liberty,1.0,Liberty,True,1.0,71.0
+1011,Luther Vandross,Virginia Tech,1.0,Virginia Tech,True,1.0,71.0
+1012,Luther Vandross,Belmont,1.0,Maryland,False,0.0,71.0
+1013,Luther Vandross,Yale,1.0,LSU,False,0.0,71.0
+1014,Luther Vandross,Louisville,1.0,Minnesota,False,0.0,71.0
+1015,Luther Vandross,Michigan St.,1.0,Michigan St.,True,1.0,71.0
+1016,Luther Vandross,Gonzaga,1.0,Gonzaga,True,1.0,71.0
+1017,Luther Vandross,Syracuse,1.0,Baylor,False,0.0,71.0
+1018,Luther Vandross,Murray St.,1.0,Murray St.,True,1.0,71.0
+1019,Luther Vandross,Florida St.,1.0,Florida St.,True,1.0,71.0
+1020,Luther Vandross,Buffalo,1.0,Buffalo,True,1.0,71.0
+1021,Luther Vandross,Texas Tech,1.0,Texas Tech,True,1.0,71.0
+1022,Luther Vandross,Florida,1.0,Florida,True,1.0,71.0
+1023,Luther Vandross,Michigan,1.0,Michigan,True,1.0,71.0
+1024,Luther Vandross,Virginia,1.0,Virginia,True,1.0,71.0
+1025,Luther Vandross,Mississippi,1.0,Oklahoma,False,0.0,71.0
+1026,Luther Vandross,Oregon,1.0,Oregon,True,1.0,71.0
+1027,Luther Vandross,Kansas St.,1.0,UC Irvine,False,0.0,71.0
+1028,Luther Vandross,St. Mary's,1.0,Villanova,False,0.0,71.0
+1029,Luther Vandross,Purdue,1.0,Purdue,True,1.0,71.0
+1030,Luther Vandross,Cincinnati,1.0,Iowa,False,0.0,71.0
+1031,Luther Vandross,Tennessee,1.0,Tennessee,True,1.0,71.0
+1032,Luther Vandross,N. Carolina,1.0,N. Carolina,True,1.0,71.0
+1033,Luther Vandross,Utah St.,1.0,Washington,False,0.0,71.0
+1034,Luther Vandross,Auburn,1.0,Auburn,True,1.0,71.0
+1035,Luther Vandross,Kansas,1.0,Kansas,True,1.0,71.0
+1036,Luther Vandross,Iowa St.,1.0,Ohio St.,False,0.0,71.0
+1037,Luther Vandross,Houston,1.0,Houston,True,1.0,71.0
+1038,Luther Vandross,Wofford,1.0,Wofford,True,1.0,71.0
+1039,Luther Vandross,Kentucky,1.0,Kentucky,True,1.0,71.0
+1040,Luther Vandross,Duke,2.0,Duke,True,2.0,71.0
+1041,Luther Vandross,Virginia Tech,2.0,Virginia Tech,True,2.0,71.0
+1042,Luther Vandross,Belmont,2.0,LSU,False,0.0,71.0
+1043,Luther Vandross,Michigan St.,2.0,Michigan St.,True,2.0,71.0
+1044,Luther Vandross,Gonzaga,2.0,Gonzaga,True,2.0,71.0
+1045,Luther Vandross,Florida St.,2.0,Florida St.,True,2.0,71.0
+1046,Luther Vandross,Texas Tech,2.0,Texas Tech,True,2.0,71.0
+1047,Luther Vandross,Michigan,2.0,Michigan,True,2.0,71.0
+1048,Luther Vandross,Virginia,2.0,Virginia,True,2.0,71.0
+1049,Luther Vandross,Kansas St.,2.0,Oregon,False,0.0,71.0
+1050,Luther Vandross,Purdue,2.0,Purdue,True,2.0,71.0
+1051,Luther Vandross,Tennessee,2.0,Tennessee,True,2.0,71.0
+1052,Luther Vandross,N. Carolina,2.0,N. Carolina,True,2.0,71.0
+1053,Luther Vandross,Auburn,2.0,Auburn,True,2.0,71.0
+1054,Luther Vandross,Iowa St.,2.0,Houston,False,0.0,71.0
+1055,Luther Vandross,Kentucky,2.0,Kentucky,True,2.0,71.0
+1056,Luther Vandross,Duke,4.0,Duke,True,4.0,71.0
+1057,Luther Vandross,Michigan St.,4.0,Michigan St.,True,4.0,71.0
+1058,Luther Vandross,Gonzaga,4.0,Gonzaga,True,4.0,71.0
+1059,Luther Vandross,Texas Tech,4.0,Texas Tech,True,4.0,71.0
+1060,Luther Vandross,Virginia,4.0,Virginia,True,4.0,71.0
+1061,Luther Vandross,Tennessee,4.0,Purdue,False,0.0,71.0
+1062,Luther Vandross,N. Carolina,4.0,Auburn,False,0.0,71.0
+1063,Luther Vandross,Kentucky,4.0,Kentucky,True,4.0,71.0
+1064,Luther Vandross,Duke,8.0,Michigan St.,False,0.0,71.0
+1065,Luther Vandross,Gonzaga,8.0,Texas Tech,False,0.0,71.0
+1066,Luther Vandross,Tennessee,8.0,Virginia,False,0.0,71.0
+1067,Luther Vandross,N. Carolina,8.0,Auburn,False,0.0,71.0
+1068,Luther Vandross,Duke,16.0,0,False,0.0,71.0
+1069,Luther Vandross,N. Carolina,16.0,0,False,0.0,71.0
+1070,Luther Vandross,N. Carolina,32.0,0,False,0.0,71.0
+1071,why am i screaming,Duke,1.0,Duke,True,1.0,83.0
+1072,why am i screaming,VCU,1.0,UCF,False,0.0,83.0
+1073,why am i screaming,Mississippi St.,1.0,Liberty,False,0.0,83.0
+1074,why am i screaming,Virginia Tech,1.0,Virginia Tech,True,1.0,83.0
+1075,why am i screaming,Belmont,1.0,Maryland,False,0.0,83.0
+1076,why am i screaming,LSU,1.0,LSU,True,1.0,83.0
+1077,why am i screaming,Louisville,1.0,Minnesota,False,0.0,83.0
+1078,why am i screaming,Michigan St.,1.0,Michigan St.,True,1.0,83.0
+1079,why am i screaming,Gonzaga,1.0,Gonzaga,True,1.0,83.0
+1080,why am i screaming,Syracuse,1.0,Baylor,False,0.0,83.0
+1081,why am i screaming,Marquette,1.0,Murray St.,False,0.0,83.0
+1082,why am i screaming,Florida St.,1.0,Florida St.,True,1.0,83.0
+1083,why am i screaming,Arizona St.,1.0,Buffalo,False,0.0,83.0
+1084,why am i screaming,Texas Tech,1.0,Texas Tech,True,1.0,83.0
+1085,why am i screaming,Nevada,1.0,Florida,False,0.0,83.0
+1086,why am i screaming,Michigan,1.0,Michigan,True,1.0,83.0
+1087,why am i screaming,Virginia,1.0,Virginia,True,1.0,83.0
+1088,why am i screaming,Oklahoma,1.0,Oklahoma,True,1.0,83.0
+1089,why am i screaming,Wisconsin,1.0,Oregon,False,0.0,83.0
+1090,why am i screaming,Kansas St.,1.0,UC Irvine,False,0.0,83.0
+1091,why am i screaming,Villanova,1.0,Villanova,True,1.0,83.0
+1092,why am i screaming,Purdue,1.0,Purdue,True,1.0,83.0
+1093,why am i screaming,Cincinnati,1.0,Iowa,False,0.0,83.0
+1094,why am i screaming,Tennessee,1.0,Tennessee,True,1.0,83.0
+1095,why am i screaming,N. Carolina,1.0,N. Carolina,True,1.0,83.0
+1096,why am i screaming,Utah St.,1.0,Washington,False,0.0,83.0
+1097,why am i screaming,Auburn,1.0,Auburn,True,1.0,83.0
+1098,why am i screaming,Kansas,1.0,Kansas,True,1.0,83.0
+1099,why am i screaming,Iowa St.,1.0,Ohio St.,False,0.0,83.0
+1100,why am i screaming,Houston,1.0,Houston,True,1.0,83.0
+1101,why am i screaming,Wofford,1.0,Wofford,True,1.0,83.0
+1102,why am i screaming,Kentucky,1.0,Kentucky,True,1.0,83.0
+1103,why am i screaming,Duke,2.0,Duke,True,2.0,83.0
+1104,why am i screaming,Virginia Tech,2.0,Virginia Tech,True,2.0,83.0
+1105,why am i screaming,LSU,2.0,LSU,True,2.0,83.0
+1106,why am i screaming,Michigan St.,2.0,Michigan St.,True,2.0,83.0
+1107,why am i screaming,Gonzaga,2.0,Gonzaga,True,2.0,83.0
+1108,why am i screaming,Florida St.,2.0,Florida St.,True,2.0,83.0
+1109,why am i screaming,Texas Tech,2.0,Texas Tech,True,2.0,83.0
+1110,why am i screaming,Michigan,2.0,Michigan,True,2.0,83.0
+1111,why am i screaming,Virginia,2.0,Virginia,True,2.0,83.0
+1112,why am i screaming,Kansas St.,2.0,Oregon,False,0.0,83.0
+1113,why am i screaming,Purdue,2.0,Purdue,True,2.0,83.0
+1114,why am i screaming,Cincinnati,2.0,Tennessee,False,0.0,83.0
+1115,why am i screaming,N. Carolina,2.0,N. Carolina,True,2.0,83.0
+1116,why am i screaming,Auburn,2.0,Auburn,True,2.0,83.0
+1117,why am i screaming,Houston,2.0,Houston,True,2.0,83.0
+1118,why am i screaming,Kentucky,2.0,Kentucky,True,2.0,83.0
+1119,why am i screaming,Duke,4.0,Duke,True,4.0,83.0
+1120,why am i screaming,Michigan St.,4.0,Michigan St.,True,4.0,83.0
+1121,why am i screaming,Gonzaga,4.0,Gonzaga,True,4.0,83.0
+1122,why am i screaming,Texas Tech,4.0,Texas Tech,True,4.0,83.0
+1123,why am i screaming,Virginia,4.0,Virginia,True,4.0,83.0
+1124,why am i screaming,Purdue,4.0,Purdue,True,4.0,83.0
+1125,why am i screaming,N. Carolina,4.0,Auburn,False,0.0,83.0
+1126,why am i screaming,Kentucky,4.0,Kentucky,True,4.0,83.0
+1127,why am i screaming,Duke,8.0,Michigan St.,False,0.0,83.0
+1128,why am i screaming,Gonzaga,8.0,Texas Tech,False,0.0,83.0
+1129,why am i screaming,Virginia,8.0,Virginia,True,8.0,83.0
+1130,why am i screaming,Kentucky,8.0,Auburn,False,0.0,83.0
+1131,why am i screaming,Gonzaga,16.0,0,False,0.0,83.0
+1132,why am i screaming,Virginia,16.0,0,False,0.0,83.0
+1133,why am i screaming,Gonzaga,32.0,0,False,0.0,83.0
+1134,Psychic Powers,Duke,1.0,Duke,True,1.0,67.0
+1135,Psychic Powers,VCU,1.0,UCF,False,0.0,67.0
+1136,Psychic Powers,Liberty,1.0,Liberty,True,1.0,67.0
+1137,Psychic Powers,Virginia Tech,1.0,Virginia Tech,True,1.0,67.0
+1138,Psychic Powers,Maryland,1.0,Maryland,True,1.0,67.0
+1139,Psychic Powers,LSU,1.0,LSU,True,1.0,67.0
+1140,Psychic Powers,Louisville,1.0,Minnesota,False,0.0,67.0
+1141,Psychic Powers,Michigan St.,1.0,Michigan St.,True,1.0,67.0
+1142,Psychic Powers,Gonzaga,1.0,Gonzaga,True,1.0,67.0
+1143,Psychic Powers,Baylor,1.0,Baylor,True,1.0,67.0
+1144,Psychic Powers,Murray St.,1.0,Murray St.,True,1.0,67.0
+1145,Psychic Powers,Florida St.,1.0,Florida St.,True,1.0,67.0
+1146,Psychic Powers,Arizona St.,1.0,Buffalo,False,0.0,67.0
+1147,Psychic Powers,Texas Tech,1.0,Texas Tech,True,1.0,67.0
+1148,Psychic Powers,Nevada,1.0,Florida,False,0.0,67.0
+1149,Psychic Powers,Michigan,1.0,Michigan,True,1.0,67.0
+1150,Psychic Powers,Virginia,1.0,Virginia,True,1.0,67.0
+1151,Psychic Powers,Mississippi,1.0,Oklahoma,False,0.0,67.0
+1152,Psychic Powers,Wisconsin,1.0,Oregon,False,0.0,67.0
+1153,Psychic Powers,Kansas St.,1.0,UC Irvine,False,0.0,67.0
+1154,Psychic Powers,Villanova,1.0,Villanova,True,1.0,67.0
+1155,Psychic Powers,Purdue,1.0,Purdue,True,1.0,67.0
+1156,Psychic Powers,Iowa,1.0,Iowa,True,1.0,67.0
+1157,Psychic Powers,Tennessee,1.0,Tennessee,True,1.0,67.0
+1158,Psychic Powers,N. Carolina,1.0,N. Carolina,True,1.0,67.0
+1159,Psychic Powers,Washington,1.0,Washington,True,1.0,67.0
+1160,Psychic Powers,N. Mex. St.,1.0,Auburn,False,0.0,67.0
+1161,Psychic Powers,Kansas,1.0,Kansas,True,1.0,67.0
+1162,Psychic Powers,Iowa St.,1.0,Ohio St.,False,0.0,67.0
+1163,Psychic Powers,Houston,1.0,Houston,True,1.0,67.0
+1164,Psychic Powers,Wofford,1.0,Wofford,True,1.0,67.0
+1165,Psychic Powers,Kentucky,1.0,Kentucky,True,1.0,67.0
+1166,Psychic Powers,Duke,2.0,Duke,True,2.0,67.0
+1167,Psychic Powers,Virginia Tech,2.0,Virginia Tech,True,2.0,67.0
+1168,Psychic Powers,Maryland,2.0,LSU,False,0.0,67.0
+1169,Psychic Powers,Michigan St.,2.0,Michigan St.,True,2.0,67.0
+1170,Psychic Powers,Gonzaga,2.0,Gonzaga,True,2.0,67.0
+1171,Psychic Powers,Florida St.,2.0,Florida St.,True,2.0,67.0
+1172,Psychic Powers,Texas Tech,2.0,Texas Tech,True,2.0,67.0
+1173,Psychic Powers,Michigan,2.0,Michigan,True,2.0,67.0
+1174,Psychic Powers,Virginia,2.0,Virginia,True,2.0,67.0
+1175,Psychic Powers,Wisconsin,2.0,Oregon,False,0.0,67.0
+1176,Psychic Powers,Villanova,2.0,Purdue,False,0.0,67.0
+1177,Psychic Powers,Tennessee,2.0,Tennessee,True,2.0,67.0
+1178,Psychic Powers,N. Carolina,2.0,N. Carolina,True,2.0,67.0
+1179,Psychic Powers,N. Mex. St.,2.0,Auburn,False,0.0,67.0
+1180,Psychic Powers,Houston,2.0,Houston,True,2.0,67.0
+1181,Psychic Powers,Kentucky,2.0,Kentucky,True,2.0,67.0
+1182,Psychic Powers,Virginia Tech,4.0,Duke,False,0.0,67.0
+1183,Psychic Powers,Michigan St.,4.0,Michigan St.,True,4.0,67.0
+1184,Psychic Powers,Florida St.,4.0,Gonzaga,False,0.0,67.0
+1185,Psychic Powers,Texas Tech,4.0,Texas Tech,True,4.0,67.0
+1186,Psychic Powers,Virginia,4.0,Virginia,True,4.0,67.0
+1187,Psychic Powers,Villanova,4.0,Purdue,False,0.0,67.0
+1188,Psychic Powers,N. Carolina,4.0,Auburn,False,0.0,67.0
+1189,Psychic Powers,Houston,4.0,Kentucky,False,0.0,67.0
+1190,Psychic Powers,Virginia Tech,8.0,Michigan St.,False,0.0,67.0
+1191,Psychic Powers,Texas Tech,8.0,Texas Tech,True,8.0,67.0
+1192,Psychic Powers,Villanova,8.0,Virginia,False,0.0,67.0
+1193,Psychic Powers,N. Carolina,8.0,Auburn,False,0.0,67.0
+1194,Psychic Powers,Texas Tech,16.0,0,False,0.0,67.0
+1195,Psychic Powers,Villanova,16.0,0,False,0.0,67.0
+1196,Psychic Powers,Villanova,32.0,0,False,0.0,67.0
+1197,My Standout Bracket,Duke,1.0,Duke,True,1.0,65.0
+1198,My Standout Bracket,VCU,1.0,UCF,False,0.0,65.0
+1199,My Standout Bracket,Mississippi St.,1.0,Liberty,False,0.0,65.0
+1200,My Standout Bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,65.0
+1201,My Standout Bracket,Belmont,1.0,Maryland,False,0.0,65.0
+1202,My Standout Bracket,Yale,1.0,LSU,False,0.0,65.0
+1203,My Standout Bracket,Louisville,1.0,Minnesota,False,0.0,65.0
+1204,My Standout Bracket,Michigan St.,1.0,Michigan St.,True,1.0,65.0
+1205,My Standout Bracket,Gonzaga,1.0,Gonzaga,True,1.0,65.0
+1206,My Standout Bracket,Baylor,1.0,Baylor,True,1.0,65.0
+1207,My Standout Bracket,Marquette,1.0,Murray St.,False,0.0,65.0
+1208,My Standout Bracket,Florida St.,1.0,Florida St.,True,1.0,65.0
+1209,My Standout Bracket,Buffalo,1.0,Buffalo,True,1.0,65.0
+1210,My Standout Bracket,Texas Tech,1.0,Texas Tech,True,1.0,65.0
+1211,My Standout Bracket,Nevada,1.0,Florida,False,0.0,65.0
+1212,My Standout Bracket,Michigan,1.0,Michigan,True,1.0,65.0
+1213,My Standout Bracket,Virginia,1.0,Virginia,True,1.0,65.0
+1214,My Standout Bracket,Oklahoma,1.0,Oklahoma,True,1.0,65.0
+1215,My Standout Bracket,Oregon,1.0,Oregon,True,1.0,65.0
+1216,My Standout Bracket,UC Irvine,1.0,UC Irvine,True,1.0,65.0
+1217,My Standout Bracket,Villanova,1.0,Villanova,True,1.0,65.0
+1218,My Standout Bracket,Purdue,1.0,Purdue,True,1.0,65.0
+1219,My Standout Bracket,Iowa,1.0,Iowa,True,1.0,65.0
+1220,My Standout Bracket,Tennessee,1.0,Tennessee,True,1.0,65.0
+1221,My Standout Bracket,N. Carolina,1.0,N. Carolina,True,1.0,65.0
+1222,My Standout Bracket,Utah St.,1.0,Washington,False,0.0,65.0
+1223,My Standout Bracket,Auburn,1.0,Auburn,True,1.0,65.0
+1224,My Standout Bracket,Kansas,1.0,Kansas,True,1.0,65.0
+1225,My Standout Bracket,Iowa St.,1.0,Ohio St.,False,0.0,65.0
+1226,My Standout Bracket,Houston,1.0,Houston,True,1.0,65.0
+1227,My Standout Bracket,Wofford,1.0,Wofford,True,1.0,65.0
+1228,My Standout Bracket,Kentucky,1.0,Kentucky,True,1.0,65.0
+1229,My Standout Bracket,Duke,2.0,Duke,True,2.0,65.0
+1230,My Standout Bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,65.0
+1231,My Standout Bracket,Belmont,2.0,LSU,False,0.0,65.0
+1232,My Standout Bracket,Michigan St.,2.0,Michigan St.,True,2.0,65.0
+1233,My Standout Bracket,Gonzaga,2.0,Gonzaga,True,2.0,65.0
+1234,My Standout Bracket,Marquette,2.0,Florida St.,False,0.0,65.0
+1235,My Standout Bracket,Buffalo,2.0,Texas Tech,False,0.0,65.0
+1236,My Standout Bracket,Michigan,2.0,Michigan,True,2.0,65.0
+1237,My Standout Bracket,Virginia,2.0,Virginia,True,2.0,65.0
+1238,My Standout Bracket,Oregon,2.0,Oregon,True,2.0,65.0
+1239,My Standout Bracket,Villanova,2.0,Purdue,False,0.0,65.0
+1240,My Standout Bracket,Tennessee,2.0,Tennessee,True,2.0,65.0
+1241,My Standout Bracket,N. Carolina,2.0,N. Carolina,True,2.0,65.0
+1242,My Standout Bracket,Kansas,2.0,Auburn,False,0.0,65.0
+1243,My Standout Bracket,Houston,2.0,Houston,True,2.0,65.0
+1244,My Standout Bracket,Kentucky,2.0,Kentucky,True,2.0,65.0
+1245,My Standout Bracket,Duke,4.0,Duke,True,4.0,65.0
+1246,My Standout Bracket,Michigan St.,4.0,Michigan St.,True,4.0,65.0
+1247,My Standout Bracket,Gonzaga,4.0,Gonzaga,True,4.0,65.0
+1248,My Standout Bracket,Buffalo,4.0,Texas Tech,False,0.0,65.0
+1249,My Standout Bracket,Virginia,4.0,Virginia,True,4.0,65.0
+1250,My Standout Bracket,Villanova,4.0,Purdue,False,0.0,65.0
+1251,My Standout Bracket,N. Carolina,4.0,Auburn,False,0.0,65.0
+1252,My Standout Bracket,Kentucky,4.0,Kentucky,True,4.0,65.0
+1253,My Standout Bracket,Duke,8.0,Michigan St.,False,0.0,65.0
+1254,My Standout Bracket,Gonzaga,8.0,Texas Tech,False,0.0,65.0
+1255,My Standout Bracket,Villanova,8.0,Virginia,False,0.0,65.0
+1256,My Standout Bracket,N. Carolina,8.0,Auburn,False,0.0,65.0
+1257,My Standout Bracket,Duke,16.0,0,False,0.0,65.0
+1258,My Standout Bracket,N. Carolina,16.0,0,False,0.0,65.0
+1259,My Standout Bracket,Duke,32.0,0,False,0.0,65.0
+1260,aaron's Swell Bracket,Duke,1.0,Duke,True,1.0,77.0
+1261,aaron's Swell Bracket,VCU,1.0,UCF,False,0.0,77.0
+1262,aaron's Swell Bracket,Liberty,1.0,Liberty,True,1.0,77.0
+1263,aaron's Swell Bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,77.0
+1264,aaron's Swell Bracket,Belmont,1.0,Maryland,False,0.0,77.0
+1265,aaron's Swell Bracket,Yale,1.0,LSU,False,0.0,77.0
+1266,aaron's Swell Bracket,Louisville,1.0,Minnesota,False,0.0,77.0
+1267,aaron's Swell Bracket,Michigan St.,1.0,Michigan St.,True,1.0,77.0
+1268,aaron's Swell Bracket,Gonzaga,1.0,Gonzaga,True,1.0,77.0
+1269,aaron's Swell Bracket,Syracuse,1.0,Baylor,False,0.0,77.0
+1270,aaron's Swell Bracket,Murray St.,1.0,Murray St.,True,1.0,77.0
+1271,aaron's Swell Bracket,Florida St.,1.0,Florida St.,True,1.0,77.0
+1272,aaron's Swell Bracket,Buffalo,1.0,Buffalo,True,1.0,77.0
+1273,aaron's Swell Bracket,Texas Tech,1.0,Texas Tech,True,1.0,77.0
+1274,aaron's Swell Bracket,Nevada,1.0,Florida,False,0.0,77.0
+1275,aaron's Swell Bracket,Michigan,1.0,Michigan,True,1.0,77.0
+1276,aaron's Swell Bracket,Virginia,1.0,Virginia,True,1.0,77.0
+1277,aaron's Swell Bracket,Oklahoma,1.0,Oklahoma,True,1.0,77.0
+1278,aaron's Swell Bracket,Wisconsin,1.0,Oregon,False,0.0,77.0
+1279,aaron's Swell Bracket,Kansas St.,1.0,UC Irvine,False,0.0,77.0
+1280,aaron's Swell Bracket,St. Mary's,1.0,Villanova,False,0.0,77.0
+1281,aaron's Swell Bracket,Purdue,1.0,Purdue,True,1.0,77.0
+1282,aaron's Swell Bracket,Cincinnati,1.0,Iowa,False,0.0,77.0
+1283,aaron's Swell Bracket,Tennessee,1.0,Tennessee,True,1.0,77.0
+1284,aaron's Swell Bracket,N. Carolina,1.0,N. Carolina,True,1.0,77.0
+1285,aaron's Swell Bracket,Utah St.,1.0,Washington,False,0.0,77.0
+1286,aaron's Swell Bracket,Auburn,1.0,Auburn,True,1.0,77.0
+1287,aaron's Swell Bracket,Kansas,1.0,Kansas,True,1.0,77.0
+1288,aaron's Swell Bracket,Iowa St.,1.0,Ohio St.,False,0.0,77.0
+1289,aaron's Swell Bracket,Houston,1.0,Houston,True,1.0,77.0
+1290,aaron's Swell Bracket,Seton Hall,1.0,Wofford,False,0.0,77.0
+1291,aaron's Swell Bracket,Kentucky,1.0,Kentucky,True,1.0,77.0
+1292,aaron's Swell Bracket,Duke,2.0,Duke,True,2.0,77.0
+1293,aaron's Swell Bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,77.0
+1294,aaron's Swell Bracket,Belmont,2.0,LSU,False,0.0,77.0
+1295,aaron's Swell Bracket,Michigan St.,2.0,Michigan St.,True,2.0,77.0
+1296,aaron's Swell Bracket,Gonzaga,2.0,Gonzaga,True,2.0,77.0
+1297,aaron's Swell Bracket,Murray St.,2.0,Florida St.,False,0.0,77.0
+1298,aaron's Swell Bracket,Texas Tech,2.0,Texas Tech,True,2.0,77.0
+1299,aaron's Swell Bracket,Michigan,2.0,Michigan,True,2.0,77.0
+1300,aaron's Swell Bracket,Virginia,2.0,Virginia,True,2.0,77.0
+1301,aaron's Swell Bracket,Wisconsin,2.0,Oregon,False,0.0,77.0
+1302,aaron's Swell Bracket,Purdue,2.0,Purdue,True,2.0,77.0
+1303,aaron's Swell Bracket,Tennessee,2.0,Tennessee,True,2.0,77.0
+1304,aaron's Swell Bracket,N. Carolina,2.0,N. Carolina,True,2.0,77.0
+1305,aaron's Swell Bracket,Auburn,2.0,Auburn,True,2.0,77.0
+1306,aaron's Swell Bracket,Houston,2.0,Houston,True,2.0,77.0
+1307,aaron's Swell Bracket,Kentucky,2.0,Kentucky,True,2.0,77.0
+1308,aaron's Swell Bracket,Duke,4.0,Duke,True,4.0,77.0
+1309,aaron's Swell Bracket,Michigan St.,4.0,Michigan St.,True,4.0,77.0
+1310,aaron's Swell Bracket,Gonzaga,4.0,Gonzaga,True,4.0,77.0
+1311,aaron's Swell Bracket,Texas Tech,4.0,Texas Tech,True,4.0,77.0
+1312,aaron's Swell Bracket,Virginia,4.0,Virginia,True,4.0,77.0
+1313,aaron's Swell Bracket,Tennessee,4.0,Purdue,False,0.0,77.0
+1314,aaron's Swell Bracket,N. Carolina,4.0,Auburn,False,0.0,77.0
+1315,aaron's Swell Bracket,Kentucky,4.0,Kentucky,True,4.0,77.0
+1316,aaron's Swell Bracket,Duke,8.0,Michigan St.,False,0.0,77.0
+1317,aaron's Swell Bracket,Texas Tech,8.0,Texas Tech,True,8.0,77.0
+1318,aaron's Swell Bracket,Tennessee,8.0,Virginia,False,0.0,77.0
+1319,aaron's Swell Bracket,N. Carolina,8.0,Auburn,False,0.0,77.0
+1320,aaron's Swell Bracket,Duke,16.0,0,False,0.0,77.0
+1321,aaron's Swell Bracket,N. Carolina,16.0,0,False,0.0,77.0
+1322,aaron's Swell Bracket,N. Carolina,32.0,0,False,0.0,77.0
+1323,Pepperland,Duke,1.0,Duke,True,1.0,73.0
+1324,Pepperland,VCU,1.0,UCF,False,0.0,73.0
+1325,Pepperland,Mississippi St.,1.0,Liberty,False,0.0,73.0
+1326,Pepperland,Virginia Tech,1.0,Virginia Tech,True,1.0,73.0
+1327,Pepperland,Maryland,1.0,Maryland,True,1.0,73.0
+1328,Pepperland,LSU,1.0,LSU,True,1.0,73.0
+1329,Pepperland,Louisville,1.0,Minnesota,False,0.0,73.0
+1330,Pepperland,Michigan St.,1.0,Michigan St.,True,1.0,73.0
+1331,Pepperland,Gonzaga,1.0,Gonzaga,True,1.0,73.0
+1332,Pepperland,Syracuse,1.0,Baylor,False,0.0,73.0
+1333,Pepperland,Marquette,1.0,Murray St.,False,0.0,73.0
+1334,Pepperland,Florida St.,1.0,Florida St.,True,1.0,73.0
+1335,Pepperland,Buffalo,1.0,Buffalo,True,1.0,73.0
+1336,Pepperland,Texas Tech,1.0,Texas Tech,True,1.0,73.0
+1337,Pepperland,Florida,1.0,Florida,True,1.0,73.0
+1338,Pepperland,Michigan,1.0,Michigan,True,1.0,73.0
+1339,Pepperland,Virginia,1.0,Virginia,True,1.0,73.0
+1340,Pepperland,Oklahoma,1.0,Oklahoma,True,1.0,73.0
+1341,Pepperland,Wisconsin,1.0,Oregon,False,0.0,73.0
+1342,Pepperland,Kansas St.,1.0,UC Irvine,False,0.0,73.0
+1343,Pepperland,Villanova,1.0,Villanova,True,1.0,73.0
+1344,Pepperland,Purdue,1.0,Purdue,True,1.0,73.0
+1345,Pepperland,Cincinnati,1.0,Iowa,False,0.0,73.0
+1346,Pepperland,Tennessee,1.0,Tennessee,True,1.0,73.0
+1347,Pepperland,N. Carolina,1.0,N. Carolina,True,1.0,73.0
+1348,Pepperland,Utah St.,1.0,Washington,False,0.0,73.0
+1349,Pepperland,Auburn,1.0,Auburn,True,1.0,73.0
+1350,Pepperland,Kansas,1.0,Kansas,True,1.0,73.0
+1351,Pepperland,Iowa St.,1.0,Ohio St.,False,0.0,73.0
+1352,Pepperland,Houston,1.0,Houston,True,1.0,73.0
+1353,Pepperland,Seton Hall,1.0,Wofford,False,0.0,73.0
+1354,Pepperland,Kentucky,1.0,Kentucky,True,1.0,73.0
+1355,Pepperland,Duke,2.0,Duke,True,2.0,73.0
+1356,Pepperland,Virginia Tech,2.0,Virginia Tech,True,2.0,73.0
+1357,Pepperland,LSU,2.0,LSU,True,2.0,73.0
+1358,Pepperland,Michigan St.,2.0,Michigan St.,True,2.0,73.0
+1359,Pepperland,Gonzaga,2.0,Gonzaga,True,2.0,73.0
+1360,Pepperland,Marquette,2.0,Florida St.,False,0.0,73.0
+1361,Pepperland,Texas Tech,2.0,Texas Tech,True,2.0,73.0
+1362,Pepperland,Michigan,2.0,Michigan,True,2.0,73.0
+1363,Pepperland,Virginia,2.0,Virginia,True,2.0,73.0
+1364,Pepperland,Wisconsin,2.0,Oregon,False,0.0,73.0
+1365,Pepperland,Villanova,2.0,Purdue,False,0.0,73.0
+1366,Pepperland,Tennessee,2.0,Tennessee,True,2.0,73.0
+1367,Pepperland,N. Carolina,2.0,N. Carolina,True,2.0,73.0
+1368,Pepperland,Auburn,2.0,Auburn,True,2.0,73.0
+1369,Pepperland,Iowa St.,2.0,Houston,False,0.0,73.0
+1370,Pepperland,Kentucky,2.0,Kentucky,True,2.0,73.0
+1371,Pepperland,Duke,4.0,Duke,True,4.0,73.0
+1372,Pepperland,LSU,4.0,Michigan St.,False,0.0,73.0
+1373,Pepperland,Gonzaga,4.0,Gonzaga,True,4.0,73.0
+1374,Pepperland,Texas Tech,4.0,Texas Tech,True,4.0,73.0
+1375,Pepperland,Virginia,4.0,Virginia,True,4.0,73.0
+1376,Pepperland,Tennessee,4.0,Purdue,False,0.0,73.0
+1377,Pepperland,N. Carolina,4.0,Auburn,False,0.0,73.0
+1378,Pepperland,Kentucky,4.0,Kentucky,True,4.0,73.0
+1379,Pepperland,Duke,8.0,Michigan St.,False,0.0,73.0
+1380,Pepperland,Gonzaga,8.0,Texas Tech,False,0.0,73.0
+1381,Pepperland,Virginia,8.0,Virginia,True,8.0,73.0
+1382,Pepperland,N. Carolina,8.0,Auburn,False,0.0,73.0
+1383,Pepperland,Gonzaga,16.0,0,False,0.0,73.0
+1384,Pepperland,Virginia,16.0,0,False,0.0,73.0
+1385,Pepperland,Virginia,32.0,0,False,0.0,73.0
+1386,Chelsea's Battle to a Champ,Duke,1.0,Duke,True,1.0,69.0
+1387,Chelsea's Battle to a Champ,UCF,1.0,UCF,True,1.0,69.0
+1388,Chelsea's Battle to a Champ,Mississippi St.,1.0,Liberty,False,0.0,69.0
+1389,Chelsea's Battle to a Champ,Virginia Tech,1.0,Virginia Tech,True,1.0,69.0
+1390,Chelsea's Battle to a Champ,Maryland,1.0,Maryland,True,1.0,69.0
+1391,Chelsea's Battle to a Champ,LSU,1.0,LSU,True,1.0,69.0
+1392,Chelsea's Battle to a Champ,Louisville,1.0,Minnesota,False,0.0,69.0
+1393,Chelsea's Battle to a Champ,Michigan St.,1.0,Michigan St.,True,1.0,69.0
+1394,Chelsea's Battle to a Champ,Gonzaga,1.0,Gonzaga,True,1.0,69.0
+1395,Chelsea's Battle to a Champ,Syracuse,1.0,Baylor,False,0.0,69.0
+1396,Chelsea's Battle to a Champ,Murray St.,1.0,Murray St.,True,1.0,69.0
+1397,Chelsea's Battle to a Champ,Florida St.,1.0,Florida St.,True,1.0,69.0
+1398,Chelsea's Battle to a Champ,Buffalo,1.0,Buffalo,True,1.0,69.0
+1399,Chelsea's Battle to a Champ,Texas Tech,1.0,Texas Tech,True,1.0,69.0
+1400,Chelsea's Battle to a Champ,Florida,1.0,Florida,True,1.0,69.0
+1401,Chelsea's Battle to a Champ,Michigan,1.0,Michigan,True,1.0,69.0
+1402,Chelsea's Battle to a Champ,Virginia,1.0,Virginia,True,1.0,69.0
+1403,Chelsea's Battle to a Champ,Oklahoma,1.0,Oklahoma,True,1.0,69.0
+1404,Chelsea's Battle to a Champ,Wisconsin,1.0,Oregon,False,0.0,69.0
+1405,Chelsea's Battle to a Champ,Kansas St.,1.0,UC Irvine,False,0.0,69.0
+1406,Chelsea's Battle to a Champ,Villanova,1.0,Villanova,True,1.0,69.0
+1407,Chelsea's Battle to a Champ,Purdue,1.0,Purdue,True,1.0,69.0
+1408,Chelsea's Battle to a Champ,Iowa,1.0,Iowa,True,1.0,69.0
+1409,Chelsea's Battle to a Champ,Tennessee,1.0,Tennessee,True,1.0,69.0
+1410,Chelsea's Battle to a Champ,N. Carolina,1.0,N. Carolina,True,1.0,69.0
+1411,Chelsea's Battle to a Champ,Washington,1.0,Washington,True,1.0,69.0
+1412,Chelsea's Battle to a Champ,Auburn,1.0,Auburn,True,1.0,69.0
+1413,Chelsea's Battle to a Champ,Kansas,1.0,Kansas,True,1.0,69.0
+1414,Chelsea's Battle to a Champ,Iowa St.,1.0,Ohio St.,False,0.0,69.0
+1415,Chelsea's Battle to a Champ,Houston,1.0,Houston,True,1.0,69.0
+1416,Chelsea's Battle to a Champ,Seton Hall,1.0,Wofford,False,0.0,69.0
+1417,Chelsea's Battle to a Champ,Kentucky,1.0,Kentucky,True,1.0,69.0
+1418,Chelsea's Battle to a Champ,Duke,2.0,Duke,True,2.0,69.0
+1419,Chelsea's Battle to a Champ,Virginia Tech,2.0,Virginia Tech,True,2.0,69.0
+1420,Chelsea's Battle to a Champ,Maryland,2.0,LSU,False,0.0,69.0
+1421,Chelsea's Battle to a Champ,Michigan St.,2.0,Michigan St.,True,2.0,69.0
+1422,Chelsea's Battle to a Champ,Syracuse,2.0,Gonzaga,False,0.0,69.0
+1423,Chelsea's Battle to a Champ,Florida St.,2.0,Florida St.,True,2.0,69.0
+1424,Chelsea's Battle to a Champ,Texas Tech,2.0,Texas Tech,True,2.0,69.0
+1425,Chelsea's Battle to a Champ,Michigan,2.0,Michigan,True,2.0,69.0
+1426,Chelsea's Battle to a Champ,Virginia,2.0,Virginia,True,2.0,69.0
+1427,Chelsea's Battle to a Champ,Wisconsin,2.0,Oregon,False,0.0,69.0
+1428,Chelsea's Battle to a Champ,Villanova,2.0,Purdue,False,0.0,69.0
+1429,Chelsea's Battle to a Champ,Tennessee,2.0,Tennessee,True,2.0,69.0
+1430,Chelsea's Battle to a Champ,N. Carolina,2.0,N. Carolina,True,2.0,69.0
+1431,Chelsea's Battle to a Champ,Kansas,2.0,Auburn,False,0.0,69.0
+1432,Chelsea's Battle to a Champ,Iowa St.,2.0,Houston,False,0.0,69.0
+1433,Chelsea's Battle to a Champ,Kentucky,2.0,Kentucky,True,2.0,69.0
+1434,Chelsea's Battle to a Champ,Duke,4.0,Duke,True,4.0,69.0
+1435,Chelsea's Battle to a Champ,Michigan St.,4.0,Michigan St.,True,4.0,69.0
+1436,Chelsea's Battle to a Champ,Syracuse,4.0,Gonzaga,False,0.0,69.0
+1437,Chelsea's Battle to a Champ,Michigan,4.0,Texas Tech,False,0.0,69.0
+1438,Chelsea's Battle to a Champ,Virginia,4.0,Virginia,True,4.0,69.0
+1439,Chelsea's Battle to a Champ,Villanova,4.0,Purdue,False,0.0,69.0
+1440,Chelsea's Battle to a Champ,N. Carolina,4.0,Auburn,False,0.0,69.0
+1441,Chelsea's Battle to a Champ,Kentucky,4.0,Kentucky,True,4.0,69.0
+1442,Chelsea's Battle to a Champ,Duke,8.0,Michigan St.,False,0.0,69.0
+1443,Chelsea's Battle to a Champ,Syracuse,8.0,Texas Tech,False,0.0,69.0
+1444,Chelsea's Battle to a Champ,Virginia,8.0,Virginia,True,8.0,69.0
+1445,Chelsea's Battle to a Champ,N. Carolina,8.0,Auburn,False,0.0,69.0
+1446,Chelsea's Battle to a Champ,Syracuse,16.0,0,False,0.0,69.0
+1447,Chelsea's Battle to a Champ,N. Carolina,16.0,0,False,0.0,69.0
+1448,Chelsea's Battle to a Champ,Syracuse,32.0,0,False,0.0,69.0
+1449,Good Sportsmanship = Fun,Duke,1.0,Duke,True,1.0,72.0
+1450,Good Sportsmanship = Fun,VCU,1.0,UCF,False,0.0,72.0
+1451,Good Sportsmanship = Fun,Mississippi St.,1.0,Liberty,False,0.0,72.0
+1452,Good Sportsmanship = Fun,Virginia Tech,1.0,Virginia Tech,True,1.0,72.0
+1453,Good Sportsmanship = Fun,Maryland,1.0,Maryland,True,1.0,72.0
+1454,Good Sportsmanship = Fun,LSU,1.0,LSU,True,1.0,72.0
+1455,Good Sportsmanship = Fun,Minnesota,1.0,Minnesota,True,1.0,72.0
+1456,Good Sportsmanship = Fun,Michigan St.,1.0,Michigan St.,True,1.0,72.0
+1457,Good Sportsmanship = Fun,Gonzaga,1.0,Gonzaga,True,1.0,72.0
+1458,Good Sportsmanship = Fun,Baylor,1.0,Baylor,True,1.0,72.0
+1459,Good Sportsmanship = Fun,Murray St.,1.0,Murray St.,True,1.0,72.0
+1460,Good Sportsmanship = Fun,Florida St.,1.0,Florida St.,True,1.0,72.0
+1461,Good Sportsmanship = Fun,Buffalo,1.0,Buffalo,True,1.0,72.0
+1462,Good Sportsmanship = Fun,Texas Tech,1.0,Texas Tech,True,1.0,72.0
+1463,Good Sportsmanship = Fun,Nevada,1.0,Florida,False,0.0,72.0
+1464,Good Sportsmanship = Fun,Michigan,1.0,Michigan,True,1.0,72.0
+1465,Good Sportsmanship = Fun,Virginia,1.0,Virginia,True,1.0,72.0
+1466,Good Sportsmanship = Fun,Oklahoma,1.0,Oklahoma,True,1.0,72.0
+1467,Good Sportsmanship = Fun,Oregon,1.0,Oregon,True,1.0,72.0
+1468,Good Sportsmanship = Fun,UC Irvine,1.0,UC Irvine,True,1.0,72.0
+1469,Good Sportsmanship = Fun,Villanova,1.0,Villanova,True,1.0,72.0
+1470,Good Sportsmanship = Fun,Purdue,1.0,Purdue,True,1.0,72.0
+1471,Good Sportsmanship = Fun,Cincinnati,1.0,Iowa,False,0.0,72.0
+1472,Good Sportsmanship = Fun,Tennessee,1.0,Tennessee,True,1.0,72.0
+1473,Good Sportsmanship = Fun,N. Carolina,1.0,N. Carolina,True,1.0,72.0
+1474,Good Sportsmanship = Fun,Washington,1.0,Washington,True,1.0,72.0
+1475,Good Sportsmanship = Fun,Auburn,1.0,Auburn,True,1.0,72.0
+1476,Good Sportsmanship = Fun,Kansas,1.0,Kansas,True,1.0,72.0
+1477,Good Sportsmanship = Fun,Ohio St.,1.0,Ohio St.,True,1.0,72.0
+1478,Good Sportsmanship = Fun,Houston,1.0,Houston,True,1.0,72.0
+1479,Good Sportsmanship = Fun,Wofford,1.0,Wofford,True,1.0,72.0
+1480,Good Sportsmanship = Fun,Kentucky,1.0,Kentucky,True,1.0,72.0
+1481,Good Sportsmanship = Fun,Duke,2.0,Duke,True,2.0,72.0
+1482,Good Sportsmanship = Fun,Mississippi St.,2.0,Virginia Tech,False,0.0,72.0
+1483,Good Sportsmanship = Fun,Maryland,2.0,LSU,False,0.0,72.0
+1484,Good Sportsmanship = Fun,Michigan St.,2.0,Michigan St.,True,2.0,72.0
+1485,Good Sportsmanship = Fun,Gonzaga,2.0,Gonzaga,True,2.0,72.0
+1486,Good Sportsmanship = Fun,Murray St.,2.0,Florida St.,False,0.0,72.0
+1487,Good Sportsmanship = Fun,Texas Tech,2.0,Texas Tech,True,2.0,72.0
+1488,Good Sportsmanship = Fun,Nevada,2.0,Michigan,False,0.0,72.0
+1489,Good Sportsmanship = Fun,Virginia,2.0,Virginia,True,2.0,72.0
+1490,Good Sportsmanship = Fun,UC Irvine,2.0,Oregon,False,0.0,72.0
+1491,Good Sportsmanship = Fun,Villanova,2.0,Purdue,False,0.0,72.0
+1492,Good Sportsmanship = Fun,Tennessee,2.0,Tennessee,True,2.0,72.0
+1493,Good Sportsmanship = Fun,N. Carolina,2.0,N. Carolina,True,2.0,72.0
+1494,Good Sportsmanship = Fun,Kansas,2.0,Auburn,False,0.0,72.0
+1495,Good Sportsmanship = Fun,Ohio St.,2.0,Houston,False,0.0,72.0
+1496,Good Sportsmanship = Fun,Kentucky,2.0,Kentucky,True,2.0,72.0
+1497,Good Sportsmanship = Fun,Duke,4.0,Duke,True,4.0,72.0
+1498,Good Sportsmanship = Fun,Michigan St.,4.0,Michigan St.,True,4.0,72.0
+1499,Good Sportsmanship = Fun,Gonzaga,4.0,Gonzaga,True,4.0,72.0
+1500,Good Sportsmanship = Fun,Nevada,4.0,Texas Tech,False,0.0,72.0
+1501,Good Sportsmanship = Fun,Virginia,4.0,Virginia,True,4.0,72.0
+1502,Good Sportsmanship = Fun,Villanova,4.0,Purdue,False,0.0,72.0
+1503,Good Sportsmanship = Fun,N. Carolina,4.0,Auburn,False,0.0,72.0
+1504,Good Sportsmanship = Fun,Kentucky,4.0,Kentucky,True,4.0,72.0
+1505,Good Sportsmanship = Fun,Michigan St.,8.0,Michigan St.,True,8.0,72.0
+1506,Good Sportsmanship = Fun,Gonzaga,8.0,Texas Tech,False,0.0,72.0
+1507,Good Sportsmanship = Fun,Villanova,8.0,Virginia,False,0.0,72.0
+1508,Good Sportsmanship = Fun,N. Carolina,8.0,Auburn,False,0.0,72.0
+1509,Good Sportsmanship = Fun,Michigan St.,16.0,0,False,0.0,72.0
+1510,Good Sportsmanship = Fun,N. Carolina,16.0,0,False,0.0,72.0
+1511,Good Sportsmanship = Fun,N. Carolina,32.0,0,False,0.0,72.0
+1512,Moist Jumper,Duke,1.0,Duke,True,1.0,60.0
+1513,Moist Jumper,UCF,1.0,UCF,True,1.0,60.0
+1514,Moist Jumper,Liberty,1.0,Liberty,True,1.0,60.0
+1515,Moist Jumper,Virginia Tech,1.0,Virginia Tech,True,1.0,60.0
+1516,Moist Jumper,Belmont,1.0,Maryland,False,0.0,60.0
+1517,Moist Jumper,LSU,1.0,LSU,True,1.0,60.0
+1518,Moist Jumper,Louisville,1.0,Minnesota,False,0.0,60.0
+1519,Moist Jumper,Michigan St.,1.0,Michigan St.,True,1.0,60.0
+1520,Moist Jumper,Gonzaga,1.0,Gonzaga,True,1.0,60.0
+1521,Moist Jumper,Syracuse,1.0,Baylor,False,0.0,60.0
+1522,Moist Jumper,Murray St.,1.0,Murray St.,True,1.0,60.0
+1523,Moist Jumper,Florida St.,1.0,Florida St.,True,1.0,60.0
+1524,Moist Jumper,Arizona St.,1.0,Buffalo,False,0.0,60.0
+1525,Moist Jumper,Texas Tech,1.0,Texas Tech,True,1.0,60.0
+1526,Moist Jumper,Florida,1.0,Florida,True,1.0,60.0
+1527,Moist Jumper,Michigan,1.0,Michigan,True,1.0,60.0
+1528,Moist Jumper,Virginia,1.0,Virginia,True,1.0,60.0
+1529,Moist Jumper,Oklahoma,1.0,Oklahoma,True,1.0,60.0
+1530,Moist Jumper,Wisconsin,1.0,Oregon,False,0.0,60.0
+1531,Moist Jumper,UC Irvine,1.0,UC Irvine,True,1.0,60.0
+1532,Moist Jumper,Villanova,1.0,Villanova,True,1.0,60.0
+1533,Moist Jumper,Old Dominion,1.0,Purdue,False,0.0,60.0
+1534,Moist Jumper,Cincinnati,1.0,Iowa,False,0.0,60.0
+1535,Moist Jumper,Tennessee,1.0,Tennessee,True,1.0,60.0
+1536,Moist Jumper,N. Carolina,1.0,N. Carolina,True,1.0,60.0
+1537,Moist Jumper,Washington,1.0,Washington,True,1.0,60.0
+1538,Moist Jumper,N. Mex. St.,1.0,Auburn,False,0.0,60.0
+1539,Moist Jumper,Kansas,1.0,Kansas,True,1.0,60.0
+1540,Moist Jumper,Ohio St.,1.0,Ohio St.,True,1.0,60.0
+1541,Moist Jumper,Houston,1.0,Houston,True,1.0,60.0
+1542,Moist Jumper,Wofford,1.0,Wofford,True,1.0,60.0
+1543,Moist Jumper,Kentucky,1.0,Kentucky,True,1.0,60.0
+1544,Moist Jumper,Duke,2.0,Duke,True,2.0,60.0
+1545,Moist Jumper,Virginia Tech,2.0,Virginia Tech,True,2.0,60.0
+1546,Moist Jumper,LSU,2.0,LSU,True,2.0,60.0
+1547,Moist Jumper,Michigan St.,2.0,Michigan St.,True,2.0,60.0
+1548,Moist Jumper,Syracuse,2.0,Gonzaga,False,0.0,60.0
+1549,Moist Jumper,Florida St.,2.0,Florida St.,True,2.0,60.0
+1550,Moist Jumper,Texas Tech,2.0,Texas Tech,True,2.0,60.0
+1551,Moist Jumper,Michigan,2.0,Michigan,True,2.0,60.0
+1552,Moist Jumper,Virginia,2.0,Virginia,True,2.0,60.0
+1553,Moist Jumper,UC Irvine,2.0,Oregon,False,0.0,60.0
+1554,Moist Jumper,Villanova,2.0,Purdue,False,0.0,60.0
+1555,Moist Jumper,Cincinnati,2.0,Tennessee,False,0.0,60.0
+1556,Moist Jumper,N. Carolina,2.0,N. Carolina,True,2.0,60.0
+1557,Moist Jumper,Kansas,2.0,Auburn,False,0.0,60.0
+1558,Moist Jumper,Ohio St.,2.0,Houston,False,0.0,60.0
+1559,Moist Jumper,Kentucky,2.0,Kentucky,True,2.0,60.0
+1560,Moist Jumper,Duke,4.0,Duke,True,4.0,60.0
+1561,Moist Jumper,LSU,4.0,Michigan St.,False,0.0,60.0
+1562,Moist Jumper,Florida St.,4.0,Gonzaga,False,0.0,60.0
+1563,Moist Jumper,Texas Tech,4.0,Texas Tech,True,4.0,60.0
+1564,Moist Jumper,Virginia,4.0,Virginia,True,4.0,60.0
+1565,Moist Jumper,Cincinnati,4.0,Purdue,False,0.0,60.0
+1566,Moist Jumper,N. Carolina,4.0,Auburn,False,0.0,60.0
+1567,Moist Jumper,Kentucky,4.0,Kentucky,True,4.0,60.0
+1568,Moist Jumper,Duke,8.0,Michigan St.,False,0.0,60.0
+1569,Moist Jumper,Florida St.,8.0,Texas Tech,False,0.0,60.0
+1570,Moist Jumper,Cincinnati,8.0,Virginia,False,0.0,60.0
+1571,Moist Jumper,N. Carolina,8.0,Auburn,False,0.0,60.0
+1572,Moist Jumper,Duke,16.0,0,False,0.0,60.0
+1573,Moist Jumper,N. Carolina,16.0,0,False,0.0,60.0
+1574,Moist Jumper,Duke,32.0,0,False,0.0,60.0
+1575,Ja Squad,Duke,1.0,Duke,True,1.0,68.0
+1576,Ja Squad,VCU,1.0,UCF,False,0.0,68.0
+1577,Ja Squad,Mississippi St.,1.0,Liberty,False,0.0,68.0
+1578,Ja Squad,Virginia Tech,1.0,Virginia Tech,True,1.0,68.0
+1579,Ja Squad,Maryland,1.0,Maryland,True,1.0,68.0
+1580,Ja Squad,LSU,1.0,LSU,True,1.0,68.0
+1581,Ja Squad,Louisville,1.0,Minnesota,False,0.0,68.0
+1582,Ja Squad,Michigan St.,1.0,Michigan St.,True,1.0,68.0
+1583,Ja Squad,Gonzaga,1.0,Gonzaga,True,1.0,68.0
+1584,Ja Squad,Syracuse,1.0,Baylor,False,0.0,68.0
+1585,Ja Squad,Murray St.,1.0,Murray St.,True,1.0,68.0
+1586,Ja Squad,Florida St.,1.0,Florida St.,True,1.0,68.0
+1587,Ja Squad,Buffalo,1.0,Buffalo,True,1.0,68.0
+1588,Ja Squad,Texas Tech,1.0,Texas Tech,True,1.0,68.0
+1589,Ja Squad,Florida,1.0,Florida,True,1.0,68.0
+1590,Ja Squad,Michigan,1.0,Michigan,True,1.0,68.0
+1591,Ja Squad,Virginia,1.0,Virginia,True,1.0,68.0
+1592,Ja Squad,Oklahoma,1.0,Oklahoma,True,1.0,68.0
+1593,Ja Squad,Oregon,1.0,Oregon,True,1.0,68.0
+1594,Ja Squad,UC Irvine,1.0,UC Irvine,True,1.0,68.0
+1595,Ja Squad,Villanova,1.0,Villanova,True,1.0,68.0
+1596,Ja Squad,Purdue,1.0,Purdue,True,1.0,68.0
+1597,Ja Squad,Cincinnati,1.0,Iowa,False,0.0,68.0
+1598,Ja Squad,Tennessee,1.0,Tennessee,True,1.0,68.0
+1599,Ja Squad,N. Carolina,1.0,N. Carolina,True,1.0,68.0
+1600,Ja Squad,Washington,1.0,Washington,True,1.0,68.0
+1601,Ja Squad,Auburn,1.0,Auburn,True,1.0,68.0
+1602,Ja Squad,Kansas,1.0,Kansas,True,1.0,68.0
+1603,Ja Squad,Ohio St.,1.0,Ohio St.,True,1.0,68.0
+1604,Ja Squad,Houston,1.0,Houston,True,1.0,68.0
+1605,Ja Squad,Seton Hall,1.0,Wofford,False,0.0,68.0
+1606,Ja Squad,Kentucky,1.0,Kentucky,True,1.0,68.0
+1607,Ja Squad,Duke,2.0,Duke,True,2.0,68.0
+1608,Ja Squad,Virginia Tech,2.0,Virginia Tech,True,2.0,68.0
+1609,Ja Squad,LSU,2.0,LSU,True,2.0,68.0
+1610,Ja Squad,Michigan St.,2.0,Michigan St.,True,2.0,68.0
+1611,Ja Squad,Syracuse,2.0,Gonzaga,False,0.0,68.0
+1612,Ja Squad,Murray St.,2.0,Florida St.,False,0.0,68.0
+1613,Ja Squad,Buffalo,2.0,Texas Tech,False,0.0,68.0
+1614,Ja Squad,Michigan,2.0,Michigan,True,2.0,68.0
+1615,Ja Squad,Virginia,2.0,Virginia,True,2.0,68.0
+1616,Ja Squad,Oregon,2.0,Oregon,True,2.0,68.0
+1617,Ja Squad,Villanova,2.0,Purdue,False,0.0,68.0
+1618,Ja Squad,Cincinnati,2.0,Tennessee,False,0.0,68.0
+1619,Ja Squad,N. Carolina,2.0,N. Carolina,True,2.0,68.0
+1620,Ja Squad,Kansas,2.0,Auburn,False,0.0,68.0
+1621,Ja Squad,Ohio St.,2.0,Houston,False,0.0,68.0
+1622,Ja Squad,Kentucky,2.0,Kentucky,True,2.0,68.0
+1623,Ja Squad,Duke,4.0,Duke,True,4.0,68.0
+1624,Ja Squad,Michigan St.,4.0,Michigan St.,True,4.0,68.0
+1625,Ja Squad,Murray St.,4.0,Gonzaga,False,0.0,68.0
+1626,Ja Squad,Michigan,4.0,Texas Tech,False,0.0,68.0
+1627,Ja Squad,Virginia,4.0,Virginia,True,4.0,68.0
+1628,Ja Squad,Villanova,4.0,Purdue,False,0.0,68.0
+1629,Ja Squad,N. Carolina,4.0,Auburn,False,0.0,68.0
+1630,Ja Squad,Kentucky,4.0,Kentucky,True,4.0,68.0
+1631,Ja Squad,Duke,8.0,Michigan St.,False,0.0,68.0
+1632,Ja Squad,Michigan,8.0,Texas Tech,False,0.0,68.0
+1633,Ja Squad,Virginia,8.0,Virginia,True,8.0,68.0
+1634,Ja Squad,Kentucky,8.0,Auburn,False,0.0,68.0
+1635,Ja Squad,Duke,16.0,0,False,0.0,68.0
+1636,Ja Squad,Kentucky,16.0,0,False,0.0,68.0
+1637,Ja Squad,Duke,32.0,0,False,0.0,68.0
+1638,Lindsay’s Glorious Bracket,Duke,1.0,Duke,True,1.0,79.0
+1639,Lindsay’s Glorious Bracket,VCU,1.0,UCF,False,0.0,79.0
+1640,Lindsay’s Glorious Bracket,Mississippi St.,1.0,Liberty,False,0.0,79.0
+1641,Lindsay’s Glorious Bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,79.0
+1642,Lindsay’s Glorious Bracket,Maryland,1.0,Maryland,True,1.0,79.0
+1643,Lindsay’s Glorious Bracket,LSU,1.0,LSU,True,1.0,79.0
+1644,Lindsay’s Glorious Bracket,Minnesota,1.0,Minnesota,True,1.0,79.0
+1645,Lindsay’s Glorious Bracket,Michigan St.,1.0,Michigan St.,True,1.0,79.0
+1646,Lindsay’s Glorious Bracket,Gonzaga,1.0,Gonzaga,True,1.0,79.0
+1647,Lindsay’s Glorious Bracket,Baylor,1.0,Baylor,True,1.0,79.0
+1648,Lindsay’s Glorious Bracket,Marquette,1.0,Murray St.,False,0.0,79.0
+1649,Lindsay’s Glorious Bracket,Florida St.,1.0,Florida St.,True,1.0,79.0
+1650,Lindsay’s Glorious Bracket,Buffalo,1.0,Buffalo,True,1.0,79.0
+1651,Lindsay’s Glorious Bracket,Texas Tech,1.0,Texas Tech,True,1.0,79.0
+1652,Lindsay’s Glorious Bracket,Nevada,1.0,Florida,False,0.0,79.0
+1653,Lindsay’s Glorious Bracket,Michigan,1.0,Michigan,True,1.0,79.0
+1654,Lindsay’s Glorious Bracket,Virginia,1.0,Virginia,True,1.0,79.0
+1655,Lindsay’s Glorious Bracket,Mississippi,1.0,Oklahoma,False,0.0,79.0
+1656,Lindsay’s Glorious Bracket,Wisconsin,1.0,Oregon,False,0.0,79.0
+1657,Lindsay’s Glorious Bracket,Kansas St.,1.0,UC Irvine,False,0.0,79.0
+1658,Lindsay’s Glorious Bracket,St. Mary's,1.0,Villanova,False,0.0,79.0
+1659,Lindsay’s Glorious Bracket,Old Dominion,1.0,Purdue,False,0.0,79.0
+1660,Lindsay’s Glorious Bracket,Cincinnati,1.0,Iowa,False,0.0,79.0
+1661,Lindsay’s Glorious Bracket,Tennessee,1.0,Tennessee,True,1.0,79.0
+1662,Lindsay’s Glorious Bracket,N. Carolina,1.0,N. Carolina,True,1.0,79.0
+1663,Lindsay’s Glorious Bracket,Washington,1.0,Washington,True,1.0,79.0
+1664,Lindsay’s Glorious Bracket,Auburn,1.0,Auburn,True,1.0,79.0
+1665,Lindsay’s Glorious Bracket,Kansas,1.0,Kansas,True,1.0,79.0
+1666,Lindsay’s Glorious Bracket,Ohio St.,1.0,Ohio St.,True,1.0,79.0
+1667,Lindsay’s Glorious Bracket,Houston,1.0,Houston,True,1.0,79.0
+1668,Lindsay’s Glorious Bracket,Seton Hall,1.0,Wofford,False,0.0,79.0
+1669,Lindsay’s Glorious Bracket,Kentucky,1.0,Kentucky,True,1.0,79.0
+1670,Lindsay’s Glorious Bracket,Duke,2.0,Duke,True,2.0,79.0
+1671,Lindsay’s Glorious Bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,79.0
+1672,Lindsay’s Glorious Bracket,LSU,2.0,LSU,True,2.0,79.0
+1673,Lindsay’s Glorious Bracket,Michigan St.,2.0,Michigan St.,True,2.0,79.0
+1674,Lindsay’s Glorious Bracket,Gonzaga,2.0,Gonzaga,True,2.0,79.0
+1675,Lindsay’s Glorious Bracket,Florida St.,2.0,Florida St.,True,2.0,79.0
+1676,Lindsay’s Glorious Bracket,Buffalo,2.0,Texas Tech,False,0.0,79.0
+1677,Lindsay’s Glorious Bracket,Michigan,2.0,Michigan,True,2.0,79.0
+1678,Lindsay’s Glorious Bracket,Virginia,2.0,Virginia,True,2.0,79.0
+1679,Lindsay’s Glorious Bracket,Wisconsin,2.0,Oregon,False,0.0,79.0
+1680,Lindsay’s Glorious Bracket,St. Mary's,2.0,Purdue,False,0.0,79.0
+1681,Lindsay’s Glorious Bracket,Tennessee,2.0,Tennessee,True,2.0,79.0
+1682,Lindsay’s Glorious Bracket,N. Carolina,2.0,N. Carolina,True,2.0,79.0
+1683,Lindsay’s Glorious Bracket,Kansas,2.0,Auburn,False,0.0,79.0
+1684,Lindsay’s Glorious Bracket,Ohio St.,2.0,Houston,False,0.0,79.0
+1685,Lindsay’s Glorious Bracket,Kentucky,2.0,Kentucky,True,2.0,79.0
+1686,Lindsay’s Glorious Bracket,Duke,4.0,Duke,True,4.0,79.0
+1687,Lindsay’s Glorious Bracket,Michigan St.,4.0,Michigan St.,True,4.0,79.0
+1688,Lindsay’s Glorious Bracket,Gonzaga,4.0,Gonzaga,True,4.0,79.0
+1689,Lindsay’s Glorious Bracket,Michigan,4.0,Texas Tech,False,0.0,79.0
+1690,Lindsay’s Glorious Bracket,Virginia,4.0,Virginia,True,4.0,79.0
+1691,Lindsay’s Glorious Bracket,Tennessee,4.0,Purdue,False,0.0,79.0
+1692,Lindsay’s Glorious Bracket,N. Carolina,4.0,Auburn,False,0.0,79.0
+1693,Lindsay’s Glorious Bracket,Kentucky,4.0,Kentucky,True,4.0,79.0
+1694,Lindsay’s Glorious Bracket,Michigan St.,8.0,Michigan St.,True,8.0,79.0
+1695,Lindsay’s Glorious Bracket,Gonzaga,8.0,Texas Tech,False,0.0,79.0
+1696,Lindsay’s Glorious Bracket,Virginia,8.0,Virginia,True,8.0,79.0
+1697,Lindsay’s Glorious Bracket,N. Carolina,8.0,Auburn,False,0.0,79.0
+1698,Lindsay’s Glorious Bracket,Gonzaga,16.0,0,False,0.0,79.0
+1699,Lindsay’s Glorious Bracket,Virginia,16.0,0,False,0.0,79.0
+1700,Lindsay’s Glorious Bracket,Virginia,32.0,0,False,0.0,79.0
+1701,My Choice Bracket,Duke,1.0,Duke,True,1.0,59.0
+1702,My Choice Bracket,UCF,1.0,UCF,True,1.0,59.0
+1703,My Choice Bracket,Mississippi St.,1.0,Liberty,False,0.0,59.0
+1704,My Choice Bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,59.0
+1705,My Choice Bracket,Maryland,1.0,Maryland,True,1.0,59.0
+1706,My Choice Bracket,LSU,1.0,LSU,True,1.0,59.0
+1707,My Choice Bracket,Louisville,1.0,Minnesota,False,0.0,59.0
+1708,My Choice Bracket,Michigan St.,1.0,Michigan St.,True,1.0,59.0
+1709,My Choice Bracket,Gonzaga,1.0,Gonzaga,True,1.0,59.0
+1710,My Choice Bracket,Syracuse,1.0,Baylor,False,0.0,59.0
+1711,My Choice Bracket,Marquette,1.0,Murray St.,False,0.0,59.0
+1712,My Choice Bracket,Florida St.,1.0,Florida St.,True,1.0,59.0
+1713,My Choice Bracket,Arizona St.,1.0,Buffalo,False,0.0,59.0
+1714,My Choice Bracket,Texas Tech,1.0,Texas Tech,True,1.0,59.0
+1715,My Choice Bracket,Florida,1.0,Florida,True,1.0,59.0
+1716,My Choice Bracket,Michigan,1.0,Michigan,True,1.0,59.0
+1717,My Choice Bracket,Virginia,1.0,Virginia,True,1.0,59.0
+1718,My Choice Bracket,Oklahoma,1.0,Oklahoma,True,1.0,59.0
+1719,My Choice Bracket,Oregon,1.0,Oregon,True,1.0,59.0
+1720,My Choice Bracket,Kansas St.,1.0,UC Irvine,False,0.0,59.0
+1721,My Choice Bracket,Villanova,1.0,Villanova,True,1.0,59.0
+1722,My Choice Bracket,Purdue,1.0,Purdue,True,1.0,59.0
+1723,My Choice Bracket,Iowa,1.0,Iowa,True,1.0,59.0
+1724,My Choice Bracket,Tennessee,1.0,Tennessee,True,1.0,59.0
+1725,My Choice Bracket,N. Carolina,1.0,N. Carolina,True,1.0,59.0
+1726,My Choice Bracket,Washington,1.0,Washington,True,1.0,59.0
+1727,My Choice Bracket,Auburn,1.0,Auburn,True,1.0,59.0
+1728,My Choice Bracket,Northeastern,1.0,Kansas,False,0.0,59.0
+1729,My Choice Bracket,Iowa St.,1.0,Ohio St.,False,0.0,59.0
+1730,My Choice Bracket,Houston,1.0,Houston,True,1.0,59.0
+1731,My Choice Bracket,Seton Hall,1.0,Wofford,False,0.0,59.0
+1732,My Choice Bracket,Kentucky,1.0,Kentucky,True,1.0,59.0
+1733,My Choice Bracket,Duke,2.0,Duke,True,2.0,59.0
+1734,My Choice Bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,59.0
+1735,My Choice Bracket,LSU,2.0,LSU,True,2.0,59.0
+1736,My Choice Bracket,Michigan St.,2.0,Michigan St.,True,2.0,59.0
+1737,My Choice Bracket,Syracuse,2.0,Gonzaga,False,0.0,59.0
+1738,My Choice Bracket,Florida St.,2.0,Florida St.,True,2.0,59.0
+1739,My Choice Bracket,Texas Tech,2.0,Texas Tech,True,2.0,59.0
+1740,My Choice Bracket,Florida,2.0,Michigan,False,0.0,59.0
+1741,My Choice Bracket,Virginia,2.0,Virginia,True,2.0,59.0
+1742,My Choice Bracket,Oregon,2.0,Oregon,True,2.0,59.0
+1743,My Choice Bracket,Villanova,2.0,Purdue,False,0.0,59.0
+1744,My Choice Bracket,Tennessee,2.0,Tennessee,True,2.0,59.0
+1745,My Choice Bracket,N. Carolina,2.0,N. Carolina,True,2.0,59.0
+1746,My Choice Bracket,Northeastern,2.0,Auburn,False,0.0,59.0
+1747,My Choice Bracket,Iowa St.,2.0,Houston,False,0.0,59.0
+1748,My Choice Bracket,Seton Hall,2.0,Kentucky,False,0.0,59.0
+1749,My Choice Bracket,Duke,4.0,Duke,True,4.0,59.0
+1750,My Choice Bracket,LSU,4.0,Michigan St.,False,0.0,59.0
+1751,My Choice Bracket,Syracuse,4.0,Gonzaga,False,0.0,59.0
+1752,My Choice Bracket,Florida,4.0,Texas Tech,False,0.0,59.0
+1753,My Choice Bracket,Virginia,4.0,Virginia,True,4.0,59.0
+1754,My Choice Bracket,Villanova,4.0,Purdue,False,0.0,59.0
+1755,My Choice Bracket,Northeastern,4.0,Auburn,False,0.0,59.0
+1756,My Choice Bracket,Iowa St.,4.0,Kentucky,False,0.0,59.0
+1757,My Choice Bracket,LSU,8.0,Michigan St.,False,0.0,59.0
+1758,My Choice Bracket,Florida,8.0,Texas Tech,False,0.0,59.0
+1759,My Choice Bracket,Virginia,8.0,Virginia,True,8.0,59.0
+1760,My Choice Bracket,Northeastern,8.0,Auburn,False,0.0,59.0
+1761,My Choice Bracket,Florida,16.0,0,False,0.0,59.0
+1762,My Choice Bracket,Virginia,16.0,0,False,0.0,59.0
+1763,My Choice Bracket,Virginia,32.0,0,False,0.0,59.0
+1764,sam is always wrong,Duke,1.0,Duke,True,1.0,91.0
+1765,sam is always wrong,VCU,1.0,UCF,False,0.0,91.0
+1766,sam is always wrong,Liberty,1.0,Liberty,True,1.0,91.0
+1767,sam is always wrong,Virginia Tech,1.0,Virginia Tech,True,1.0,91.0
+1768,sam is always wrong,Maryland,1.0,Maryland,True,1.0,91.0
+1769,sam is always wrong,LSU,1.0,LSU,True,1.0,91.0
+1770,sam is always wrong,Minnesota,1.0,Minnesota,True,1.0,91.0
+1771,sam is always wrong,Michigan St.,1.0,Michigan St.,True,1.0,91.0
+1772,sam is always wrong,Gonzaga,1.0,Gonzaga,True,1.0,91.0
+1773,sam is always wrong,Baylor,1.0,Baylor,True,1.0,91.0
+1774,sam is always wrong,Marquette,1.0,Murray St.,False,0.0,91.0
+1775,sam is always wrong,Vermont,1.0,Florida St.,False,0.0,91.0
+1776,sam is always wrong,Buffalo,1.0,Buffalo,True,1.0,91.0
+1777,sam is always wrong,Texas Tech,1.0,Texas Tech,True,1.0,91.0
+1778,sam is always wrong,Nevada,1.0,Florida,False,0.0,91.0
+1779,sam is always wrong,Michigan,1.0,Michigan,True,1.0,91.0
+1780,sam is always wrong,Virginia,1.0,Virginia,True,1.0,91.0
+1781,sam is always wrong,Oklahoma,1.0,Oklahoma,True,1.0,91.0
+1782,sam is always wrong,Wisconsin,1.0,Oregon,False,0.0,91.0
+1783,sam is always wrong,Kansas St.,1.0,UC Irvine,False,0.0,91.0
+1784,sam is always wrong,St. Mary's,1.0,Villanova,False,0.0,91.0
+1785,sam is always wrong,Purdue,1.0,Purdue,True,1.0,91.0
+1786,sam is always wrong,Iowa,1.0,Iowa,True,1.0,91.0
+1787,sam is always wrong,Tennessee,1.0,Tennessee,True,1.0,91.0
+1788,sam is always wrong,N. Carolina,1.0,N. Carolina,True,1.0,91.0
+1789,sam is always wrong,Washington,1.0,Washington,True,1.0,91.0
+1790,sam is always wrong,Auburn,1.0,Auburn,True,1.0,91.0
+1791,sam is always wrong,Northeastern,1.0,Kansas,False,0.0,91.0
+1792,sam is always wrong,Ohio St.,1.0,Ohio St.,True,1.0,91.0
+1793,sam is always wrong,Georgia St.,1.0,Houston,False,0.0,91.0
+1794,sam is always wrong,Wofford,1.0,Wofford,True,1.0,91.0
+1795,sam is always wrong,Kentucky,1.0,Kentucky,True,1.0,91.0
+1796,sam is always wrong,Duke,2.0,Duke,True,2.0,91.0
+1797,sam is always wrong,Virginia Tech,2.0,Virginia Tech,True,2.0,91.0
+1798,sam is always wrong,Maryland,2.0,LSU,False,0.0,91.0
+1799,sam is always wrong,Michigan St.,2.0,Michigan St.,True,2.0,91.0
+1800,sam is always wrong,Gonzaga,2.0,Gonzaga,True,2.0,91.0
+1801,sam is always wrong,Marquette,2.0,Florida St.,False,0.0,91.0
+1802,sam is always wrong,Texas Tech,2.0,Texas Tech,True,2.0,91.0
+1803,sam is always wrong,Nevada,2.0,Michigan,False,0.0,91.0
+1804,sam is always wrong,Virginia,2.0,Virginia,True,2.0,91.0
+1805,sam is always wrong,Wisconsin,2.0,Oregon,False,0.0,91.0
+1806,sam is always wrong,Purdue,2.0,Purdue,True,2.0,91.0
+1807,sam is always wrong,Iowa,2.0,Tennessee,False,0.0,91.0
+1808,sam is always wrong,N. Carolina,2.0,N. Carolina,True,2.0,91.0
+1809,sam is always wrong,Auburn,2.0,Auburn,True,2.0,91.0
+1810,sam is always wrong,Ohio St.,2.0,Houston,False,0.0,91.0
+1811,sam is always wrong,Kentucky,2.0,Kentucky,True,2.0,91.0
+1812,sam is always wrong,Duke,4.0,Duke,True,4.0,91.0
+1813,sam is always wrong,Michigan St.,4.0,Michigan St.,True,4.0,91.0
+1814,sam is always wrong,Gonzaga,4.0,Gonzaga,True,4.0,91.0
+1815,sam is always wrong,Texas Tech,4.0,Texas Tech,True,4.0,91.0
+1816,sam is always wrong,Virginia,4.0,Virginia,True,4.0,91.0
+1817,sam is always wrong,Purdue,4.0,Purdue,True,4.0,91.0
+1818,sam is always wrong,Auburn,4.0,Auburn,True,4.0,91.0
+1819,sam is always wrong,Kentucky,4.0,Kentucky,True,4.0,91.0
+1820,sam is always wrong,Duke,8.0,Michigan St.,False,0.0,91.0
+1821,sam is always wrong,Texas Tech,8.0,Texas Tech,True,8.0,91.0
+1822,sam is always wrong,Virginia,8.0,Virginia,True,8.0,91.0
+1823,sam is always wrong,Kentucky,8.0,Auburn,False,0.0,91.0
+1824,sam is always wrong,Texas Tech,16.0,0,False,0.0,91.0
+1825,sam is always wrong,Virginia,16.0,0,False,0.0,91.0
+1826,sam is always wrong,Virginia,32.0,0,False,0.0,91.0
+1827,Lets Go Terps!,Duke,1.0,Duke,True,1.0,70.0
+1828,Lets Go Terps!,VCU,1.0,UCF,False,0.0,70.0
+1829,Lets Go Terps!,Mississippi St.,1.0,Liberty,False,0.0,70.0
+1830,Lets Go Terps!,Virginia Tech,1.0,Virginia Tech,True,1.0,70.0
+1831,Lets Go Terps!,Maryland,1.0,Maryland,True,1.0,70.0
+1832,Lets Go Terps!,LSU,1.0,LSU,True,1.0,70.0
+1833,Lets Go Terps!,Louisville,1.0,Minnesota,False,0.0,70.0
+1834,Lets Go Terps!,Michigan St.,1.0,Michigan St.,True,1.0,70.0
+1835,Lets Go Terps!,Gonzaga,1.0,Gonzaga,True,1.0,70.0
+1836,Lets Go Terps!,Syracuse,1.0,Baylor,False,0.0,70.0
+1837,Lets Go Terps!,Marquette,1.0,Murray St.,False,0.0,70.0
+1838,Lets Go Terps!,Florida St.,1.0,Florida St.,True,1.0,70.0
+1839,Lets Go Terps!,Buffalo,1.0,Buffalo,True,1.0,70.0
+1840,Lets Go Terps!,Texas Tech,1.0,Texas Tech,True,1.0,70.0
+1841,Lets Go Terps!,Nevada,1.0,Florida,False,0.0,70.0
+1842,Lets Go Terps!,Michigan,1.0,Michigan,True,1.0,70.0
+1843,Lets Go Terps!,Virginia,1.0,Virginia,True,1.0,70.0
+1844,Lets Go Terps!,Mississippi,1.0,Oklahoma,False,0.0,70.0
+1845,Lets Go Terps!,Wisconsin,1.0,Oregon,False,0.0,70.0
+1846,Lets Go Terps!,Kansas St.,1.0,UC Irvine,False,0.0,70.0
+1847,Lets Go Terps!,Villanova,1.0,Villanova,True,1.0,70.0
+1848,Lets Go Terps!,Purdue,1.0,Purdue,True,1.0,70.0
+1849,Lets Go Terps!,Cincinnati,1.0,Iowa,False,0.0,70.0
+1850,Lets Go Terps!,Tennessee,1.0,Tennessee,True,1.0,70.0
+1851,Lets Go Terps!,N. Carolina,1.0,N. Carolina,True,1.0,70.0
+1852,Lets Go Terps!,Utah St.,1.0,Washington,False,0.0,70.0
+1853,Lets Go Terps!,Auburn,1.0,Auburn,True,1.0,70.0
+1854,Lets Go Terps!,Kansas,1.0,Kansas,True,1.0,70.0
+1855,Lets Go Terps!,Iowa St.,1.0,Ohio St.,False,0.0,70.0
+1856,Lets Go Terps!,Houston,1.0,Houston,True,1.0,70.0
+1857,Lets Go Terps!,Wofford,1.0,Wofford,True,1.0,70.0
+1858,Lets Go Terps!,Kentucky,1.0,Kentucky,True,1.0,70.0
+1859,Lets Go Terps!,Duke,2.0,Duke,True,2.0,70.0
+1860,Lets Go Terps!,Virginia Tech,2.0,Virginia Tech,True,2.0,70.0
+1861,Lets Go Terps!,Maryland,2.0,LSU,False,0.0,70.0
+1862,Lets Go Terps!,Michigan St.,2.0,Michigan St.,True,2.0,70.0
+1863,Lets Go Terps!,Gonzaga,2.0,Gonzaga,True,2.0,70.0
+1864,Lets Go Terps!,Marquette,2.0,Florida St.,False,0.0,70.0
+1865,Lets Go Terps!,Texas Tech,2.0,Texas Tech,True,2.0,70.0
+1866,Lets Go Terps!,Michigan,2.0,Michigan,True,2.0,70.0
+1867,Lets Go Terps!,Virginia,2.0,Virginia,True,2.0,70.0
+1868,Lets Go Terps!,Kansas St.,2.0,Oregon,False,0.0,70.0
+1869,Lets Go Terps!,Villanova,2.0,Purdue,False,0.0,70.0
+1870,Lets Go Terps!,Tennessee,2.0,Tennessee,True,2.0,70.0
+1871,Lets Go Terps!,N. Carolina,2.0,N. Carolina,True,2.0,70.0
+1872,Lets Go Terps!,Kansas,2.0,Auburn,False,0.0,70.0
+1873,Lets Go Terps!,Houston,2.0,Houston,True,2.0,70.0
+1874,Lets Go Terps!,Kentucky,2.0,Kentucky,True,2.0,70.0
+1875,Lets Go Terps!,Duke,4.0,Duke,True,4.0,70.0
+1876,Lets Go Terps!,Michigan St.,4.0,Michigan St.,True,4.0,70.0
+1877,Lets Go Terps!,Gonzaga,4.0,Gonzaga,True,4.0,70.0
+1878,Lets Go Terps!,Michigan,4.0,Texas Tech,False,0.0,70.0
+1879,Lets Go Terps!,Virginia,4.0,Virginia,True,4.0,70.0
+1880,Lets Go Terps!,Tennessee,4.0,Purdue,False,0.0,70.0
+1881,Lets Go Terps!,N. Carolina,4.0,Auburn,False,0.0,70.0
+1882,Lets Go Terps!,Kentucky,4.0,Kentucky,True,4.0,70.0
+1883,Lets Go Terps!,Duke,8.0,Michigan St.,False,0.0,70.0
+1884,Lets Go Terps!,Gonzaga,8.0,Texas Tech,False,0.0,70.0
+1885,Lets Go Terps!,Virginia,8.0,Virginia,True,8.0,70.0
+1886,Lets Go Terps!,N. Carolina,8.0,Auburn,False,0.0,70.0
+1887,Lets Go Terps!,Duke,16.0,0,False,0.0,70.0
+1888,Lets Go Terps!,N. Carolina,16.0,0,False,0.0,70.0
+1889,Lets Go Terps!,Duke,32.0,0,False,0.0,70.0
+1890,Johnny i,Duke,1.0,Duke,True,1.0,62.0
+1891,Johnny i,VCU,1.0,UCF,False,0.0,62.0
+1892,Johnny i,Liberty,1.0,Liberty,True,1.0,62.0
+1893,Johnny i,Saint Louis,1.0,Virginia Tech,False,0.0,62.0
+1894,Johnny i,Belmont,1.0,Maryland,False,0.0,62.0
+1895,Johnny i,Yale,1.0,LSU,False,0.0,62.0
+1896,Johnny i,Louisville,1.0,Minnesota,False,0.0,62.0
+1897,Johnny i,Michigan St.,1.0,Michigan St.,True,1.0,62.0
+1898,Johnny i,Gonzaga,1.0,Gonzaga,True,1.0,62.0
+1899,Johnny i,Syracuse,1.0,Baylor,False,0.0,62.0
+1900,Johnny i,Murray St.,1.0,Murray St.,True,1.0,62.0
+1901,Johnny i,Florida St.,1.0,Florida St.,True,1.0,62.0
+1902,Johnny i,Buffalo,1.0,Buffalo,True,1.0,62.0
+1903,Johnny i,Texas Tech,1.0,Texas Tech,True,1.0,62.0
+1904,Johnny i,Florida,1.0,Florida,True,1.0,62.0
+1905,Johnny i,Michigan,1.0,Michigan,True,1.0,62.0
+1906,Johnny i,Virginia,1.0,Virginia,True,1.0,62.0
+1907,Johnny i,Mississippi,1.0,Oklahoma,False,0.0,62.0
+1908,Johnny i,Oregon,1.0,Oregon,True,1.0,62.0
+1909,Johnny i,Kansas St.,1.0,UC Irvine,False,0.0,62.0
+1910,Johnny i,St. Mary's,1.0,Villanova,False,0.0,62.0
+1911,Johnny i,Purdue,1.0,Purdue,True,1.0,62.0
+1912,Johnny i,Cincinnati,1.0,Iowa,False,0.0,62.0
+1913,Johnny i,Tennessee,1.0,Tennessee,True,1.0,62.0
+1914,Johnny i,N. Carolina,1.0,N. Carolina,True,1.0,62.0
+1915,Johnny i,Utah St.,1.0,Washington,False,0.0,62.0
+1916,Johnny i,Auburn,1.0,Auburn,True,1.0,62.0
+1917,Johnny i,Kansas,1.0,Kansas,True,1.0,62.0
+1918,Johnny i,Iowa St.,1.0,Ohio St.,False,0.0,62.0
+1919,Johnny i,Houston,1.0,Houston,True,1.0,62.0
+1920,Johnny i,Wofford,1.0,Wofford,True,1.0,62.0
+1921,Johnny i,Kentucky,1.0,Kentucky,True,1.0,62.0
+1922,Johnny i,Duke,2.0,Duke,True,2.0,62.0
+1923,Johnny i,Liberty,2.0,Virginia Tech,False,0.0,62.0
+1924,Johnny i,Belmont,2.0,LSU,False,0.0,62.0
+1925,Johnny i,Michigan St.,2.0,Michigan St.,True,2.0,62.0
+1926,Johnny i,Syracuse,2.0,Gonzaga,False,0.0,62.0
+1927,Johnny i,Florida St.,2.0,Florida St.,True,2.0,62.0
+1928,Johnny i,Texas Tech,2.0,Texas Tech,True,2.0,62.0
+1929,Johnny i,Michigan,2.0,Michigan,True,2.0,62.0
+1930,Johnny i,Virginia,2.0,Virginia,True,2.0,62.0
+1931,Johnny i,Oregon,2.0,Oregon,True,2.0,62.0
+1932,Johnny i,Purdue,2.0,Purdue,True,2.0,62.0
+1933,Johnny i,Tennessee,2.0,Tennessee,True,2.0,62.0
+1934,Johnny i,N. Carolina,2.0,N. Carolina,True,2.0,62.0
+1935,Johnny i,Auburn,2.0,Auburn,True,2.0,62.0
+1936,Johnny i,Iowa St.,2.0,Houston,False,0.0,62.0
+1937,Johnny i,Wofford,2.0,Kentucky,False,0.0,62.0
+1938,Johnny i,Duke,4.0,Duke,True,4.0,62.0
+1939,Johnny i,Michigan St.,4.0,Michigan St.,True,4.0,62.0
+1940,Johnny i,Florida St.,4.0,Gonzaga,False,0.0,62.0
+1941,Johnny i,Michigan,4.0,Texas Tech,False,0.0,62.0
+1942,Johnny i,Virginia,4.0,Virginia,True,4.0,62.0
+1943,Johnny i,Tennessee,4.0,Purdue,False,0.0,62.0
+1944,Johnny i,N. Carolina,4.0,Auburn,False,0.0,62.0
+1945,Johnny i,Iowa St.,4.0,Kentucky,False,0.0,62.0
+1946,Johnny i,Duke,8.0,Michigan St.,False,0.0,62.0
+1947,Johnny i,Michigan,8.0,Texas Tech,False,0.0,62.0
+1948,Johnny i,Virginia,8.0,Virginia,True,8.0,62.0
+1949,Johnny i,N. Carolina,8.0,Auburn,False,0.0,62.0
+1950,Johnny i,Duke,16.0,0,False,0.0,62.0
+1951,Johnny i,N. Carolina,16.0,0,False,0.0,62.0
+1952,Johnny i,N. Carolina,32.0,0,False,0.0,62.0
+1953,Ryan's Reasonable Bracket,Duke,1.0,Duke,True,1.0,64.0
+1954,Ryan's Reasonable Bracket,VCU,1.0,UCF,False,0.0,64.0
+1955,Ryan's Reasonable Bracket,Mississippi St.,1.0,Liberty,False,0.0,64.0
+1956,Ryan's Reasonable Bracket,Virginia Tech,1.0,Virginia Tech,True,1.0,64.0
+1957,Ryan's Reasonable Bracket,Belmont,1.0,Maryland,False,0.0,64.0
+1958,Ryan's Reasonable Bracket,LSU,1.0,LSU,True,1.0,64.0
+1959,Ryan's Reasonable Bracket,Minnesota,1.0,Minnesota,True,1.0,64.0
+1960,Ryan's Reasonable Bracket,Michigan St.,1.0,Michigan St.,True,1.0,64.0
+1961,Ryan's Reasonable Bracket,Gonzaga,1.0,Gonzaga,True,1.0,64.0
+1962,Ryan's Reasonable Bracket,Baylor,1.0,Baylor,True,1.0,64.0
+1963,Ryan's Reasonable Bracket,Murray St.,1.0,Murray St.,True,1.0,64.0
+1964,Ryan's Reasonable Bracket,Vermont,1.0,Florida St.,False,0.0,64.0
+1965,Ryan's Reasonable Bracket,Arizona St.,1.0,Buffalo,False,0.0,64.0
+1966,Ryan's Reasonable Bracket,Texas Tech,1.0,Texas Tech,True,1.0,64.0
+1967,Ryan's Reasonable Bracket,Nevada,1.0,Florida,False,0.0,64.0
+1968,Ryan's Reasonable Bracket,Michigan,1.0,Michigan,True,1.0,64.0
+1969,Ryan's Reasonable Bracket,Virginia,1.0,Virginia,True,1.0,64.0
+1970,Ryan's Reasonable Bracket,Oklahoma,1.0,Oklahoma,True,1.0,64.0
+1971,Ryan's Reasonable Bracket,Wisconsin,1.0,Oregon,False,0.0,64.0
+1972,Ryan's Reasonable Bracket,UC Irvine,1.0,UC Irvine,True,1.0,64.0
+1973,Ryan's Reasonable Bracket,St. Mary's,1.0,Villanova,False,0.0,64.0
+1974,Ryan's Reasonable Bracket,Purdue,1.0,Purdue,True,1.0,64.0
+1975,Ryan's Reasonable Bracket,Cincinnati,1.0,Iowa,False,0.0,64.0
+1976,Ryan's Reasonable Bracket,Tennessee,1.0,Tennessee,True,1.0,64.0
+1977,Ryan's Reasonable Bracket,N. Carolina,1.0,N. Carolina,True,1.0,64.0
+1978,Ryan's Reasonable Bracket,Washington,1.0,Washington,True,1.0,64.0
+1979,Ryan's Reasonable Bracket,N. Mex. St.,1.0,Auburn,False,0.0,64.0
+1980,Ryan's Reasonable Bracket,Kansas,1.0,Kansas,True,1.0,64.0
+1981,Ryan's Reasonable Bracket,Iowa St.,1.0,Ohio St.,False,0.0,64.0
+1982,Ryan's Reasonable Bracket,Houston,1.0,Houston,True,1.0,64.0
+1983,Ryan's Reasonable Bracket,Seton Hall,1.0,Wofford,False,0.0,64.0
+1984,Ryan's Reasonable Bracket,Kentucky,1.0,Kentucky,True,1.0,64.0
+1985,Ryan's Reasonable Bracket,Duke,2.0,Duke,True,2.0,64.0
+1986,Ryan's Reasonable Bracket,Virginia Tech,2.0,Virginia Tech,True,2.0,64.0
+1987,Ryan's Reasonable Bracket,LSU,2.0,LSU,True,2.0,64.0
+1988,Ryan's Reasonable Bracket,Michigan St.,2.0,Michigan St.,True,2.0,64.0
+1989,Ryan's Reasonable Bracket,Gonzaga,2.0,Gonzaga,True,2.0,64.0
+1990,Ryan's Reasonable Bracket,Murray St.,2.0,Florida St.,False,0.0,64.0
+1991,Ryan's Reasonable Bracket,Texas Tech,2.0,Texas Tech,True,2.0,64.0
+1992,Ryan's Reasonable Bracket,Michigan,2.0,Michigan,True,2.0,64.0
+1993,Ryan's Reasonable Bracket,Virginia,2.0,Virginia,True,2.0,64.0
+1994,Ryan's Reasonable Bracket,Wisconsin,2.0,Oregon,False,0.0,64.0
+1995,Ryan's Reasonable Bracket,St. Mary's,2.0,Purdue,False,0.0,64.0
+1996,Ryan's Reasonable Bracket,Cincinnati,2.0,Tennessee,False,0.0,64.0
+1997,Ryan's Reasonable Bracket,N. Carolina,2.0,N. Carolina,True,2.0,64.0
+1998,Ryan's Reasonable Bracket,Kansas,2.0,Auburn,False,0.0,64.0
+1999,Ryan's Reasonable Bracket,Iowa St.,2.0,Houston,False,0.0,64.0
+2000,Ryan's Reasonable Bracket,Kentucky,2.0,Kentucky,True,2.0,64.0
+2001,Ryan's Reasonable Bracket,Duke,4.0,Duke,True,4.0,64.0
+2002,Ryan's Reasonable Bracket,Michigan St.,4.0,Michigan St.,True,4.0,64.0
+2003,Ryan's Reasonable Bracket,Gonzaga,4.0,Gonzaga,True,4.0,64.0
+2004,Ryan's Reasonable Bracket,Michigan,4.0,Texas Tech,False,0.0,64.0
+2005,Ryan's Reasonable Bracket,Virginia,4.0,Virginia,True,4.0,64.0
+2006,Ryan's Reasonable Bracket,Cincinnati,4.0,Purdue,False,0.0,64.0
+2007,Ryan's Reasonable Bracket,N. Carolina,4.0,Auburn,False,0.0,64.0
+2008,Ryan's Reasonable Bracket,Iowa St.,4.0,Kentucky,False,0.0,64.0
+2009,Ryan's Reasonable Bracket,Duke,8.0,Michigan St.,False,0.0,64.0
+2010,Ryan's Reasonable Bracket,Michigan,8.0,Texas Tech,False,0.0,64.0
+2011,Ryan's Reasonable Bracket,Virginia,8.0,Virginia,True,8.0,64.0
+2012,Ryan's Reasonable Bracket,N. Carolina,8.0,Auburn,False,0.0,64.0
+2013,Ryan's Reasonable Bracket,Duke,16.0,0,False,0.0,64.0
+2014,Ryan's Reasonable Bracket,Virginia,16.0,0,False,0.0,64.0
+2015,Ryan's Reasonable Bracket,Virginia,32.0,0,False,0.0,64.0
+2016,sam is always right,Duke,1.0,Duke,True,1.0,67.0
+2017,sam is always right,VCU,1.0,UCF,False,0.0,67.0
+2018,sam is always right,Mississippi St.,1.0,Liberty,False,0.0,67.0
+2019,sam is always right,Virginia Tech,1.0,Virginia Tech,True,1.0,67.0
+2020,sam is always right,Belmont,1.0,Maryland,False,0.0,67.0
+2021,sam is always right,Yale,1.0,LSU,False,0.0,67.0
+2022,sam is always right,Louisville,1.0,Minnesota,False,0.0,67.0
+2023,sam is always right,Michigan St.,1.0,Michigan St.,True,1.0,67.0
+2024,sam is always right,Gonzaga,1.0,Gonzaga,True,1.0,67.0
+2025,sam is always right,Syracuse,1.0,Baylor,False,0.0,67.0
+2026,sam is always right,Marquette,1.0,Murray St.,False,0.0,67.0
+2027,sam is always right,Florida St.,1.0,Florida St.,True,1.0,67.0
+2028,sam is always right,Buffalo,1.0,Buffalo,True,1.0,67.0
+2029,sam is always right,Texas Tech,1.0,Texas Tech,True,1.0,67.0
+2030,sam is always right,Florida,1.0,Florida,True,1.0,67.0
+2031,sam is always right,Michigan,1.0,Michigan,True,1.0,67.0
+2032,sam is always right,Virginia,1.0,Virginia,True,1.0,67.0
+2033,sam is always right,Mississippi,1.0,Oklahoma,False,0.0,67.0
+2034,sam is always right,Wisconsin,1.0,Oregon,False,0.0,67.0
+2035,sam is always right,Kansas St.,1.0,UC Irvine,False,0.0,67.0
+2036,sam is always right,Villanova,1.0,Villanova,True,1.0,67.0
+2037,sam is always right,Purdue,1.0,Purdue,True,1.0,67.0
+2038,sam is always right,Cincinnati,1.0,Iowa,False,0.0,67.0
+2039,sam is always right,Tennessee,1.0,Tennessee,True,1.0,67.0
+2040,sam is always right,N. Carolina,1.0,N. Carolina,True,1.0,67.0
+2041,sam is always right,Utah St.,1.0,Washington,False,0.0,67.0
+2042,sam is always right,Auburn,1.0,Auburn,True,1.0,67.0
+2043,sam is always right,Kansas,1.0,Kansas,True,1.0,67.0
+2044,sam is always right,Ohio St.,1.0,Ohio St.,True,1.0,67.0
+2045,sam is always right,Houston,1.0,Houston,True,1.0,67.0
+2046,sam is always right,Seton Hall,1.0,Wofford,False,0.0,67.0
+2047,sam is always right,Kentucky,1.0,Kentucky,True,1.0,67.0
+2048,sam is always right,Duke,2.0,Duke,True,2.0,67.0
+2049,sam is always right,Mississippi St.,2.0,Virginia Tech,False,0.0,67.0
+2050,sam is always right,Belmont,2.0,LSU,False,0.0,67.0
+2051,sam is always right,Michigan St.,2.0,Michigan St.,True,2.0,67.0
+2052,sam is always right,Gonzaga,2.0,Gonzaga,True,2.0,67.0
+2053,sam is always right,Florida St.,2.0,Florida St.,True,2.0,67.0
+2054,sam is always right,Buffalo,2.0,Texas Tech,False,0.0,67.0
+2055,sam is always right,Michigan,2.0,Michigan,True,2.0,67.0
+2056,sam is always right,Virginia,2.0,Virginia,True,2.0,67.0
+2057,sam is always right,Wisconsin,2.0,Oregon,False,0.0,67.0
+2058,sam is always right,Villanova,2.0,Purdue,False,0.0,67.0
+2059,sam is always right,Tennessee,2.0,Tennessee,True,2.0,67.0
+2060,sam is always right,N. Carolina,2.0,N. Carolina,True,2.0,67.0
+2061,sam is always right,Auburn,2.0,Auburn,True,2.0,67.0
+2062,sam is always right,Ohio St.,2.0,Houston,False,0.0,67.0
+2063,sam is always right,Kentucky,2.0,Kentucky,True,2.0,67.0
+2064,sam is always right,Duke,4.0,Duke,True,4.0,67.0
+2065,sam is always right,Michigan St.,4.0,Michigan St.,True,4.0,67.0
+2066,sam is always right,Gonzaga,4.0,Gonzaga,True,4.0,67.0
+2067,sam is always right,Michigan,4.0,Texas Tech,False,0.0,67.0
+2068,sam is always right,Virginia,4.0,Virginia,True,4.0,67.0
+2069,sam is always right,Villanova,4.0,Purdue,False,0.0,67.0
+2070,sam is always right,N. Carolina,4.0,Auburn,False,0.0,67.0
+2071,sam is always right,Kentucky,4.0,Kentucky,True,4.0,67.0
+2072,sam is always right,Michigan St.,8.0,Michigan St.,True,8.0,67.0
+2073,sam is always right,Gonzaga,8.0,Texas Tech,False,0.0,67.0
+2074,sam is always right,Villanova,8.0,Virginia,False,0.0,67.0
+2075,sam is always right,N. Carolina,8.0,Auburn,False,0.0,67.0
+2076,sam is always right,Gonzaga,16.0,0,False,0.0,67.0
+2077,sam is always right,N. Carolina,16.0,0,False,0.0,67.0
+2078,sam is always right,N. Carolina,32.0,0,False,0.0,67.0
+2079,Chastity Chastain Champion,Duke,1.0,Duke,True,1.0,49.0
+2080,Chastity Chastain Champion,VCU,1.0,UCF,False,0.0,49.0
+2081,Chastity Chastain Champion,Mississippi St.,1.0,Liberty,False,0.0,49.0
+2082,Chastity Chastain Champion,Virginia Tech,1.0,Virginia Tech,True,1.0,49.0
+2083,Chastity Chastain Champion,Maryland,1.0,Maryland,True,1.0,49.0
+2084,Chastity Chastain Champion,Yale,1.0,LSU,False,0.0,49.0
+2085,Chastity Chastain Champion,Minnesota,1.0,Minnesota,True,1.0,49.0
+2086,Chastity Chastain Champion,Michigan St.,1.0,Michigan St.,True,1.0,49.0
+2087,Chastity Chastain Champion,Gonzaga,1.0,Gonzaga,True,1.0,49.0
+2088,Chastity Chastain Champion,Syracuse,1.0,Baylor,False,0.0,49.0
+2089,Chastity Chastain Champion,Marquette,1.0,Murray St.,False,0.0,49.0
+2090,Chastity Chastain Champion,Florida St.,1.0,Florida St.,True,1.0,49.0
+2091,Chastity Chastain Champion,Buffalo,1.0,Buffalo,True,1.0,49.0
+2092,Chastity Chastain Champion,Texas Tech,1.0,Texas Tech,True,1.0,49.0
+2093,Chastity Chastain Champion,Nevada,1.0,Florida,False,0.0,49.0
+2094,Chastity Chastain Champion,Michigan,1.0,Michigan,True,1.0,49.0
+2095,Chastity Chastain Champion,Virginia,1.0,Virginia,True,1.0,49.0
+2096,Chastity Chastain Champion,Mississippi,1.0,Oklahoma,False,0.0,49.0
+2097,Chastity Chastain Champion,Wisconsin,1.0,Oregon,False,0.0,49.0
+2098,Chastity Chastain Champion,Kansas St.,1.0,UC Irvine,False,0.0,49.0
+2099,Chastity Chastain Champion,St. Mary's,1.0,Villanova,False,0.0,49.0
+2100,Chastity Chastain Champion,Purdue,1.0,Purdue,True,1.0,49.0
+2101,Chastity Chastain Champion,Cincinnati,1.0,Iowa,False,0.0,49.0
+2102,Chastity Chastain Champion,Tennessee,1.0,Tennessee,True,1.0,49.0
+2103,Chastity Chastain Champion,N. Carolina,1.0,N. Carolina,True,1.0,49.0
+2104,Chastity Chastain Champion,Washington,1.0,Washington,True,1.0,49.0
+2105,Chastity Chastain Champion,Auburn,1.0,Auburn,True,1.0,49.0
+2106,Chastity Chastain Champion,Kansas,1.0,Kansas,True,1.0,49.0
+2107,Chastity Chastain Champion,Iowa St.,1.0,Ohio St.,False,0.0,49.0
+2108,Chastity Chastain Champion,Houston,1.0,Houston,True,1.0,49.0
+2109,Chastity Chastain Champion,Seton Hall,1.0,Wofford,False,0.0,49.0
+2110,Chastity Chastain Champion,Kentucky,1.0,Kentucky,True,1.0,49.0
+2111,Chastity Chastain Champion,Duke,2.0,Duke,True,2.0,49.0
+2112,Chastity Chastain Champion,Mississippi St.,2.0,Virginia Tech,False,0.0,49.0
+2113,Chastity Chastain Champion,Maryland,2.0,LSU,False,0.0,49.0
+2114,Chastity Chastain Champion,Michigan St.,2.0,Michigan St.,True,2.0,49.0
+2115,Chastity Chastain Champion,Syracuse,2.0,Gonzaga,False,0.0,49.0
+2116,Chastity Chastain Champion,Florida St.,2.0,Florida St.,True,2.0,49.0
+2117,Chastity Chastain Champion,Buffalo,2.0,Texas Tech,False,0.0,49.0
+2118,Chastity Chastain Champion,Michigan,2.0,Michigan,True,2.0,49.0
+2119,Chastity Chastain Champion,Virginia,2.0,Virginia,True,2.0,49.0
+2120,Chastity Chastain Champion,Wisconsin,2.0,Oregon,False,0.0,49.0
+2121,Chastity Chastain Champion,Purdue,2.0,Purdue,True,2.0,49.0
+2122,Chastity Chastain Champion,Tennessee,2.0,Tennessee,True,2.0,49.0
+2123,Chastity Chastain Champion,N. Carolina,2.0,N. Carolina,True,2.0,49.0
+2124,Chastity Chastain Champion,Kansas,2.0,Auburn,False,0.0,49.0
+2125,Chastity Chastain Champion,Houston,2.0,Houston,True,2.0,49.0
+2126,Chastity Chastain Champion,Seton Hall,2.0,Kentucky,False,0.0,49.0
+2127,Chastity Chastain Champion,Duke,4.0,Duke,True,4.0,49.0
+2128,Chastity Chastain Champion,Michigan St.,4.0,Michigan St.,True,4.0,49.0
+2129,Chastity Chastain Champion,Florida St.,4.0,Gonzaga,False,0.0,49.0
+2130,Chastity Chastain Champion,Michigan,4.0,Texas Tech,False,0.0,49.0
+2131,Chastity Chastain Champion,Virginia,4.0,Virginia,True,4.0,49.0
+2132,Chastity Chastain Champion,Tennessee,4.0,Purdue,False,0.0,49.0
+2133,Chastity Chastain Champion,N. Carolina,4.0,Auburn,False,0.0,49.0
+2134,Chastity Chastain Champion,Houston,4.0,Kentucky,False,0.0,49.0
+2135,Chastity Chastain Champion,Duke,8.0,Michigan St.,False,0.0,49.0
+2136,Chastity Chastain Champion,Florida St.,8.0,Texas Tech,False,0.0,49.0
+2137,Chastity Chastain Champion,Tennessee,8.0,Virginia,False,0.0,49.0
+2138,Chastity Chastain Champion,N. Carolina,8.0,Auburn,False,0.0,49.0
+2139,Chastity Chastain Champion,Duke,16.0,0,False,0.0,49.0
+2140,Chastity Chastain Champion,N. Carolina,16.0,0,False,0.0,49.0
+2141,Chastity Chastain Champion,Duke,32.0,0,False,0.0,49.0
+2142,Good Luck To All Participants,Duke,1.0,Duke,True,1.0,54.0
+2143,Good Luck To All Participants,UCF,1.0,UCF,True,1.0,54.0
+2144,Good Luck To All Participants,Mississippi St.,1.0,Liberty,False,0.0,54.0
+2145,Good Luck To All Participants,Virginia Tech,1.0,Virginia Tech,True,1.0,54.0
+2146,Good Luck To All Participants,Belmont,1.0,Maryland,False,0.0,54.0
+2147,Good Luck To All Participants,LSU,1.0,LSU,True,1.0,54.0
+2148,Good Luck To All Participants,Minnesota,1.0,Minnesota,True,1.0,54.0
+2149,Good Luck To All Participants,Michigan St.,1.0,Michigan St.,True,1.0,54.0
+2150,Good Luck To All Participants,Gonzaga,1.0,Gonzaga,True,1.0,54.0
+2151,Good Luck To All Participants,Syracuse,1.0,Baylor,False,0.0,54.0
+2152,Good Luck To All Participants,Murray St.,1.0,Murray St.,True,1.0,54.0
+2153,Good Luck To All Participants,Florida St.,1.0,Florida St.,True,1.0,54.0
+2154,Good Luck To All Participants,Buffalo,1.0,Buffalo,True,1.0,54.0
+2155,Good Luck To All Participants,Texas Tech,1.0,Texas Tech,True,1.0,54.0
+2156,Good Luck To All Participants,Nevada,1.0,Florida,False,0.0,54.0
+2157,Good Luck To All Participants,Michigan,1.0,Michigan,True,1.0,54.0
+2158,Good Luck To All Participants,Virginia,1.0,Virginia,True,1.0,54.0
+2159,Good Luck To All Participants,Oklahoma,1.0,Oklahoma,True,1.0,54.0
+2160,Good Luck To All Participants,Wisconsin,1.0,Oregon,False,0.0,54.0
+2161,Good Luck To All Participants,Kansas St.,1.0,UC Irvine,False,0.0,54.0
+2162,Good Luck To All Participants,St. Mary's,1.0,Villanova,False,0.0,54.0
+2163,Good Luck To All Participants,Purdue,1.0,Purdue,True,1.0,54.0
+2164,Good Luck To All Participants,Cincinnati,1.0,Iowa,False,0.0,54.0
+2165,Good Luck To All Participants,Tennessee,1.0,Tennessee,True,1.0,54.0
+2166,Good Luck To All Participants,N. Carolina,1.0,N. Carolina,True,1.0,54.0
+2167,Good Luck To All Participants,Washington,1.0,Washington,True,1.0,54.0
+2168,Good Luck To All Participants,N. Mex. St.,1.0,Auburn,False,0.0,54.0
+2169,Good Luck To All Participants,Kansas,1.0,Kansas,True,1.0,54.0
+2170,Good Luck To All Participants,Iowa St.,1.0,Ohio St.,False,0.0,54.0
+2171,Good Luck To All Participants,Houston,1.0,Houston,True,1.0,54.0
+2172,Good Luck To All Participants,Wofford,1.0,Wofford,True,1.0,54.0
+2173,Good Luck To All Participants,Kentucky,1.0,Kentucky,True,1.0,54.0
+2174,Good Luck To All Participants,Duke,2.0,Duke,True,2.0,54.0
+2175,Good Luck To All Participants,Virginia Tech,2.0,Virginia Tech,True,2.0,54.0
+2176,Good Luck To All Participants,Belmont,2.0,LSU,False,0.0,54.0
+2177,Good Luck To All Participants,Michigan St.,2.0,Michigan St.,True,2.0,54.0
+2178,Good Luck To All Participants,Syracuse,2.0,Gonzaga,False,0.0,54.0
+2179,Good Luck To All Participants,Florida St.,2.0,Florida St.,True,2.0,54.0
+2180,Good Luck To All Participants,Buffalo,2.0,Texas Tech,False,0.0,54.0
+2181,Good Luck To All Participants,Nevada,2.0,Michigan,False,0.0,54.0
+2182,Good Luck To All Participants,Virginia,2.0,Virginia,True,2.0,54.0
+2183,Good Luck To All Participants,Kansas St.,2.0,Oregon,False,0.0,54.0
+2184,Good Luck To All Participants,St. Mary's,2.0,Purdue,False,0.0,54.0
+2185,Good Luck To All Participants,Cincinnati,2.0,Tennessee,False,0.0,54.0
+2186,Good Luck To All Participants,N. Carolina,2.0,N. Carolina,True,2.0,54.0
+2187,Good Luck To All Participants,Kansas,2.0,Auburn,False,0.0,54.0
+2188,Good Luck To All Participants,Iowa St.,2.0,Houston,False,0.0,54.0
+2189,Good Luck To All Participants,Wofford,2.0,Kentucky,False,0.0,54.0
+2190,Good Luck To All Participants,Duke,4.0,Duke,True,4.0,54.0
+2191,Good Luck To All Participants,Michigan St.,4.0,Michigan St.,True,4.0,54.0
+2192,Good Luck To All Participants,Florida St.,4.0,Gonzaga,False,0.0,54.0
+2193,Good Luck To All Participants,Nevada,4.0,Texas Tech,False,0.0,54.0
+2194,Good Luck To All Participants,Virginia,4.0,Virginia,True,4.0,54.0
+2195,Good Luck To All Participants,Cincinnati,4.0,Purdue,False,0.0,54.0
+2196,Good Luck To All Participants,Kansas,4.0,Auburn,False,0.0,54.0
+2197,Good Luck To All Participants,Wofford,4.0,Kentucky,False,0.0,54.0
+2198,Good Luck To All Participants,Duke,8.0,Michigan St.,False,0.0,54.0
+2199,Good Luck To All Participants,Florida St.,8.0,Texas Tech,False,0.0,54.0
+2200,Good Luck To All Participants,Virginia,8.0,Virginia,True,8.0,54.0
+2201,Good Luck To All Participants,Kansas,8.0,Auburn,False,0.0,54.0
+2202,Good Luck To All Participants,Duke,16.0,0,False,0.0,54.0
+2203,Good Luck To All Participants,Virginia,16.0,0,False,0.0,54.0
+2204,Good Luck To All Participants,Virginia,32.0,0,False,0.0,54.0

@@ -1,0 +1,159 @@
+winner,f1,f2,EV,n
+Baylor,Gonzaga,Baylor,16.310678571428564,1120.0
+Illinois,Gonzaga,Illinois,13.613381201044406,1532.0
+Gonzaga,Gonzaga,Houston,13.181791044776114,737.0
+Illinois,Iowa,Illinois,12.231846153846154,390.0
+Baylor,Iowa,Baylor,12.174084507042258,284.0
+Houston,Gonzaga,Houston,12.104981132075471,265.0
+Houston,Iowa,Houston,11.81136363636364,88.0
+Baylor,Alabama,Baylor,10.832314814814831,216.0
+Houston,Alabama,Houston,9.66888888888889,54.0
+Houston,Michigan,Houston,9.558409090909088,88.0
+Illinois,Alabama,Illinois,9.265096525096535,259.0
+Iowa,Iowa,Illinois,9.101933333333331,300.0
+Baylor,Michigan,Baylor,8.94172413793103,406.0
+Iowa,Iowa,Houston,8.510869565217394,92.0
+Iowa,Iowa,Baylor,7.7580198019802005,303.0
+Baylor,Florida State,Baylor,6.357837837837839,74.0
+Illinois,Michigan,Illinois,6.083798882681562,537.0
+Gonzaga,Gonzaga,Illinois,5.1727719298245525,2565.0
+Iowa,Iowa,Purdue,5.012173913043477,23.0
+Houston,Texas,Houston,4.5855999999999995,25.0
+Iowa,Iowa,Ohio State,4.362400000000003,125.0
+Baylor,Virginia,Baylor,3.0817391304347828,69.0
+Illinois,Florida State,Illinois,2.8714999999999984,80.0
+Iowa,Iowa,Arkansas,2.845,20.0
+Gonzaga,Gonzaga,Ohio State,2.6158932238193078,974.0
+Gonzaga,Gonzaga,Baylor,2.436545794392526,2675.0
+Houston,Kansas,Houston,1.8345454545454538,33.0
+Alabama,Alabama,Houston,1.341538461538461,52.0
+Ohio State,Iowa,Ohio State,1.0407547169811322,106.0
+Ohio State,Gonzaga,Ohio State,1.0308753315649868,377.0
+Ohio State,Alabama,Ohio State,0.6642857142857141,70.0
+Baylor,Texas,Baylor,0.6452892561983472,121.0
+Baylor,Kansas,Baylor,0.3189393939393939,132.0
+Iowa,Iowa,West Virginia,0.2422222222222222,36.0
+Illinois,Virginia,Illinois,0.15415094339622648,106.0
+Iowa,Iowa,North Carolina,-0.2800000000000008,16.0
+Illinois,Texas,Illinois,-0.5825149700598806,167.0
+Alabama,Alabama,Illinois,-0.6362318840579708,207.0
+Illinois,Kansas,Illinois,-0.9155555555555552,153.0
+Alabama,Alabama,Ohio State,-1.0425287356321835,87.0
+Baylor,Creighton,Baylor,-1.3392000000000002,25.0
+Ohio State,Florida State,Ohio State,-1.5333333333333332,21.0
+Alabama,Alabama,Baylor,-1.6240723981900456,221.0
+Ohio State,Michigan,Ohio State,-2.1705063291139237,158.0
+Iowa,Iowa,Villanova,-2.491578947368421,19.0
+Ohio State,Texas,Ohio State,-2.592571428571429,35.0
+Illinois,Creighton,Illinois,-3.1735714285714285,28.0
+Ohio State,Virginia,Ohio State,-3.381290322580647,31.0
+Ohio State,Kansas,Ohio State,-3.704,45.0
+Gonzaga,Gonzaga,Purdue,-4.012702702702702,148.0
+Iowa,Iowa,Oklahoma State,-4.053809523809522,42.0
+Baylor,Southern California,Baylor,-4.4056,25.0
+Alabama,Alabama,West Virginia,-4.429655172413792,29.0
+Michigan,Michigan,Houston,-4.7354117647058835,170.0
+Illinois,Southern California,Illinois,-4.808181818181819,22.0
+Gonzaga,Gonzaga,Texas Tech,-4.855087719298247,114.0
+Gonzaga,Gonzaga,West Virginia,-5.147231270358305,307.0
+Gonzaga,Gonzaga,Wisconsin,-5.832000000000001,40.0
+Michigan,Michigan,Illinois,-5.889841827768009,569.0
+Florida State,Florida State,Houston,-6.025882352941176,17.0
+Gonzaga,Gonzaga,Arkansas,-6.132163742690058,171.0
+Gonzaga,Gonzaga,Tennessee,-6.2839024390243905,123.0
+Virginia,Virginia,Houston,-6.699999999999998,26.0
+Alabama,Alabama,Purdue,-6.711111111111111,18.0
+Illinois,Brigham Young,Illinois,-6.724761904761906,21.0
+Michigan,Michigan,Baylor,-6.789983361064896,601.0
+Illinois,Louisiana State,Illinois,-7.285599999999999,25.0
+Alabama,Alabama,Oklahoma State,-7.327142857142857,28.0
+Michigan,Michigan,Ohio State,-7.482053571428573,224.0
+Virginia,Virginia,Illinois,-8.216559139784946,93.0
+Michigan,Michigan,Purdue,-8.569756097560974,41.0
+Virginia,Virginia,Baylor,-8.675757575757576,99.0
+Illinois,Connecticut,Illinois,-8.68952380952381,21.0
+Virginia,Virginia,Ohio State,-8.70590909090909,44.0
+Michigan,Michigan,West Virginia,-8.72342857142857,70.0
+Gonzaga,Gonzaga,San Diego State,-9.386666666666667,51.0
+Michigan,Michigan,Texas Tech,-9.521052631578948,19.0
+Florida State,Florida State,Baylor,-10.102666666666664,75.0
+Kansas,Kansas,Houston,-10.141818181818184,33.0
+Texas,Texas,Houston,-10.165238095238095,42.0
+Baylor,Oklahoma,Baylor,-10.253076923076922,26.0
+Florida State,Florida State,Illinois,-10.573731343283582,67.0
+Michigan,Michigan,Tennessee,-10.695384615384615,26.0
+Florida State,Florida State,Ohio State,-10.79304347826087,23.0
+Texas,Texas,Ohio State,-10.841851851851855,54.0
+Kansas,Kansas,Ohio State,-11.111891891891892,74.0
+Kansas,Kansas,Illinois,-11.206611570247937,121.0
+Gonzaga,Gonzaga,Villanova,-11.258478260869568,184.0
+Gonzaga,Gonzaga,Oklahoma State,-11.304893617021266,376.0
+Texas,Texas,Illinois,-11.33063063063063,111.0
+Purdue,Gonzaga,Purdue,-11.397916666666667,48.0
+Kansas,Kansas,Baylor,-11.449784172661877,139.0
+Michigan,Michigan,North Carolina,-11.619000000000002,20.0
+Texas,Texas,Baylor,-11.628750000000005,112.0
+Gonzaga,Gonzaga,North Carolina,-11.750612244897965,98.0
+Texas Tech,Gonzaga,Texas Tech,-11.831515151515152,33.0
+Purdue,Michigan,Purdue,-11.996666666666664,24.0
+Michigan,Michigan,Arkansas,-12.154545454545456,44.0
+Arkansas,Iowa,Arkansas,-12.166451612903225,31.0
+Gonzaga,Gonzaga,Loyola (IL),-12.397941176470589,68.0
+West Virginia,Michigan,West Virginia,-12.481290322580644,31.0
+Michigan,Michigan,Oklahoma State,-12.502926829268294,82.0
+Illinois,Missouri,Illinois,-12.54842105263158,19.0
+West Virginia,Iowa,West Virginia,-12.62102564102564,39.0
+West Virginia,Gonzaga,West Virginia,-12.861157024793393,121.0
+Michigan,Michigan,Villanova,-13.004999999999999,32.0
+Creighton,Creighton,Baylor,-13.101481481481482,27.0
+Creighton,Creighton,Illinois,-13.205217391304348,23.0
+Texas Tech,Michigan,Texas Tech,-13.350000000000001,16.0
+Arkansas,Michigan,Arkansas,-13.446896551724135,29.0
+Illinois,Oklahoma,Illinois,-13.498518518518516,27.0
+Texas,Texas,Oklahoma State,-13.608148148148146,27.0
+Baylor,Norfolk State,Baylor,-13.790666666666663,30.0
+Arkansas,Gonzaga,Arkansas,-14.007272727272726,66.0
+Illinois,Norfolk State,Illinois,-14.028292682926834,41.0
+Gonzaga,Gonzaga,Florida,-14.11235294117647,34.0
+Gonzaga,Gonzaga,Rutgers,-14.241176470588234,17.0
+Tennessee,Gonzaga,Tennessee,-14.244499999999999,40.0
+Wisconsin,Gonzaga,Wisconsin,-14.292258064516128,31.0
+Southern California,Southern California,Illinois,-14.532222222222222,18.0
+Southern California,Southern California,Baylor,-14.708750000000002,16.0
+Oklahoma State,Iowa,Oklahoma State,-15.016111111111112,36.0
+Gonzaga,Gonzaga,Virginia Tech,-15.075999999999999,25.0
+Gonzaga,Gonzaga,Georgia Tech,-15.366666666666664,42.0
+Connecticut,Connecticut,Baylor,-15.922999999999998,20.0
+Gonzaga,Gonzaga,Syracuse,-15.988666666666665,30.0
+Oklahoma State,Texas,Oklahoma State,-16.185454545454544,22.0
+San Diego State,Gonzaga,San Diego State,-16.26285714285714,21.0
+Louisiana State,Louisiana State,Illinois,-16.270434782608696,23.0
+Louisiana State,Louisiana State,Baylor,-16.299090909090914,22.0
+Connecticut,Connecticut,Illinois,-16.346956521739127,23.0
+North Carolina,Michigan,North Carolina,-16.35333333333334,24.0
+Oklahoma State,Alabama,Oklahoma State,-16.37185185185185,27.0
+Gonzaga,Gonzaga,Colgate,-16.434117647058823,17.0
+North Carolina,Gonzaga,North Carolina,-16.71578947368421,57.0
+Oklahoma State,Gonzaga,Oklahoma State,-16.97692307692308,130.0
+Brigham Young,Brigham Young,Baylor,-17.07578947368421,19.0
+Gonzaga,Gonzaga,Clemson,-17.12764705882353,34.0
+Villanova,Gonzaga,Villanova,-17.12782608695652,46.0
+Gonzaga,Gonzaga,Oregon State,-17.13263157894737,19.0
+Oklahoma State,Michigan,Oklahoma State,-17.220377358490566,53.0
+Brigham Young,Brigham Young,Illinois,-17.684761904761906,21.0
+Gonzaga,Gonzaga,Liberty,-17.775,16.0
+Loyola (IL),Gonzaga,Loyola (IL),-17.817297297297287,37.0
+Gonzaga,Gonzaga,Hartford,-18.095151515151517,33.0
+Oregon,Oregon,Illinois,-18.150833333333335,24.0
+Oregon,Oregon,Baylor,-18.264444444444443,27.0
+Oklahoma,Oklahoma,Ohio State,-18.461176470588235,17.0
+Gonzaga,Gonzaga,Drexel,-18.63769230769231,26.0
+Oklahoma,Oklahoma,Illinois,-19.04206896551724,29.0
+Georgia Tech,Gonzaga,Georgia Tech,-19.1325,24.0
+Oklahoma,Oklahoma,Baylor,-19.217857142857138,28.0
+Missouri,Missouri,Illinois,-19.46916666666667,24.0
+Missouri,Missouri,Baylor,-19.47176470588235,17.0
+Clemson,Gonzaga,Clemson,-19.564444444444444,18.0
+Drexel,Gonzaga,Drexel,-19.757777777777775,18.0
+Norfolk State,Norfolk State,Baylor,-19.77714285714286,21.0
+Norfolk State,Norfolk State,Illinois,-19.810833333333335,24.0

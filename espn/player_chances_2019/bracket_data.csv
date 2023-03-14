@@ -1,0 +1,1828 @@
+,Bracket Name,Picks,Round,Winner,Correct?,Points,Total
+0,JHAM,Duke,1.0,Duke,True,1.0,82.0
+1,JHAM,VCU,1.0,UCF,False,0.0,82.0
+2,JHAM,Mississippi St,1.0,Liberty,False,0.0,82.0
+3,JHAM,Virginia Tech,1.0,Virginia Tech,True,1.0,82.0
+4,JHAM,Maryland,1.0,Maryland,True,1.0,82.0
+5,JHAM,LSU,1.0,LSU,True,1.0,82.0
+6,JHAM,Louisville,1.0,Minnesota,False,0.0,82.0
+7,JHAM,Michigan State,1.0,Michigan State,True,1.0,82.0
+8,JHAM,Gonzaga,1.0,Gonzaga,True,1.0,82.0
+9,JHAM,Syracuse,1.0,Baylor,False,0.0,82.0
+10,JHAM,Murray State,1.0,Murray State,True,1.0,82.0
+11,JHAM,Florida St,1.0,Florida St,True,1.0,82.0
+12,JHAM,Buffalo,1.0,Buffalo,True,1.0,82.0
+13,JHAM,Texas Tech,1.0,Texas Tech,True,1.0,82.0
+14,JHAM,Florida,1.0,Florida,True,1.0,82.0
+15,JHAM,Michigan,1.0,Michigan,True,1.0,82.0
+16,JHAM,Virginia,1.0,Virginia,True,1.0,82.0
+17,JHAM,Oklahoma,1.0,Oklahoma,True,1.0,82.0
+18,JHAM,Oregon,1.0,Oregon,True,1.0,82.0
+19,JHAM,Kansas State,1.0,UC Irvine,False,0.0,82.0
+20,JHAM,Villanova,1.0,Villanova,True,1.0,82.0
+21,JHAM,Purdue,1.0,Purdue,True,1.0,82.0
+22,JHAM,Cincinnati,1.0,Iowa,False,0.0,82.0
+23,JHAM,Tennessee,1.0,Tennessee,True,1.0,82.0
+24,JHAM,North Carolina,1.0,North Carolina,True,1.0,82.0
+25,JHAM,Utah State,1.0,Washington,False,0.0,82.0
+26,JHAM,Auburn,1.0,Auburn,True,1.0,82.0
+27,JHAM,Kansas,1.0,Kansas,True,1.0,82.0
+28,JHAM,Iowa State,1.0,Ohio State,False,0.0,82.0
+29,JHAM,Houston,1.0,Houston,True,1.0,82.0
+30,JHAM,Wofford,1.0,Wofford,True,1.0,82.0
+31,JHAM,Kentucky,1.0,Kentucky,True,1.0,82.0
+32,JHAM,Duke,2.0,Duke,True,2.0,82.0
+33,JHAM,Virginia Tech,2.0,Virginia Tech,True,2.0,82.0
+34,JHAM,LSU,2.0,LSU,True,2.0,82.0
+35,JHAM,Michigan State,2.0,Michigan State,True,2.0,82.0
+36,JHAM,Gonzaga,2.0,Gonzaga,True,2.0,82.0
+37,JHAM,Florida St,2.0,Florida St,True,2.0,82.0
+38,JHAM,Texas Tech,2.0,Texas Tech,True,2.0,82.0
+39,JHAM,Michigan,2.0,Michigan,True,2.0,82.0
+40,JHAM,Virginia,2.0,Virginia,True,2.0,82.0
+41,JHAM,Kansas State,2.0,Oregon,False,0.0,82.0
+42,JHAM,Purdue,2.0,Purdue,True,2.0,82.0
+43,JHAM,Tennessee,2.0,Tennessee,True,2.0,82.0
+44,JHAM,North Carolina,2.0,North Carolina,True,2.0,82.0
+45,JHAM,Auburn,2.0,Auburn,True,2.0,82.0
+46,JHAM,Houston,2.0,Houston,True,2.0,82.0
+47,JHAM,Kentucky,2.0,Kentucky,True,2.0,82.0
+48,JHAM,Duke,4.0,Duke,True,4.0,82.0
+49,JHAM,Michigan State,4.0,Michigan State,True,4.0,82.0
+50,JHAM,Gonzaga,4.0,Gonzaga,True,4.0,82.0
+51,JHAM,Michigan,4.0,Texas Tech,False,0.0,82.0
+52,JHAM,Virginia,4.0,Virginia,True,4.0,82.0
+53,JHAM,Tennessee,4.0,Purdue,False,0.0,82.0
+54,JHAM,North Carolina,4.0,Auburn,False,0.0,82.0
+55,JHAM,Kentucky,4.0,Kentucky,True,4.0,82.0
+56,JHAM,Duke,8.0,Michigan State,False,0.0,82.0
+57,JHAM,Gonzaga,8.0,Texas Tech,False,0.0,82.0
+58,JHAM,Virginia,8.0,Virginia,True,8.0,82.0
+59,JHAM,North Carolina,8.0,Auburn,False,0.0,82.0
+60,JHAM,Duke,16.0,0,False,0.0,82.0
+61,JHAM,Virginia,16.0,0,False,0.0,82.0
+62,JHAM,Virginia,32.0,0,False,0.0,82.0
+63,Holden onto Hope,Duke,1.0,Duke,True,1.0,80.0
+64,Holden onto Hope,VCU,1.0,UCF,False,0.0,80.0
+65,Holden onto Hope,Liberty,1.0,Liberty,True,1.0,80.0
+66,Holden onto Hope,Virginia Tech,1.0,Virginia Tech,True,1.0,80.0
+67,Holden onto Hope,Maryland,1.0,Maryland,True,1.0,80.0
+68,Holden onto Hope,LSU,1.0,LSU,True,1.0,80.0
+69,Holden onto Hope,Minnesota,1.0,Minnesota,True,1.0,80.0
+70,Holden onto Hope,Michigan State,1.0,Michigan State,True,1.0,80.0
+71,Holden onto Hope,Gonzaga,1.0,Gonzaga,True,1.0,80.0
+72,Holden onto Hope,Syracuse,1.0,Baylor,False,0.0,80.0
+73,Holden onto Hope,Murray State,1.0,Murray State,True,1.0,80.0
+74,Holden onto Hope,Florida St,1.0,Florida St,True,1.0,80.0
+75,Holden onto Hope,Buffalo,1.0,Buffalo,True,1.0,80.0
+76,Holden onto Hope,Texas Tech,1.0,Texas Tech,True,1.0,80.0
+77,Holden onto Hope,Nevada,1.0,Florida,False,0.0,80.0
+78,Holden onto Hope,Michigan,1.0,Michigan,True,1.0,80.0
+79,Holden onto Hope,Virginia,1.0,Virginia,True,1.0,80.0
+80,Holden onto Hope,Oklahoma,1.0,Oklahoma,True,1.0,80.0
+81,Holden onto Hope,Wisconsin,1.0,Oregon,False,0.0,80.0
+82,Holden onto Hope,Kansas State,1.0,UC Irvine,False,0.0,80.0
+83,Holden onto Hope,Villanova,1.0,Villanova,True,1.0,80.0
+84,Holden onto Hope,Purdue,1.0,Purdue,True,1.0,80.0
+85,Holden onto Hope,Iowa,1.0,Iowa,True,1.0,80.0
+86,Holden onto Hope,Tennessee,1.0,Tennessee,True,1.0,80.0
+87,Holden onto Hope,North Carolina,1.0,North Carolina,True,1.0,80.0
+88,Holden onto Hope,Washington,1.0,Washington,True,1.0,80.0
+89,Holden onto Hope,Auburn,1.0,Auburn,True,1.0,80.0
+90,Holden onto Hope,Kansas,1.0,Kansas,True,1.0,80.0
+91,Holden onto Hope,Iowa State,1.0,Ohio State,False,0.0,80.0
+92,Holden onto Hope,Houston,1.0,Houston,True,1.0,80.0
+93,Holden onto Hope,Wofford,1.0,Wofford,True,1.0,80.0
+94,Holden onto Hope,Kentucky,1.0,Kentucky,True,1.0,80.0
+95,Holden onto Hope,Duke,2.0,Duke,True,2.0,80.0
+96,Holden onto Hope,Virginia Tech,2.0,Virginia Tech,True,2.0,80.0
+97,Holden onto Hope,LSU,2.0,LSU,True,2.0,80.0
+98,Holden onto Hope,Michigan State,2.0,Michigan State,True,2.0,80.0
+99,Holden onto Hope,Gonzaga,2.0,Gonzaga,True,2.0,80.0
+100,Holden onto Hope,Florida St,2.0,Florida St,True,2.0,80.0
+101,Holden onto Hope,Buffalo,2.0,Texas Tech,False,0.0,80.0
+102,Holden onto Hope,Michigan,2.0,Michigan,True,2.0,80.0
+103,Holden onto Hope,Virginia,2.0,Virginia,True,2.0,80.0
+104,Holden onto Hope,Wisconsin,2.0,Oregon,False,0.0,80.0
+105,Holden onto Hope,Purdue,2.0,Purdue,True,2.0,80.0
+106,Holden onto Hope,Tennessee,2.0,Tennessee,True,2.0,80.0
+107,Holden onto Hope,North Carolina,2.0,North Carolina,True,2.0,80.0
+108,Holden onto Hope,Auburn,2.0,Auburn,True,2.0,80.0
+109,Holden onto Hope,Iowa State,2.0,Houston,False,0.0,80.0
+110,Holden onto Hope,Kentucky,2.0,Kentucky,True,2.0,80.0
+111,Holden onto Hope,Duke,4.0,Duke,True,4.0,80.0
+112,Holden onto Hope,Michigan State,4.0,Michigan State,True,4.0,80.0
+113,Holden onto Hope,Gonzaga,4.0,Gonzaga,True,4.0,80.0
+114,Holden onto Hope,Michigan,4.0,Texas Tech,False,0.0,80.0
+115,Holden onto Hope,Virginia,4.0,Virginia,True,4.0,80.0
+116,Holden onto Hope,Purdue,4.0,Purdue,True,4.0,80.0
+117,Holden onto Hope,North Carolina,4.0,Auburn,False,0.0,80.0
+118,Holden onto Hope,Iowa State,4.0,Kentucky,False,0.0,80.0
+119,Holden onto Hope,Michigan State,8.0,Michigan State,True,8.0,80.0
+120,Holden onto Hope,Gonzaga,8.0,Texas Tech,False,0.0,80.0
+121,Holden onto Hope,Purdue,8.0,Virginia,False,0.0,80.0
+122,Holden onto Hope,North Carolina,8.0,Auburn,False,0.0,80.0
+123,Holden onto Hope,Michigan State,16.0,0,False,0.0,80.0
+124,Holden onto Hope,North Carolina,16.0,0,False,0.0,80.0
+125,Holden onto Hope,Michigan State,32.0,0,False,0.0,80.0
+126,why am i screaming,Duke,1.0,Duke,True,1.0,74.0
+127,why am i screaming,VCU,1.0,UCF,False,0.0,74.0
+128,why am i screaming,Mississippi St,1.0,Liberty,False,0.0,74.0
+129,why am i screaming,Virginia Tech,1.0,Virginia Tech,True,1.0,74.0
+130,why am i screaming,Maryland,1.0,Maryland,True,1.0,74.0
+131,why am i screaming,LSU,1.0,LSU,True,1.0,74.0
+132,why am i screaming,Minnesota,1.0,Minnesota,True,1.0,74.0
+133,why am i screaming,Michigan State,1.0,Michigan State,True,1.0,74.0
+134,why am i screaming,Gonzaga,1.0,Gonzaga,True,1.0,74.0
+135,why am i screaming,Baylor,1.0,Baylor,True,1.0,74.0
+136,why am i screaming,Marquette,1.0,Murray State,False,0.0,74.0
+137,why am i screaming,Florida St,1.0,Florida St,True,1.0,74.0
+138,why am i screaming,Arizona State,1.0,Buffalo,False,0.0,74.0
+139,why am i screaming,Texas Tech,1.0,Texas Tech,True,1.0,74.0
+140,why am i screaming,Nevada,1.0,Florida,False,0.0,74.0
+141,why am i screaming,Michigan,1.0,Michigan,True,1.0,74.0
+142,why am i screaming,Virginia,1.0,Virginia,True,1.0,74.0
+143,why am i screaming,Oklahoma,1.0,Oklahoma,True,1.0,74.0
+144,why am i screaming,Wisconsin,1.0,Oregon,False,0.0,74.0
+145,why am i screaming,Kansas State,1.0,UC Irvine,False,0.0,74.0
+146,why am i screaming,Villanova,1.0,Villanova,True,1.0,74.0
+147,why am i screaming,Purdue,1.0,Purdue,True,1.0,74.0
+148,why am i screaming,Cincinnati,1.0,Iowa,False,0.0,74.0
+149,why am i screaming,Tennessee,1.0,Tennessee,True,1.0,74.0
+150,why am i screaming,North Carolina,1.0,North Carolina,True,1.0,74.0
+151,why am i screaming,Utah State,1.0,Washington,False,0.0,74.0
+152,why am i screaming,Auburn,1.0,Auburn,True,1.0,74.0
+153,why am i screaming,Kansas,1.0,Kansas,True,1.0,74.0
+154,why am i screaming,Iowa State,1.0,Ohio State,False,0.0,74.0
+155,why am i screaming,Houston,1.0,Houston,True,1.0,74.0
+156,why am i screaming,Wofford,1.0,Wofford,True,1.0,74.0
+157,why am i screaming,Kentucky,1.0,Kentucky,True,1.0,74.0
+158,why am i screaming,Duke,2.0,Duke,True,2.0,74.0
+159,why am i screaming,Virginia Tech,2.0,Virginia Tech,True,2.0,74.0
+160,why am i screaming,Maryland,2.0,LSU,False,0.0,74.0
+161,why am i screaming,Michigan State,2.0,Michigan State,True,2.0,74.0
+162,why am i screaming,Gonzaga,2.0,Gonzaga,True,2.0,74.0
+163,why am i screaming,Florida St,2.0,Florida St,True,2.0,74.0
+164,why am i screaming,Texas Tech,2.0,Texas Tech,True,2.0,74.0
+165,why am i screaming,Michigan,2.0,Michigan,True,2.0,74.0
+166,why am i screaming,Virginia,2.0,Virginia,True,2.0,74.0
+167,why am i screaming,Kansas State,2.0,Oregon,False,0.0,74.0
+168,why am i screaming,Purdue,2.0,Purdue,True,2.0,74.0
+169,why am i screaming,Tennessee,2.0,Tennessee,True,2.0,74.0
+170,why am i screaming,North Carolina,2.0,North Carolina,True,2.0,74.0
+171,why am i screaming,Auburn,2.0,Auburn,True,2.0,74.0
+172,why am i screaming,Houston,2.0,Houston,True,2.0,74.0
+173,why am i screaming,Kentucky,2.0,Kentucky,True,2.0,74.0
+174,why am i screaming,Duke,4.0,Duke,True,4.0,74.0
+175,why am i screaming,Michigan State,4.0,Michigan State,True,4.0,74.0
+176,why am i screaming,Gonzaga,4.0,Gonzaga,True,4.0,74.0
+177,why am i screaming,Texas Tech,4.0,Texas Tech,True,4.0,74.0
+178,why am i screaming,Virginia,4.0,Virginia,True,4.0,74.0
+179,why am i screaming,Tennessee,4.0,Purdue,False,0.0,74.0
+180,why am i screaming,North Carolina,4.0,Auburn,False,0.0,74.0
+181,why am i screaming,Kentucky,4.0,Kentucky,True,4.0,74.0
+182,why am i screaming,Duke,8.0,Michigan State,False,0.0,74.0
+183,why am i screaming,Gonzaga,8.0,Texas Tech,False,0.0,74.0
+184,why am i screaming,Tennessee,8.0,Virginia,False,0.0,74.0
+185,why am i screaming,Kentucky,8.0,Auburn,False,0.0,74.0
+186,why am i screaming,Duke,16.0,0,False,0.0,74.0
+187,why am i screaming,Tennessee,16.0,0,False,0.0,74.0
+188,why am i screaming,Duke,32.0,0,False,0.0,74.0
+189,A to the C 2,Duke,1.0,Duke,True,1.0,78.0
+190,A to the C 2,UCF,1.0,UCF,True,1.0,78.0
+191,A to the C 2,Mississippi St,1.0,Liberty,False,0.0,78.0
+192,A to the C 2,Virginia Tech,1.0,Virginia Tech,True,1.0,78.0
+193,A to the C 2,Maryland,1.0,Maryland,True,1.0,78.0
+194,A to the C 2,LSU,1.0,LSU,True,1.0,78.0
+195,A to the C 2,Louisville,1.0,Minnesota,False,0.0,78.0
+196,A to the C 2,Michigan State,1.0,Michigan State,True,1.0,78.0
+197,A to the C 2,Gonzaga,1.0,Gonzaga,True,1.0,78.0
+198,A to the C 2,Syracuse,1.0,Baylor,False,0.0,78.0
+199,A to the C 2,Marquette,1.0,Murray State,False,0.0,78.0
+200,A to the C 2,Florida St,1.0,Florida St,True,1.0,78.0
+201,A to the C 2,Buffalo,1.0,Buffalo,True,1.0,78.0
+202,A to the C 2,Texas Tech,1.0,Texas Tech,True,1.0,78.0
+203,A to the C 2,Nevada,1.0,Florida,False,0.0,78.0
+204,A to the C 2,Michigan,1.0,Michigan,True,1.0,78.0
+205,A to the C 2,Virginia,1.0,Virginia,True,1.0,78.0
+206,A to the C 2,Ole Miss,1.0,Oklahoma,False,0.0,78.0
+207,A to the C 2,Oregon,1.0,Oregon,True,1.0,78.0
+208,A to the C 2,Kansas State,1.0,UC Irvine,False,0.0,78.0
+209,A to the C 2,Villanova,1.0,Villanova,True,1.0,78.0
+210,A to the C 2,Purdue,1.0,Purdue,True,1.0,78.0
+211,A to the C 2,Cincinnati,1.0,Iowa,False,0.0,78.0
+212,A to the C 2,Tennessee,1.0,Tennessee,True,1.0,78.0
+213,A to the C 2,North Carolina,1.0,North Carolina,True,1.0,78.0
+214,A to the C 2,Utah State,1.0,Washington,False,0.0,78.0
+215,A to the C 2,Auburn,1.0,Auburn,True,1.0,78.0
+216,A to the C 2,Kansas,1.0,Kansas,True,1.0,78.0
+217,A to the C 2,Iowa State,1.0,Ohio State,False,0.0,78.0
+218,A to the C 2,Houston,1.0,Houston,True,1.0,78.0
+219,A to the C 2,Wofford,1.0,Wofford,True,1.0,78.0
+220,A to the C 2,Kentucky,1.0,Kentucky,True,1.0,78.0
+221,A to the C 2,Duke,2.0,Duke,True,2.0,78.0
+222,A to the C 2,Virginia Tech,2.0,Virginia Tech,True,2.0,78.0
+223,A to the C 2,LSU,2.0,LSU,True,2.0,78.0
+224,A to the C 2,Michigan State,2.0,Michigan State,True,2.0,78.0
+225,A to the C 2,Gonzaga,2.0,Gonzaga,True,2.0,78.0
+226,A to the C 2,Florida St,2.0,Florida St,True,2.0,78.0
+227,A to the C 2,Texas Tech,2.0,Texas Tech,True,2.0,78.0
+228,A to the C 2,Michigan,2.0,Michigan,True,2.0,78.0
+229,A to the C 2,Virginia,2.0,Virginia,True,2.0,78.0
+230,A to the C 2,Kansas State,2.0,Oregon,False,0.0,78.0
+231,A to the C 2,Villanova,2.0,Purdue,False,0.0,78.0
+232,A to the C 2,Tennessee,2.0,Tennessee,True,2.0,78.0
+233,A to the C 2,North Carolina,2.0,North Carolina,True,2.0,78.0
+234,A to the C 2,Auburn,2.0,Auburn,True,2.0,78.0
+235,A to the C 2,Houston,2.0,Houston,True,2.0,78.0
+236,A to the C 2,Kentucky,2.0,Kentucky,True,2.0,78.0
+237,A to the C 2,Duke,4.0,Duke,True,4.0,78.0
+238,A to the C 2,Michigan State,4.0,Michigan State,True,4.0,78.0
+239,A to the C 2,Gonzaga,4.0,Gonzaga,True,4.0,78.0
+240,A to the C 2,Texas Tech,4.0,Texas Tech,True,4.0,78.0
+241,A to the C 2,Virginia,4.0,Virginia,True,4.0,78.0
+242,A to the C 2,Tennessee,4.0,Purdue,False,0.0,78.0
+243,A to the C 2,Auburn,4.0,Auburn,True,4.0,78.0
+244,A to the C 2,Kentucky,4.0,Kentucky,True,4.0,78.0
+245,A to the C 2,Duke,8.0,Michigan State,False,0.0,78.0
+246,A to the C 2,Gonzaga,8.0,Texas Tech,False,0.0,78.0
+247,A to the C 2,Tennessee,8.0,Virginia,False,0.0,78.0
+248,A to the C 2,Kentucky,8.0,Auburn,False,0.0,78.0
+249,A to the C 2,Duke,16.0,0,False,0.0,78.0
+250,A to the C 2,Tennessee,16.0,0,False,0.0,78.0
+251,A to the C 2,Tennessee,32.0,0,False,0.0,78.0
+252,16/1,Duke,1.0,Duke,True,1.0,74.0
+253,16/1,UCF,1.0,UCF,True,1.0,74.0
+254,16/1,Mississippi St,1.0,Liberty,False,0.0,74.0
+255,16/1,Virginia Tech,1.0,Virginia Tech,True,1.0,74.0
+256,16/1,Maryland,1.0,Maryland,True,1.0,74.0
+257,16/1,LSU,1.0,LSU,True,1.0,74.0
+258,16/1,Louisville,1.0,Minnesota,False,0.0,74.0
+259,16/1,Michigan State,1.0,Michigan State,True,1.0,74.0
+260,16/1,Gonzaga,1.0,Gonzaga,True,1.0,74.0
+261,16/1,Baylor,1.0,Baylor,True,1.0,74.0
+262,16/1,Marquette,1.0,Murray State,False,0.0,74.0
+263,16/1,Florida St,1.0,Florida St,True,1.0,74.0
+264,16/1,Buffalo,1.0,Buffalo,True,1.0,74.0
+265,16/1,Texas Tech,1.0,Texas Tech,True,1.0,74.0
+266,16/1,Nevada,1.0,Florida,False,0.0,74.0
+267,16/1,Michigan,1.0,Michigan,True,1.0,74.0
+268,16/1,Virginia,1.0,Virginia,True,1.0,74.0
+269,16/1,Ole Miss,1.0,Oklahoma,False,0.0,74.0
+270,16/1,Wisconsin,1.0,Oregon,False,0.0,74.0
+271,16/1,Kansas State,1.0,UC Irvine,False,0.0,74.0
+272,16/1,Villanova,1.0,Villanova,True,1.0,74.0
+273,16/1,Purdue,1.0,Purdue,True,1.0,74.0
+274,16/1,Cincinnati,1.0,Iowa,False,0.0,74.0
+275,16/1,Tennessee,1.0,Tennessee,True,1.0,74.0
+276,16/1,North Carolina,1.0,North Carolina,True,1.0,74.0
+277,16/1,Utah State,1.0,Washington,False,0.0,74.0
+278,16/1,Auburn,1.0,Auburn,True,1.0,74.0
+279,16/1,Kansas,1.0,Kansas,True,1.0,74.0
+280,16/1,Iowa State,1.0,Ohio State,False,0.0,74.0
+281,16/1,Houston,1.0,Houston,True,1.0,74.0
+282,16/1,Wofford,1.0,Wofford,True,1.0,74.0
+283,16/1,Kentucky,1.0,Kentucky,True,1.0,74.0
+284,16/1,Duke,2.0,Duke,True,2.0,74.0
+285,16/1,Virginia Tech,2.0,Virginia Tech,True,2.0,74.0
+286,16/1,LSU,2.0,LSU,True,2.0,74.0
+287,16/1,Michigan State,2.0,Michigan State,True,2.0,74.0
+288,16/1,Gonzaga,2.0,Gonzaga,True,2.0,74.0
+289,16/1,Marquette,2.0,Florida St,False,0.0,74.0
+290,16/1,Texas Tech,2.0,Texas Tech,True,2.0,74.0
+291,16/1,Michigan,2.0,Michigan,True,2.0,74.0
+292,16/1,Virginia,2.0,Virginia,True,2.0,74.0
+293,16/1,Wisconsin,2.0,Oregon,False,0.0,74.0
+294,16/1,Purdue,2.0,Purdue,True,2.0,74.0
+295,16/1,Tennessee,2.0,Tennessee,True,2.0,74.0
+296,16/1,North Carolina,2.0,North Carolina,True,2.0,74.0
+297,16/1,Auburn,2.0,Auburn,True,2.0,74.0
+298,16/1,Houston,2.0,Houston,True,2.0,74.0
+299,16/1,Kentucky,2.0,Kentucky,True,2.0,74.0
+300,16/1,Duke,4.0,Duke,True,4.0,74.0
+301,16/1,Michigan State,4.0,Michigan State,True,4.0,74.0
+302,16/1,Gonzaga,4.0,Gonzaga,True,4.0,74.0
+303,16/1,Michigan,4.0,Texas Tech,False,0.0,74.0
+304,16/1,Virginia,4.0,Virginia,True,4.0,74.0
+305,16/1,Tennessee,4.0,Purdue,False,0.0,74.0
+306,16/1,North Carolina,4.0,Auburn,False,0.0,74.0
+307,16/1,Houston,4.0,Kentucky,False,0.0,74.0
+308,16/1,Duke,8.0,Michigan State,False,0.0,74.0
+309,16/1,Gonzaga,8.0,Texas Tech,False,0.0,74.0
+310,16/1,Virginia,8.0,Virginia,True,8.0,74.0
+311,16/1,Houston,8.0,Auburn,False,0.0,74.0
+312,16/1,Duke,16.0,0,False,0.0,74.0
+313,16/1,Virginia,16.0,0,False,0.0,74.0
+314,16/1,Duke,32.0,0,False,0.0,74.0
+315,KHAM,Duke,1.0,Duke,True,1.0,82.0
+316,KHAM,UCF,1.0,UCF,True,1.0,82.0
+317,KHAM,Liberty,1.0,Liberty,True,1.0,82.0
+318,KHAM,Virginia Tech,1.0,Virginia Tech,True,1.0,82.0
+319,KHAM,Belmont,1.0,Maryland,False,0.0,82.0
+320,KHAM,Yale,1.0,LSU,False,0.0,82.0
+321,KHAM,Louisville,1.0,Minnesota,False,0.0,82.0
+322,KHAM,Michigan State,1.0,Michigan State,True,1.0,82.0
+323,KHAM,Gonzaga,1.0,Gonzaga,True,1.0,82.0
+324,KHAM,Syracuse,1.0,Baylor,False,0.0,82.0
+325,KHAM,Murray State,1.0,Murray State,True,1.0,82.0
+326,KHAM,Florida St,1.0,Florida St,True,1.0,82.0
+327,KHAM,Buffalo,1.0,Buffalo,True,1.0,82.0
+328,KHAM,Texas Tech,1.0,Texas Tech,True,1.0,82.0
+329,KHAM,Nevada,1.0,Florida,False,0.0,82.0
+330,KHAM,Michigan,1.0,Michigan,True,1.0,82.0
+331,KHAM,Virginia,1.0,Virginia,True,1.0,82.0
+332,KHAM,Oklahoma,1.0,Oklahoma,True,1.0,82.0
+333,KHAM,Oregon,1.0,Oregon,True,1.0,82.0
+334,KHAM,UC Irvine,1.0,UC Irvine,True,1.0,82.0
+335,KHAM,Villanova,1.0,Villanova,True,1.0,82.0
+336,KHAM,Purdue,1.0,Purdue,True,1.0,82.0
+337,KHAM,Cincinnati,1.0,Iowa,False,0.0,82.0
+338,KHAM,Tennessee,1.0,Tennessee,True,1.0,82.0
+339,KHAM,North Carolina,1.0,North Carolina,True,1.0,82.0
+340,KHAM,Utah State,1.0,Washington,False,0.0,82.0
+341,KHAM,Auburn,1.0,Auburn,True,1.0,82.0
+342,KHAM,Kansas,1.0,Kansas,True,1.0,82.0
+343,KHAM,Iowa State,1.0,Ohio State,False,0.0,82.0
+344,KHAM,Houston,1.0,Houston,True,1.0,82.0
+345,KHAM,Wofford,1.0,Wofford,True,1.0,82.0
+346,KHAM,Kentucky,1.0,Kentucky,True,1.0,82.0
+347,KHAM,Duke,2.0,Duke,True,2.0,82.0
+348,KHAM,Virginia Tech,2.0,Virginia Tech,True,2.0,82.0
+349,KHAM,Belmont,2.0,LSU,False,0.0,82.0
+350,KHAM,Michigan State,2.0,Michigan State,True,2.0,82.0
+351,KHAM,Gonzaga,2.0,Gonzaga,True,2.0,82.0
+352,KHAM,Florida St,2.0,Florida St,True,2.0,82.0
+353,KHAM,Buffalo,2.0,Texas Tech,False,0.0,82.0
+354,KHAM,Michigan,2.0,Michigan,True,2.0,82.0
+355,KHAM,Virginia,2.0,Virginia,True,2.0,82.0
+356,KHAM,Oregon,2.0,Oregon,True,2.0,82.0
+357,KHAM,Purdue,2.0,Purdue,True,2.0,82.0
+358,KHAM,Tennessee,2.0,Tennessee,True,2.0,82.0
+359,KHAM,North Carolina,2.0,North Carolina,True,2.0,82.0
+360,KHAM,Auburn,2.0,Auburn,True,2.0,82.0
+361,KHAM,Houston,2.0,Houston,True,2.0,82.0
+362,KHAM,Wofford,2.0,Kentucky,False,0.0,82.0
+363,KHAM,Duke,4.0,Duke,True,4.0,82.0
+364,KHAM,Michigan State,4.0,Michigan State,True,4.0,82.0
+365,KHAM,Gonzaga,4.0,Gonzaga,True,4.0,82.0
+366,KHAM,Michigan,4.0,Texas Tech,False,0.0,82.0
+367,KHAM,Virginia,4.0,Virginia,True,4.0,82.0
+368,KHAM,Tennessee,4.0,Purdue,False,0.0,82.0
+369,KHAM,North Carolina,4.0,Auburn,False,0.0,82.0
+370,KHAM,Houston,4.0,Kentucky,False,0.0,82.0
+371,KHAM,Michigan State,8.0,Michigan State,True,8.0,82.0
+372,KHAM,Gonzaga,8.0,Texas Tech,False,0.0,82.0
+373,KHAM,Virginia,8.0,Virginia,True,8.0,82.0
+374,KHAM,North Carolina,8.0,Auburn,False,0.0,82.0
+375,KHAM,Gonzaga,16.0,0,False,0.0,82.0
+376,KHAM,Virginia,16.0,0,False,0.0,82.0
+377,KHAM,Gonzaga,32.0,0,False,0.0,82.0
+378,sgreeny90 1,Duke,1.0,Duke,True,1.0,70.0
+379,sgreeny90 1,VCU,1.0,UCF,False,0.0,70.0
+380,sgreeny90 1,Mississippi St,1.0,Liberty,False,0.0,70.0
+381,sgreeny90 1,Virginia Tech,1.0,Virginia Tech,True,1.0,70.0
+382,sgreeny90 1,Maryland,1.0,Maryland,True,1.0,70.0
+383,sgreeny90 1,LSU,1.0,LSU,True,1.0,70.0
+384,sgreeny90 1,Louisville,1.0,Minnesota,False,0.0,70.0
+385,sgreeny90 1,Michigan State,1.0,Michigan State,True,1.0,70.0
+386,sgreeny90 1,Gonzaga,1.0,Gonzaga,True,1.0,70.0
+387,sgreeny90 1,Baylor,1.0,Baylor,True,1.0,70.0
+388,sgreeny90 1,Marquette,1.0,Murray State,False,0.0,70.0
+389,sgreeny90 1,Florida St,1.0,Florida St,True,1.0,70.0
+390,sgreeny90 1,Arizona State,1.0,Buffalo,False,0.0,70.0
+391,sgreeny90 1,Texas Tech,1.0,Texas Tech,True,1.0,70.0
+392,sgreeny90 1,Florida,1.0,Florida,True,1.0,70.0
+393,sgreeny90 1,Michigan,1.0,Michigan,True,1.0,70.0
+394,sgreeny90 1,Virginia,1.0,Virginia,True,1.0,70.0
+395,sgreeny90 1,Oklahoma,1.0,Oklahoma,True,1.0,70.0
+396,sgreeny90 1,Wisconsin,1.0,Oregon,False,0.0,70.0
+397,sgreeny90 1,Kansas State,1.0,UC Irvine,False,0.0,70.0
+398,sgreeny90 1,Villanova,1.0,Villanova,True,1.0,70.0
+399,sgreeny90 1,Purdue,1.0,Purdue,True,1.0,70.0
+400,sgreeny90 1,Iowa,1.0,Iowa,True,1.0,70.0
+401,sgreeny90 1,Tennessee,1.0,Tennessee,True,1.0,70.0
+402,sgreeny90 1,North Carolina,1.0,North Carolina,True,1.0,70.0
+403,sgreeny90 1,Washington,1.0,Washington,True,1.0,70.0
+404,sgreeny90 1,Auburn,1.0,Auburn,True,1.0,70.0
+405,sgreeny90 1,Kansas,1.0,Kansas,True,1.0,70.0
+406,sgreeny90 1,Iowa State,1.0,Ohio State,False,0.0,70.0
+407,sgreeny90 1,Houston,1.0,Houston,True,1.0,70.0
+408,sgreeny90 1,Wofford,1.0,Wofford,True,1.0,70.0
+409,sgreeny90 1,Kentucky,1.0,Kentucky,True,1.0,70.0
+410,sgreeny90 1,Duke,2.0,Duke,True,2.0,70.0
+411,sgreeny90 1,Virginia Tech,2.0,Virginia Tech,True,2.0,70.0
+412,sgreeny90 1,LSU,2.0,LSU,True,2.0,70.0
+413,sgreeny90 1,Michigan State,2.0,Michigan State,True,2.0,70.0
+414,sgreeny90 1,Gonzaga,2.0,Gonzaga,True,2.0,70.0
+415,sgreeny90 1,Florida St,2.0,Florida St,True,2.0,70.0
+416,sgreeny90 1,Texas Tech,2.0,Texas Tech,True,2.0,70.0
+417,sgreeny90 1,Michigan,2.0,Michigan,True,2.0,70.0
+418,sgreeny90 1,Virginia,2.0,Virginia,True,2.0,70.0
+419,sgreeny90 1,Kansas State,2.0,Oregon,False,0.0,70.0
+420,sgreeny90 1,Purdue,2.0,Purdue,True,2.0,70.0
+421,sgreeny90 1,Tennessee,2.0,Tennessee,True,2.0,70.0
+422,sgreeny90 1,North Carolina,2.0,North Carolina,True,2.0,70.0
+423,sgreeny90 1,Kansas,2.0,Auburn,False,0.0,70.0
+424,sgreeny90 1,Iowa State,2.0,Houston,False,0.0,70.0
+425,sgreeny90 1,Kentucky,2.0,Kentucky,True,2.0,70.0
+426,sgreeny90 1,Duke,4.0,Duke,True,4.0,70.0
+427,sgreeny90 1,Michigan State,4.0,Michigan State,True,4.0,70.0
+428,sgreeny90 1,Florida St,4.0,Gonzaga,False,0.0,70.0
+429,sgreeny90 1,Michigan,4.0,Texas Tech,False,0.0,70.0
+430,sgreeny90 1,Kansas State,4.0,Virginia,False,0.0,70.0
+431,sgreeny90 1,Tennessee,4.0,Purdue,False,0.0,70.0
+432,sgreeny90 1,North Carolina,4.0,Auburn,False,0.0,70.0
+433,sgreeny90 1,Kentucky,4.0,Kentucky,True,4.0,70.0
+434,sgreeny90 1,Michigan State,8.0,Michigan State,True,8.0,70.0
+435,sgreeny90 1,Florida St,8.0,Texas Tech,False,0.0,70.0
+436,sgreeny90 1,Tennessee,8.0,Virginia,False,0.0,70.0
+437,sgreeny90 1,North Carolina,8.0,Auburn,False,0.0,70.0
+438,sgreeny90 1,Michigan State,16.0,0,False,0.0,70.0
+439,sgreeny90 1,North Carolina,16.0,0,False,0.0,70.0
+440,sgreeny90 1,Michigan State,32.0,0,False,0.0,70.0
+441,Dr. Mario,Duke,1.0,Duke,True,1.0,73.0
+442,Dr. Mario,UCF,1.0,UCF,True,1.0,73.0
+443,Dr. Mario,Mississippi St,1.0,Liberty,False,0.0,73.0
+444,Dr. Mario,Virginia Tech,1.0,Virginia Tech,True,1.0,73.0
+445,Dr. Mario,Maryland,1.0,Maryland,True,1.0,73.0
+446,Dr. Mario,Yale,1.0,LSU,False,0.0,73.0
+447,Dr. Mario,Minnesota,1.0,Minnesota,True,1.0,73.0
+448,Dr. Mario,Michigan State,1.0,Michigan State,True,1.0,73.0
+449,Dr. Mario,Gonzaga,1.0,Gonzaga,True,1.0,73.0
+450,Dr. Mario,Baylor,1.0,Baylor,True,1.0,73.0
+451,Dr. Mario,Murray State,1.0,Murray State,True,1.0,73.0
+452,Dr. Mario,Florida St,1.0,Florida St,True,1.0,73.0
+453,Dr. Mario,Buffalo,1.0,Buffalo,True,1.0,73.0
+454,Dr. Mario,Texas Tech,1.0,Texas Tech,True,1.0,73.0
+455,Dr. Mario,Nevada,1.0,Florida,False,0.0,73.0
+456,Dr. Mario,Michigan,1.0,Michigan,True,1.0,73.0
+457,Dr. Mario,Virginia,1.0,Virginia,True,1.0,73.0
+458,Dr. Mario,Ole Miss,1.0,Oklahoma,False,0.0,73.0
+459,Dr. Mario,Wisconsin,1.0,Oregon,False,0.0,73.0
+460,Dr. Mario,Kansas State,1.0,UC Irvine,False,0.0,73.0
+461,Dr. Mario,Villanova,1.0,Villanova,True,1.0,73.0
+462,Dr. Mario,Purdue,1.0,Purdue,True,1.0,73.0
+463,Dr. Mario,Cincinnati,1.0,Iowa,False,0.0,73.0
+464,Dr. Mario,Tennessee,1.0,Tennessee,True,1.0,73.0
+465,Dr. Mario,North Carolina,1.0,North Carolina,True,1.0,73.0
+466,Dr. Mario,Utah State,1.0,Washington,False,0.0,73.0
+467,Dr. Mario,Auburn,1.0,Auburn,True,1.0,73.0
+468,Dr. Mario,Kansas,1.0,Kansas,True,1.0,73.0
+469,Dr. Mario,Iowa State,1.0,Ohio State,False,0.0,73.0
+470,Dr. Mario,Houston,1.0,Houston,True,1.0,73.0
+471,Dr. Mario,Wofford,1.0,Wofford,True,1.0,73.0
+472,Dr. Mario,Kentucky,1.0,Kentucky,True,1.0,73.0
+473,Dr. Mario,Duke,2.0,Duke,True,2.0,73.0
+474,Dr. Mario,Virginia Tech,2.0,Virginia Tech,True,2.0,73.0
+475,Dr. Mario,Maryland,2.0,LSU,False,0.0,73.0
+476,Dr. Mario,Michigan State,2.0,Michigan State,True,2.0,73.0
+477,Dr. Mario,Gonzaga,2.0,Gonzaga,True,2.0,73.0
+478,Dr. Mario,Florida St,2.0,Florida St,True,2.0,73.0
+479,Dr. Mario,Texas Tech,2.0,Texas Tech,True,2.0,73.0
+480,Dr. Mario,Michigan,2.0,Michigan,True,2.0,73.0
+481,Dr. Mario,Virginia,2.0,Virginia,True,2.0,73.0
+482,Dr. Mario,Wisconsin,2.0,Oregon,False,0.0,73.0
+483,Dr. Mario,Villanova,2.0,Purdue,False,0.0,73.0
+484,Dr. Mario,Tennessee,2.0,Tennessee,True,2.0,73.0
+485,Dr. Mario,North Carolina,2.0,North Carolina,True,2.0,73.0
+486,Dr. Mario,Auburn,2.0,Auburn,True,2.0,73.0
+487,Dr. Mario,Houston,2.0,Houston,True,2.0,73.0
+488,Dr. Mario,Kentucky,2.0,Kentucky,True,2.0,73.0
+489,Dr. Mario,Duke,4.0,Duke,True,4.0,73.0
+490,Dr. Mario,Michigan State,4.0,Michigan State,True,4.0,73.0
+491,Dr. Mario,Gonzaga,4.0,Gonzaga,True,4.0,73.0
+492,Dr. Mario,Michigan,4.0,Texas Tech,False,0.0,73.0
+493,Dr. Mario,Virginia,4.0,Virginia,True,4.0,73.0
+494,Dr. Mario,Tennessee,4.0,Purdue,False,0.0,73.0
+495,Dr. Mario,North Carolina,4.0,Auburn,False,0.0,73.0
+496,Dr. Mario,Houston,4.0,Kentucky,False,0.0,73.0
+497,Dr. Mario,Duke,8.0,Michigan State,False,0.0,73.0
+498,Dr. Mario,Gonzaga,8.0,Texas Tech,False,0.0,73.0
+499,Dr. Mario,Virginia,8.0,Virginia,True,8.0,73.0
+500,Dr. Mario,North Carolina,8.0,Auburn,False,0.0,73.0
+501,Dr. Mario,Gonzaga,16.0,0,False,0.0,73.0
+502,Dr. Mario,North Carolina,16.0,0,False,0.0,73.0
+503,Dr. Mario,Gonzaga,32.0,0,False,0.0,73.0
+504,harry styles luvs bball,Duke,1.0,Duke,True,1.0,77.0
+505,harry styles luvs bball,VCU,1.0,UCF,False,0.0,77.0
+506,harry styles luvs bball,Mississippi St,1.0,Liberty,False,0.0,77.0
+507,harry styles luvs bball,Virginia Tech,1.0,Virginia Tech,True,1.0,77.0
+508,harry styles luvs bball,Maryland,1.0,Maryland,True,1.0,77.0
+509,harry styles luvs bball,LSU,1.0,LSU,True,1.0,77.0
+510,harry styles luvs bball,Louisville,1.0,Minnesota,False,0.0,77.0
+511,harry styles luvs bball,Michigan State,1.0,Michigan State,True,1.0,77.0
+512,harry styles luvs bball,Gonzaga,1.0,Gonzaga,True,1.0,77.0
+513,harry styles luvs bball,Syracuse,1.0,Baylor,False,0.0,77.0
+514,harry styles luvs bball,Murray State,1.0,Murray State,True,1.0,77.0
+515,harry styles luvs bball,Florida St,1.0,Florida St,True,1.0,77.0
+516,harry styles luvs bball,Buffalo,1.0,Buffalo,True,1.0,77.0
+517,harry styles luvs bball,Texas Tech,1.0,Texas Tech,True,1.0,77.0
+518,harry styles luvs bball,Florida,1.0,Florida,True,1.0,77.0
+519,harry styles luvs bball,Michigan,1.0,Michigan,True,1.0,77.0
+520,harry styles luvs bball,Virginia,1.0,Virginia,True,1.0,77.0
+521,harry styles luvs bball,Oklahoma,1.0,Oklahoma,True,1.0,77.0
+522,harry styles luvs bball,Wisconsin,1.0,Oregon,False,0.0,77.0
+523,harry styles luvs bball,Kansas State,1.0,UC Irvine,False,0.0,77.0
+524,harry styles luvs bball,Villanova,1.0,Villanova,True,1.0,77.0
+525,harry styles luvs bball,Purdue,1.0,Purdue,True,1.0,77.0
+526,harry styles luvs bball,Cincinnati,1.0,Iowa,False,0.0,77.0
+527,harry styles luvs bball,Tennessee,1.0,Tennessee,True,1.0,77.0
+528,harry styles luvs bball,North Carolina,1.0,North Carolina,True,1.0,77.0
+529,harry styles luvs bball,Washington,1.0,Washington,True,1.0,77.0
+530,harry styles luvs bball,Auburn,1.0,Auburn,True,1.0,77.0
+531,harry styles luvs bball,Kansas,1.0,Kansas,True,1.0,77.0
+532,harry styles luvs bball,Iowa State,1.0,Ohio State,False,0.0,77.0
+533,harry styles luvs bball,Houston,1.0,Houston,True,1.0,77.0
+534,harry styles luvs bball,Seton Hall,1.0,Wofford,False,0.0,77.0
+535,harry styles luvs bball,Kentucky,1.0,Kentucky,True,1.0,77.0
+536,harry styles luvs bball,Duke,2.0,Duke,True,2.0,77.0
+537,harry styles luvs bball,Virginia Tech,2.0,Virginia Tech,True,2.0,77.0
+538,harry styles luvs bball,LSU,2.0,LSU,True,2.0,77.0
+539,harry styles luvs bball,Michigan State,2.0,Michigan State,True,2.0,77.0
+540,harry styles luvs bball,Gonzaga,2.0,Gonzaga,True,2.0,77.0
+541,harry styles luvs bball,Florida St,2.0,Florida St,True,2.0,77.0
+542,harry styles luvs bball,Texas Tech,2.0,Texas Tech,True,2.0,77.0
+543,harry styles luvs bball,Michigan,2.0,Michigan,True,2.0,77.0
+544,harry styles luvs bball,Virginia,2.0,Virginia,True,2.0,77.0
+545,harry styles luvs bball,Wisconsin,2.0,Oregon,False,0.0,77.0
+546,harry styles luvs bball,Villanova,2.0,Purdue,False,0.0,77.0
+547,harry styles luvs bball,Tennessee,2.0,Tennessee,True,2.0,77.0
+548,harry styles luvs bball,North Carolina,2.0,North Carolina,True,2.0,77.0
+549,harry styles luvs bball,Kansas,2.0,Auburn,False,0.0,77.0
+550,harry styles luvs bball,Houston,2.0,Houston,True,2.0,77.0
+551,harry styles luvs bball,Kentucky,2.0,Kentucky,True,2.0,77.0
+552,harry styles luvs bball,Duke,4.0,Duke,True,4.0,77.0
+553,harry styles luvs bball,Michigan State,4.0,Michigan State,True,4.0,77.0
+554,harry styles luvs bball,Gonzaga,4.0,Gonzaga,True,4.0,77.0
+555,harry styles luvs bball,Michigan,4.0,Texas Tech,False,0.0,77.0
+556,harry styles luvs bball,Virginia,4.0,Virginia,True,4.0,77.0
+557,harry styles luvs bball,Villanova,4.0,Purdue,False,0.0,77.0
+558,harry styles luvs bball,North Carolina,4.0,Auburn,False,0.0,77.0
+559,harry styles luvs bball,Kentucky,4.0,Kentucky,True,4.0,77.0
+560,harry styles luvs bball,Duke,8.0,Michigan State,False,0.0,77.0
+561,harry styles luvs bball,Gonzaga,8.0,Texas Tech,False,0.0,77.0
+562,harry styles luvs bball,Virginia,8.0,Virginia,True,8.0,77.0
+563,harry styles luvs bball,North Carolina,8.0,Auburn,False,0.0,77.0
+564,harry styles luvs bball,Duke,16.0,0,False,0.0,77.0
+565,harry styles luvs bball,Virginia,16.0,0,False,0.0,77.0
+566,harry styles luvs bball,Virginia,32.0,0,False,0.0,77.0
+567,Stolsbrack,Duke,1.0,Duke,True,1.0,77.0
+568,Stolsbrack,UCF,1.0,UCF,True,1.0,77.0
+569,Stolsbrack,Mississippi St,1.0,Liberty,False,0.0,77.0
+570,Stolsbrack,Virginia Tech,1.0,Virginia Tech,True,1.0,77.0
+571,Stolsbrack,Belmont,1.0,Maryland,False,0.0,77.0
+572,Stolsbrack,LSU,1.0,LSU,True,1.0,77.0
+573,Stolsbrack,Louisville,1.0,Minnesota,False,0.0,77.0
+574,Stolsbrack,Michigan State,1.0,Michigan State,True,1.0,77.0
+575,Stolsbrack,Gonzaga,1.0,Gonzaga,True,1.0,77.0
+576,Stolsbrack,Baylor,1.0,Baylor,True,1.0,77.0
+577,Stolsbrack,Marquette,1.0,Murray State,False,0.0,77.0
+578,Stolsbrack,Florida St,1.0,Florida St,True,1.0,77.0
+579,Stolsbrack,Buffalo,1.0,Buffalo,True,1.0,77.0
+580,Stolsbrack,Texas Tech,1.0,Texas Tech,True,1.0,77.0
+581,Stolsbrack,Nevada,1.0,Florida,False,0.0,77.0
+582,Stolsbrack,Michigan,1.0,Michigan,True,1.0,77.0
+583,Stolsbrack,Virginia,1.0,Virginia,True,1.0,77.0
+584,Stolsbrack,Oklahoma,1.0,Oklahoma,True,1.0,77.0
+585,Stolsbrack,Oregon,1.0,Oregon,True,1.0,77.0
+586,Stolsbrack,Kansas State,1.0,UC Irvine,False,0.0,77.0
+587,Stolsbrack,Villanova,1.0,Villanova,True,1.0,77.0
+588,Stolsbrack,Purdue,1.0,Purdue,True,1.0,77.0
+589,Stolsbrack,Cincinnati,1.0,Iowa,False,0.0,77.0
+590,Stolsbrack,Tennessee,1.0,Tennessee,True,1.0,77.0
+591,Stolsbrack,North Carolina,1.0,North Carolina,True,1.0,77.0
+592,Stolsbrack,Washington,1.0,Washington,True,1.0,77.0
+593,Stolsbrack,Auburn,1.0,Auburn,True,1.0,77.0
+594,Stolsbrack,Kansas,1.0,Kansas,True,1.0,77.0
+595,Stolsbrack,Ohio State,1.0,Ohio State,True,1.0,77.0
+596,Stolsbrack,Houston,1.0,Houston,True,1.0,77.0
+597,Stolsbrack,Wofford,1.0,Wofford,True,1.0,77.0
+598,Stolsbrack,Kentucky,1.0,Kentucky,True,1.0,77.0
+599,Stolsbrack,Duke,2.0,Duke,True,2.0,77.0
+600,Stolsbrack,Mississippi St,2.0,Virginia Tech,False,0.0,77.0
+601,Stolsbrack,LSU,2.0,LSU,True,2.0,77.0
+602,Stolsbrack,Michigan State,2.0,Michigan State,True,2.0,77.0
+603,Stolsbrack,Gonzaga,2.0,Gonzaga,True,2.0,77.0
+604,Stolsbrack,Marquette,2.0,Florida St,False,0.0,77.0
+605,Stolsbrack,Buffalo,2.0,Texas Tech,False,0.0,77.0
+606,Stolsbrack,Michigan,2.0,Michigan,True,2.0,77.0
+607,Stolsbrack,Virginia,2.0,Virginia,True,2.0,77.0
+608,Stolsbrack,Oregon,2.0,Oregon,True,2.0,77.0
+609,Stolsbrack,Villanova,2.0,Purdue,False,0.0,77.0
+610,Stolsbrack,Tennessee,2.0,Tennessee,True,2.0,77.0
+611,Stolsbrack,North Carolina,2.0,North Carolina,True,2.0,77.0
+612,Stolsbrack,Auburn,2.0,Auburn,True,2.0,77.0
+613,Stolsbrack,Houston,2.0,Houston,True,2.0,77.0
+614,Stolsbrack,Kentucky,2.0,Kentucky,True,2.0,77.0
+615,Stolsbrack,Duke,4.0,Duke,True,4.0,77.0
+616,Stolsbrack,Michigan State,4.0,Michigan State,True,4.0,77.0
+617,Stolsbrack,Gonzaga,4.0,Gonzaga,True,4.0,77.0
+618,Stolsbrack,Buffalo,4.0,Texas Tech,False,0.0,77.0
+619,Stolsbrack,Virginia,4.0,Virginia,True,4.0,77.0
+620,Stolsbrack,Tennessee,4.0,Purdue,False,0.0,77.0
+621,Stolsbrack,North Carolina,4.0,Auburn,False,0.0,77.0
+622,Stolsbrack,Kentucky,4.0,Kentucky,True,4.0,77.0
+623,Stolsbrack,Duke,8.0,Michigan State,False,0.0,77.0
+624,Stolsbrack,Gonzaga,8.0,Texas Tech,False,0.0,77.0
+625,Stolsbrack,Virginia,8.0,Virginia,True,8.0,77.0
+626,Stolsbrack,Kentucky,8.0,Auburn,False,0.0,77.0
+627,Stolsbrack,Duke,16.0,0,False,0.0,77.0
+628,Stolsbrack,Virginia,16.0,0,False,0.0,77.0
+629,Stolsbrack,Virginia,32.0,0,False,0.0,77.0
+630,marry me tony pt 3,Duke,1.0,Duke,True,1.0,77.0
+631,marry me tony pt 3,VCU,1.0,UCF,False,0.0,77.0
+632,marry me tony pt 3,Liberty,1.0,Liberty,True,1.0,77.0
+633,marry me tony pt 3,Virginia Tech,1.0,Virginia Tech,True,1.0,77.0
+634,marry me tony pt 3,Maryland,1.0,Maryland,True,1.0,77.0
+635,marry me tony pt 3,LSU,1.0,LSU,True,1.0,77.0
+636,marry me tony pt 3,Minnesota,1.0,Minnesota,True,1.0,77.0
+637,marry me tony pt 3,Michigan State,1.0,Michigan State,True,1.0,77.0
+638,marry me tony pt 3,Gonzaga,1.0,Gonzaga,True,1.0,77.0
+639,marry me tony pt 3,Syracuse,1.0,Baylor,False,0.0,77.0
+640,marry me tony pt 3,Murray State,1.0,Murray State,True,1.0,77.0
+641,marry me tony pt 3,Florida St,1.0,Florida St,True,1.0,77.0
+642,marry me tony pt 3,Buffalo,1.0,Buffalo,True,1.0,77.0
+643,marry me tony pt 3,Texas Tech,1.0,Texas Tech,True,1.0,77.0
+644,marry me tony pt 3,Florida,1.0,Florida,True,1.0,77.0
+645,marry me tony pt 3,Michigan,1.0,Michigan,True,1.0,77.0
+646,marry me tony pt 3,Virginia,1.0,Virginia,True,1.0,77.0
+647,marry me tony pt 3,Ole Miss,1.0,Oklahoma,False,0.0,77.0
+648,marry me tony pt 3,Wisconsin,1.0,Oregon,False,0.0,77.0
+649,marry me tony pt 3,Kansas State,1.0,UC Irvine,False,0.0,77.0
+650,marry me tony pt 3,Villanova,1.0,Villanova,True,1.0,77.0
+651,marry me tony pt 3,Purdue,1.0,Purdue,True,1.0,77.0
+652,marry me tony pt 3,Cincinnati,1.0,Iowa,False,0.0,77.0
+653,marry me tony pt 3,Tennessee,1.0,Tennessee,True,1.0,77.0
+654,marry me tony pt 3,North Carolina,1.0,North Carolina,True,1.0,77.0
+655,marry me tony pt 3,Washington,1.0,Washington,True,1.0,77.0
+656,marry me tony pt 3,Auburn,1.0,Auburn,True,1.0,77.0
+657,marry me tony pt 3,Kansas,1.0,Kansas,True,1.0,77.0
+658,marry me tony pt 3,Iowa State,1.0,Ohio State,False,0.0,77.0
+659,marry me tony pt 3,Georgia State,1.0,Houston,False,0.0,77.0
+660,marry me tony pt 3,Seton Hall,1.0,Wofford,False,0.0,77.0
+661,marry me tony pt 3,Kentucky,1.0,Kentucky,True,1.0,77.0
+662,marry me tony pt 3,Duke,2.0,Duke,True,2.0,77.0
+663,marry me tony pt 3,Virginia Tech,2.0,Virginia Tech,True,2.0,77.0
+664,marry me tony pt 3,Maryland,2.0,LSU,False,0.0,77.0
+665,marry me tony pt 3,Michigan State,2.0,Michigan State,True,2.0,77.0
+666,marry me tony pt 3,Gonzaga,2.0,Gonzaga,True,2.0,77.0
+667,marry me tony pt 3,Florida St,2.0,Florida St,True,2.0,77.0
+668,marry me tony pt 3,Texas Tech,2.0,Texas Tech,True,2.0,77.0
+669,marry me tony pt 3,Michigan,2.0,Michigan,True,2.0,77.0
+670,marry me tony pt 3,Virginia,2.0,Virginia,True,2.0,77.0
+671,marry me tony pt 3,Wisconsin,2.0,Oregon,False,0.0,77.0
+672,marry me tony pt 3,Purdue,2.0,Purdue,True,2.0,77.0
+673,marry me tony pt 3,Tennessee,2.0,Tennessee,True,2.0,77.0
+674,marry me tony pt 3,North Carolina,2.0,North Carolina,True,2.0,77.0
+675,marry me tony pt 3,Auburn,2.0,Auburn,True,2.0,77.0
+676,marry me tony pt 3,Iowa State,2.0,Houston,False,0.0,77.0
+677,marry me tony pt 3,Kentucky,2.0,Kentucky,True,2.0,77.0
+678,marry me tony pt 3,Duke,4.0,Duke,True,4.0,77.0
+679,marry me tony pt 3,Maryland,4.0,Michigan State,False,0.0,77.0
+680,marry me tony pt 3,Gonzaga,4.0,Gonzaga,True,4.0,77.0
+681,marry me tony pt 3,Michigan,4.0,Texas Tech,False,0.0,77.0
+682,marry me tony pt 3,Virginia,4.0,Virginia,True,4.0,77.0
+683,marry me tony pt 3,Purdue,4.0,Purdue,True,4.0,77.0
+684,marry me tony pt 3,North Carolina,4.0,Auburn,False,0.0,77.0
+685,marry me tony pt 3,Kentucky,4.0,Kentucky,True,4.0,77.0
+686,marry me tony pt 3,Maryland,8.0,Michigan State,False,0.0,77.0
+687,marry me tony pt 3,Gonzaga,8.0,Texas Tech,False,0.0,77.0
+688,marry me tony pt 3,Virginia,8.0,Virginia,True,8.0,77.0
+689,marry me tony pt 3,North Carolina,8.0,Auburn,False,0.0,77.0
+690,marry me tony pt 3,Gonzaga,16.0,0,False,0.0,77.0
+691,marry me tony pt 3,Virginia,16.0,0,False,0.0,77.0
+692,marry me tony pt 3,Virginia,32.0,0,False,0.0,77.0
+693,Jay Huff is my Father,Duke,1.0,Duke,True,1.0,72.0
+694,Jay Huff is my Father,VCU,1.0,UCF,False,0.0,72.0
+695,Jay Huff is my Father,Mississippi St,1.0,Liberty,False,0.0,72.0
+696,Jay Huff is my Father,Virginia Tech,1.0,Virginia Tech,True,1.0,72.0
+697,Jay Huff is my Father,Maryland,1.0,Maryland,True,1.0,72.0
+698,Jay Huff is my Father,LSU,1.0,LSU,True,1.0,72.0
+699,Jay Huff is my Father,Louisville,1.0,Minnesota,False,0.0,72.0
+700,Jay Huff is my Father,Michigan State,1.0,Michigan State,True,1.0,72.0
+701,Jay Huff is my Father,Gonzaga,1.0,Gonzaga,True,1.0,72.0
+702,Jay Huff is my Father,Syracuse,1.0,Baylor,False,0.0,72.0
+703,Jay Huff is my Father,Marquette,1.0,Murray State,False,0.0,72.0
+704,Jay Huff is my Father,Florida St,1.0,Florida St,True,1.0,72.0
+705,Jay Huff is my Father,Arizona State,1.0,Buffalo,False,0.0,72.0
+706,Jay Huff is my Father,Texas Tech,1.0,Texas Tech,True,1.0,72.0
+707,Jay Huff is my Father,Florida,1.0,Florida,True,1.0,72.0
+708,Jay Huff is my Father,Michigan,1.0,Michigan,True,1.0,72.0
+709,Jay Huff is my Father,Virginia,1.0,Virginia,True,1.0,72.0
+710,Jay Huff is my Father,Oklahoma,1.0,Oklahoma,True,1.0,72.0
+711,Jay Huff is my Father,Wisconsin,1.0,Oregon,False,0.0,72.0
+712,Jay Huff is my Father,Kansas State,1.0,UC Irvine,False,0.0,72.0
+713,Jay Huff is my Father,Villanova,1.0,Villanova,True,1.0,72.0
+714,Jay Huff is my Father,Purdue,1.0,Purdue,True,1.0,72.0
+715,Jay Huff is my Father,Iowa,1.0,Iowa,True,1.0,72.0
+716,Jay Huff is my Father,Tennessee,1.0,Tennessee,True,1.0,72.0
+717,Jay Huff is my Father,North Carolina,1.0,North Carolina,True,1.0,72.0
+718,Jay Huff is my Father,Washington,1.0,Washington,True,1.0,72.0
+719,Jay Huff is my Father,Auburn,1.0,Auburn,True,1.0,72.0
+720,Jay Huff is my Father,Kansas,1.0,Kansas,True,1.0,72.0
+721,Jay Huff is my Father,Iowa State,1.0,Ohio State,False,0.0,72.0
+722,Jay Huff is my Father,Houston,1.0,Houston,True,1.0,72.0
+723,Jay Huff is my Father,Seton Hall,1.0,Wofford,False,0.0,72.0
+724,Jay Huff is my Father,Kentucky,1.0,Kentucky,True,1.0,72.0
+725,Jay Huff is my Father,Duke,2.0,Duke,True,2.0,72.0
+726,Jay Huff is my Father,Virginia Tech,2.0,Virginia Tech,True,2.0,72.0
+727,Jay Huff is my Father,LSU,2.0,LSU,True,2.0,72.0
+728,Jay Huff is my Father,Michigan State,2.0,Michigan State,True,2.0,72.0
+729,Jay Huff is my Father,Gonzaga,2.0,Gonzaga,True,2.0,72.0
+730,Jay Huff is my Father,Florida St,2.0,Florida St,True,2.0,72.0
+731,Jay Huff is my Father,Texas Tech,2.0,Texas Tech,True,2.0,72.0
+732,Jay Huff is my Father,Michigan,2.0,Michigan,True,2.0,72.0
+733,Jay Huff is my Father,Virginia,2.0,Virginia,True,2.0,72.0
+734,Jay Huff is my Father,Wisconsin,2.0,Oregon,False,0.0,72.0
+735,Jay Huff is my Father,Villanova,2.0,Purdue,False,0.0,72.0
+736,Jay Huff is my Father,Tennessee,2.0,Tennessee,True,2.0,72.0
+737,Jay Huff is my Father,North Carolina,2.0,North Carolina,True,2.0,72.0
+738,Jay Huff is my Father,Auburn,2.0,Auburn,True,2.0,72.0
+739,Jay Huff is my Father,Iowa State,2.0,Houston,False,0.0,72.0
+740,Jay Huff is my Father,Kentucky,2.0,Kentucky,True,2.0,72.0
+741,Jay Huff is my Father,Duke,4.0,Duke,True,4.0,72.0
+742,Jay Huff is my Father,Michigan State,4.0,Michigan State,True,4.0,72.0
+743,Jay Huff is my Father,Florida St,4.0,Gonzaga,False,0.0,72.0
+744,Jay Huff is my Father,Michigan,4.0,Texas Tech,False,0.0,72.0
+745,Jay Huff is my Father,Virginia,4.0,Virginia,True,4.0,72.0
+746,Jay Huff is my Father,Tennessee,4.0,Purdue,False,0.0,72.0
+747,Jay Huff is my Father,North Carolina,4.0,Auburn,False,0.0,72.0
+748,Jay Huff is my Father,Kentucky,4.0,Kentucky,True,4.0,72.0
+749,Jay Huff is my Father,Duke,8.0,Michigan State,False,0.0,72.0
+750,Jay Huff is my Father,Florida St,8.0,Texas Tech,False,0.0,72.0
+751,Jay Huff is my Father,Virginia,8.0,Virginia,True,8.0,72.0
+752,Jay Huff is my Father,North Carolina,8.0,Auburn,False,0.0,72.0
+753,Jay Huff is my Father,Duke,16.0,0,False,0.0,72.0
+754,Jay Huff is my Father,Virginia,16.0,0,False,0.0,72.0
+755,Jay Huff is my Father,Virginia,32.0,0,False,0.0,72.0
+756,Jack Salt Is A Large Man,Duke,1.0,Duke,True,1.0,80.0
+757,Jack Salt Is A Large Man,UCF,1.0,UCF,True,1.0,80.0
+758,Jack Salt Is A Large Man,Mississippi St,1.0,Liberty,False,0.0,80.0
+759,Jack Salt Is A Large Man,Virginia Tech,1.0,Virginia Tech,True,1.0,80.0
+760,Jack Salt Is A Large Man,Maryland,1.0,Maryland,True,1.0,80.0
+761,Jack Salt Is A Large Man,LSU,1.0,LSU,True,1.0,80.0
+762,Jack Salt Is A Large Man,Louisville,1.0,Minnesota,False,0.0,80.0
+763,Jack Salt Is A Large Man,Michigan State,1.0,Michigan State,True,1.0,80.0
+764,Jack Salt Is A Large Man,Gonzaga,1.0,Gonzaga,True,1.0,80.0
+765,Jack Salt Is A Large Man,Syracuse,1.0,Baylor,False,0.0,80.0
+766,Jack Salt Is A Large Man,Marquette,1.0,Murray State,False,0.0,80.0
+767,Jack Salt Is A Large Man,Florida St,1.0,Florida St,True,1.0,80.0
+768,Jack Salt Is A Large Man,Buffalo,1.0,Buffalo,True,1.0,80.0
+769,Jack Salt Is A Large Man,Texas Tech,1.0,Texas Tech,True,1.0,80.0
+770,Jack Salt Is A Large Man,Florida,1.0,Florida,True,1.0,80.0
+771,Jack Salt Is A Large Man,Michigan,1.0,Michigan,True,1.0,80.0
+772,Jack Salt Is A Large Man,Virginia,1.0,Virginia,True,1.0,80.0
+773,Jack Salt Is A Large Man,Ole Miss,1.0,Oklahoma,False,0.0,80.0
+774,Jack Salt Is A Large Man,Wisconsin,1.0,Oregon,False,0.0,80.0
+775,Jack Salt Is A Large Man,Kansas State,1.0,UC Irvine,False,0.0,80.0
+776,Jack Salt Is A Large Man,Villanova,1.0,Villanova,True,1.0,80.0
+777,Jack Salt Is A Large Man,Purdue,1.0,Purdue,True,1.0,80.0
+778,Jack Salt Is A Large Man,Cincinnati,1.0,Iowa,False,0.0,80.0
+779,Jack Salt Is A Large Man,Tennessee,1.0,Tennessee,True,1.0,80.0
+780,Jack Salt Is A Large Man,North Carolina,1.0,North Carolina,True,1.0,80.0
+781,Jack Salt Is A Large Man,Washington,1.0,Washington,True,1.0,80.0
+782,Jack Salt Is A Large Man,Auburn,1.0,Auburn,True,1.0,80.0
+783,Jack Salt Is A Large Man,Kansas,1.0,Kansas,True,1.0,80.0
+784,Jack Salt Is A Large Man,Ohio State,1.0,Ohio State,True,1.0,80.0
+785,Jack Salt Is A Large Man,Houston,1.0,Houston,True,1.0,80.0
+786,Jack Salt Is A Large Man,Wofford,1.0,Wofford,True,1.0,80.0
+787,Jack Salt Is A Large Man,Kentucky,1.0,Kentucky,True,1.0,80.0
+788,Jack Salt Is A Large Man,Duke,2.0,Duke,True,2.0,80.0
+789,Jack Salt Is A Large Man,Virginia Tech,2.0,Virginia Tech,True,2.0,80.0
+790,Jack Salt Is A Large Man,Maryland,2.0,LSU,False,0.0,80.0
+791,Jack Salt Is A Large Man,Michigan State,2.0,Michigan State,True,2.0,80.0
+792,Jack Salt Is A Large Man,Gonzaga,2.0,Gonzaga,True,2.0,80.0
+793,Jack Salt Is A Large Man,Florida St,2.0,Florida St,True,2.0,80.0
+794,Jack Salt Is A Large Man,Texas Tech,2.0,Texas Tech,True,2.0,80.0
+795,Jack Salt Is A Large Man,Michigan,2.0,Michigan,True,2.0,80.0
+796,Jack Salt Is A Large Man,Virginia,2.0,Virginia,True,2.0,80.0
+797,Jack Salt Is A Large Man,Wisconsin,2.0,Oregon,False,0.0,80.0
+798,Jack Salt Is A Large Man,Purdue,2.0,Purdue,True,2.0,80.0
+799,Jack Salt Is A Large Man,Tennessee,2.0,Tennessee,True,2.0,80.0
+800,Jack Salt Is A Large Man,North Carolina,2.0,North Carolina,True,2.0,80.0
+801,Jack Salt Is A Large Man,Kansas,2.0,Auburn,False,0.0,80.0
+802,Jack Salt Is A Large Man,Ohio State,2.0,Houston,False,0.0,80.0
+803,Jack Salt Is A Large Man,Kentucky,2.0,Kentucky,True,2.0,80.0
+804,Jack Salt Is A Large Man,Duke,4.0,Duke,True,4.0,80.0
+805,Jack Salt Is A Large Man,Michigan State,4.0,Michigan State,True,4.0,80.0
+806,Jack Salt Is A Large Man,Gonzaga,4.0,Gonzaga,True,4.0,80.0
+807,Jack Salt Is A Large Man,Texas Tech,4.0,Texas Tech,True,4.0,80.0
+808,Jack Salt Is A Large Man,Virginia,4.0,Virginia,True,4.0,80.0
+809,Jack Salt Is A Large Man,Tennessee,4.0,Purdue,False,0.0,80.0
+810,Jack Salt Is A Large Man,North Carolina,4.0,Auburn,False,0.0,80.0
+811,Jack Salt Is A Large Man,Kentucky,4.0,Kentucky,True,4.0,80.0
+812,Jack Salt Is A Large Man,Michigan State,8.0,Michigan State,True,8.0,80.0
+813,Jack Salt Is A Large Man,Gonzaga,8.0,Texas Tech,False,0.0,80.0
+814,Jack Salt Is A Large Man,Tennessee,8.0,Virginia,False,0.0,80.0
+815,Jack Salt Is A Large Man,North Carolina,8.0,Auburn,False,0.0,80.0
+816,Jack Salt Is A Large Man,Michigan State,16.0,0,False,0.0,80.0
+817,Jack Salt Is A Large Man,North Carolina,16.0,0,False,0.0,80.0
+818,Jack Salt Is A Large Man,Michigan State,32.0,0,False,0.0,80.0
+819,Bryce Hammerton,Duke,1.0,Duke,True,1.0,72.0
+820,Bryce Hammerton,UCF,1.0,UCF,True,1.0,72.0
+821,Bryce Hammerton,Liberty,1.0,Liberty,True,1.0,72.0
+822,Bryce Hammerton,Virginia Tech,1.0,Virginia Tech,True,1.0,72.0
+823,Bryce Hammerton,Belmont,1.0,Maryland,False,0.0,72.0
+824,Bryce Hammerton,LSU,1.0,LSU,True,1.0,72.0
+825,Bryce Hammerton,Louisville,1.0,Minnesota,False,0.0,72.0
+826,Bryce Hammerton,Michigan State,1.0,Michigan State,True,1.0,72.0
+827,Bryce Hammerton,Gonzaga,1.0,Gonzaga,True,1.0,72.0
+828,Bryce Hammerton,Syracuse,1.0,Baylor,False,0.0,72.0
+829,Bryce Hammerton,Murray State,1.0,Murray State,True,1.0,72.0
+830,Bryce Hammerton,Florida St,1.0,Florida St,True,1.0,72.0
+831,Bryce Hammerton,Buffalo,1.0,Buffalo,True,1.0,72.0
+832,Bryce Hammerton,Texas Tech,1.0,Texas Tech,True,1.0,72.0
+833,Bryce Hammerton,Florida,1.0,Florida,True,1.0,72.0
+834,Bryce Hammerton,Michigan,1.0,Michigan,True,1.0,72.0
+835,Bryce Hammerton,Virginia,1.0,Virginia,True,1.0,72.0
+836,Bryce Hammerton,Ole Miss,1.0,Oklahoma,False,0.0,72.0
+837,Bryce Hammerton,Wisconsin,1.0,Oregon,False,0.0,72.0
+838,Bryce Hammerton,Kansas State,1.0,UC Irvine,False,0.0,72.0
+839,Bryce Hammerton,Villanova,1.0,Villanova,True,1.0,72.0
+840,Bryce Hammerton,Purdue,1.0,Purdue,True,1.0,72.0
+841,Bryce Hammerton,Cincinnati,1.0,Iowa,False,0.0,72.0
+842,Bryce Hammerton,Tennessee,1.0,Tennessee,True,1.0,72.0
+843,Bryce Hammerton,North Carolina,1.0,North Carolina,True,1.0,72.0
+844,Bryce Hammerton,Utah State,1.0,Washington,False,0.0,72.0
+845,Bryce Hammerton,Auburn,1.0,Auburn,True,1.0,72.0
+846,Bryce Hammerton,Kansas,1.0,Kansas,True,1.0,72.0
+847,Bryce Hammerton,Ohio State,1.0,Ohio State,True,1.0,72.0
+848,Bryce Hammerton,Houston,1.0,Houston,True,1.0,72.0
+849,Bryce Hammerton,Wofford,1.0,Wofford,True,1.0,72.0
+850,Bryce Hammerton,Kentucky,1.0,Kentucky,True,1.0,72.0
+851,Bryce Hammerton,Duke,2.0,Duke,True,2.0,72.0
+852,Bryce Hammerton,Liberty,2.0,Virginia Tech,False,0.0,72.0
+853,Bryce Hammerton,LSU,2.0,LSU,True,2.0,72.0
+854,Bryce Hammerton,Michigan State,2.0,Michigan State,True,2.0,72.0
+855,Bryce Hammerton,Syracuse,2.0,Gonzaga,False,0.0,72.0
+856,Bryce Hammerton,Florida St,2.0,Florida St,True,2.0,72.0
+857,Bryce Hammerton,Buffalo,2.0,Texas Tech,False,0.0,72.0
+858,Bryce Hammerton,Michigan,2.0,Michigan,True,2.0,72.0
+859,Bryce Hammerton,Virginia,2.0,Virginia,True,2.0,72.0
+860,Bryce Hammerton,Kansas State,2.0,Oregon,False,0.0,72.0
+861,Bryce Hammerton,Purdue,2.0,Purdue,True,2.0,72.0
+862,Bryce Hammerton,Tennessee,2.0,Tennessee,True,2.0,72.0
+863,Bryce Hammerton,North Carolina,2.0,North Carolina,True,2.0,72.0
+864,Bryce Hammerton,Auburn,2.0,Auburn,True,2.0,72.0
+865,Bryce Hammerton,Houston,2.0,Houston,True,2.0,72.0
+866,Bryce Hammerton,Kentucky,2.0,Kentucky,True,2.0,72.0
+867,Bryce Hammerton,Duke,4.0,Duke,True,4.0,72.0
+868,Bryce Hammerton,LSU,4.0,Michigan State,False,0.0,72.0
+869,Bryce Hammerton,Florida St,4.0,Gonzaga,False,0.0,72.0
+870,Bryce Hammerton,Buffalo,4.0,Texas Tech,False,0.0,72.0
+871,Bryce Hammerton,Virginia,4.0,Virginia,True,4.0,72.0
+872,Bryce Hammerton,Purdue,4.0,Purdue,True,4.0,72.0
+873,Bryce Hammerton,North Carolina,4.0,Auburn,False,0.0,72.0
+874,Bryce Hammerton,Kentucky,4.0,Kentucky,True,4.0,72.0
+875,Bryce Hammerton,Duke,8.0,Michigan State,False,0.0,72.0
+876,Bryce Hammerton,Florida St,8.0,Texas Tech,False,0.0,72.0
+877,Bryce Hammerton,Virginia,8.0,Virginia,True,8.0,72.0
+878,Bryce Hammerton,North Carolina,8.0,Auburn,False,0.0,72.0
+879,Bryce Hammerton,Duke,16.0,0,False,0.0,72.0
+880,Bryce Hammerton,North Carolina,16.0,0,False,0.0,72.0
+881,Bryce Hammerton,Duke,32.0,0,False,0.0,72.0
+882,hammermom,Duke,1.0,Duke,True,1.0,82.0
+883,hammermom,VCU,1.0,UCF,False,0.0,82.0
+884,hammermom,Mississippi St,1.0,Liberty,False,0.0,82.0
+885,hammermom,Virginia Tech,1.0,Virginia Tech,True,1.0,82.0
+886,hammermom,Maryland,1.0,Maryland,True,1.0,82.0
+887,hammermom,LSU,1.0,LSU,True,1.0,82.0
+888,hammermom,Louisville,1.0,Minnesota,False,0.0,82.0
+889,hammermom,Michigan State,1.0,Michigan State,True,1.0,82.0
+890,hammermom,Gonzaga,1.0,Gonzaga,True,1.0,82.0
+891,hammermom,Syracuse,1.0,Baylor,False,0.0,82.0
+892,hammermom,Marquette,1.0,Murray State,False,0.0,82.0
+893,hammermom,Florida St,1.0,Florida St,True,1.0,82.0
+894,hammermom,Buffalo,1.0,Buffalo,True,1.0,82.0
+895,hammermom,Texas Tech,1.0,Texas Tech,True,1.0,82.0
+896,hammermom,Nevada,1.0,Florida,False,0.0,82.0
+897,hammermom,Michigan,1.0,Michigan,True,1.0,82.0
+898,hammermom,Virginia,1.0,Virginia,True,1.0,82.0
+899,hammermom,Ole Miss,1.0,Oklahoma,False,0.0,82.0
+900,hammermom,Wisconsin,1.0,Oregon,False,0.0,82.0
+901,hammermom,Kansas State,1.0,UC Irvine,False,0.0,82.0
+902,hammermom,Villanova,1.0,Villanova,True,1.0,82.0
+903,hammermom,Purdue,1.0,Purdue,True,1.0,82.0
+904,hammermom,Cincinnati,1.0,Iowa,False,0.0,82.0
+905,hammermom,Tennessee,1.0,Tennessee,True,1.0,82.0
+906,hammermom,North Carolina,1.0,North Carolina,True,1.0,82.0
+907,hammermom,Utah State,1.0,Washington,False,0.0,82.0
+908,hammermom,Auburn,1.0,Auburn,True,1.0,82.0
+909,hammermom,Kansas,1.0,Kansas,True,1.0,82.0
+910,hammermom,Iowa State,1.0,Ohio State,False,0.0,82.0
+911,hammermom,Houston,1.0,Houston,True,1.0,82.0
+912,hammermom,Wofford,1.0,Wofford,True,1.0,82.0
+913,hammermom,Kentucky,1.0,Kentucky,True,1.0,82.0
+914,hammermom,Duke,2.0,Duke,True,2.0,82.0
+915,hammermom,Virginia Tech,2.0,Virginia Tech,True,2.0,82.0
+916,hammermom,LSU,2.0,LSU,True,2.0,82.0
+917,hammermom,Michigan State,2.0,Michigan State,True,2.0,82.0
+918,hammermom,Gonzaga,2.0,Gonzaga,True,2.0,82.0
+919,hammermom,Florida St,2.0,Florida St,True,2.0,82.0
+920,hammermom,Buffalo,2.0,Texas Tech,False,0.0,82.0
+921,hammermom,Michigan,2.0,Michigan,True,2.0,82.0
+922,hammermom,Virginia,2.0,Virginia,True,2.0,82.0
+923,hammermom,Kansas State,2.0,Oregon,False,0.0,82.0
+924,hammermom,Purdue,2.0,Purdue,True,2.0,82.0
+925,hammermom,Tennessee,2.0,Tennessee,True,2.0,82.0
+926,hammermom,North Carolina,2.0,North Carolina,True,2.0,82.0
+927,hammermom,Kansas,2.0,Auburn,False,0.0,82.0
+928,hammermom,Houston,2.0,Houston,True,2.0,82.0
+929,hammermom,Kentucky,2.0,Kentucky,True,2.0,82.0
+930,hammermom,Duke,4.0,Duke,True,4.0,82.0
+931,hammermom,Michigan State,4.0,Michigan State,True,4.0,82.0
+932,hammermom,Gonzaga,4.0,Gonzaga,True,4.0,82.0
+933,hammermom,Michigan,4.0,Texas Tech,False,0.0,82.0
+934,hammermom,Virginia,4.0,Virginia,True,4.0,82.0
+935,hammermom,Tennessee,4.0,Purdue,False,0.0,82.0
+936,hammermom,North Carolina,4.0,Auburn,False,0.0,82.0
+937,hammermom,Kentucky,4.0,Kentucky,True,4.0,82.0
+938,hammermom,Michigan State,8.0,Michigan State,True,8.0,82.0
+939,hammermom,Gonzaga,8.0,Texas Tech,False,0.0,82.0
+940,hammermom,Virginia,8.0,Virginia,True,8.0,82.0
+941,hammermom,North Carolina,8.0,Auburn,False,0.0,82.0
+942,hammermom,Michigan State,16.0,0,False,0.0,82.0
+943,hammermom,Virginia,16.0,0,False,0.0,82.0
+944,hammermom,Virginia,32.0,0,False,0.0,82.0
+945,Danielkr,Duke,1.0,Duke,True,1.0,70.0
+946,Danielkr,UCF,1.0,UCF,True,1.0,70.0
+947,Danielkr,Mississippi St,1.0,Liberty,False,0.0,70.0
+948,Danielkr,Virginia Tech,1.0,Virginia Tech,True,1.0,70.0
+949,Danielkr,Maryland,1.0,Maryland,True,1.0,70.0
+950,Danielkr,LSU,1.0,LSU,True,1.0,70.0
+951,Danielkr,Louisville,1.0,Minnesota,False,0.0,70.0
+952,Danielkr,Michigan State,1.0,Michigan State,True,1.0,70.0
+953,Danielkr,Gonzaga,1.0,Gonzaga,True,1.0,70.0
+954,Danielkr,Syracuse,1.0,Baylor,False,0.0,70.0
+955,Danielkr,Marquette,1.0,Murray State,False,0.0,70.0
+956,Danielkr,Florida St,1.0,Florida St,True,1.0,70.0
+957,Danielkr,Buffalo,1.0,Buffalo,True,1.0,70.0
+958,Danielkr,Texas Tech,1.0,Texas Tech,True,1.0,70.0
+959,Danielkr,Nevada,1.0,Florida,False,0.0,70.0
+960,Danielkr,Michigan,1.0,Michigan,True,1.0,70.0
+961,Danielkr,Virginia,1.0,Virginia,True,1.0,70.0
+962,Danielkr,Ole Miss,1.0,Oklahoma,False,0.0,70.0
+963,Danielkr,Wisconsin,1.0,Oregon,False,0.0,70.0
+964,Danielkr,Kansas State,1.0,UC Irvine,False,0.0,70.0
+965,Danielkr,Villanova,1.0,Villanova,True,1.0,70.0
+966,Danielkr,Purdue,1.0,Purdue,True,1.0,70.0
+967,Danielkr,Cincinnati,1.0,Iowa,False,0.0,70.0
+968,Danielkr,Tennessee,1.0,Tennessee,True,1.0,70.0
+969,Danielkr,North Carolina,1.0,North Carolina,True,1.0,70.0
+970,Danielkr,Washington,1.0,Washington,True,1.0,70.0
+971,Danielkr,Auburn,1.0,Auburn,True,1.0,70.0
+972,Danielkr,Kansas,1.0,Kansas,True,1.0,70.0
+973,Danielkr,Ohio State,1.0,Ohio State,True,1.0,70.0
+974,Danielkr,Houston,1.0,Houston,True,1.0,70.0
+975,Danielkr,Seton Hall,1.0,Wofford,False,0.0,70.0
+976,Danielkr,Kentucky,1.0,Kentucky,True,1.0,70.0
+977,Danielkr,Duke,2.0,Duke,True,2.0,70.0
+978,Danielkr,Virginia Tech,2.0,Virginia Tech,True,2.0,70.0
+979,Danielkr,LSU,2.0,LSU,True,2.0,70.0
+980,Danielkr,Michigan State,2.0,Michigan State,True,2.0,70.0
+981,Danielkr,Syracuse,2.0,Gonzaga,False,0.0,70.0
+982,Danielkr,Florida St,2.0,Florida St,True,2.0,70.0
+983,Danielkr,Buffalo,2.0,Texas Tech,False,0.0,70.0
+984,Danielkr,Michigan,2.0,Michigan,True,2.0,70.0
+985,Danielkr,Virginia,2.0,Virginia,True,2.0,70.0
+986,Danielkr,Wisconsin,2.0,Oregon,False,0.0,70.0
+987,Danielkr,Purdue,2.0,Purdue,True,2.0,70.0
+988,Danielkr,Tennessee,2.0,Tennessee,True,2.0,70.0
+989,Danielkr,North Carolina,2.0,North Carolina,True,2.0,70.0
+990,Danielkr,Kansas,2.0,Auburn,False,0.0,70.0
+991,Danielkr,Houston,2.0,Houston,True,2.0,70.0
+992,Danielkr,Kentucky,2.0,Kentucky,True,2.0,70.0
+993,Danielkr,Duke,4.0,Duke,True,4.0,70.0
+994,Danielkr,LSU,4.0,Michigan State,False,0.0,70.0
+995,Danielkr,Florida St,4.0,Gonzaga,False,0.0,70.0
+996,Danielkr,Michigan,4.0,Texas Tech,False,0.0,70.0
+997,Danielkr,Virginia,4.0,Virginia,True,4.0,70.0
+998,Danielkr,Purdue,4.0,Purdue,True,4.0,70.0
+999,Danielkr,North Carolina,4.0,Auburn,False,0.0,70.0
+1000,Danielkr,Kentucky,4.0,Kentucky,True,4.0,70.0
+1001,Danielkr,Duke,8.0,Michigan State,False,0.0,70.0
+1002,Danielkr,Michigan,8.0,Texas Tech,False,0.0,70.0
+1003,Danielkr,Virginia,8.0,Virginia,True,8.0,70.0
+1004,Danielkr,Kentucky,8.0,Auburn,False,0.0,70.0
+1005,Danielkr,Duke,16.0,0,False,0.0,70.0
+1006,Danielkr,Kentucky,16.0,0,False,0.0,70.0
+1007,Danielkr,Duke,32.0,0,False,0.0,70.0
+1008,GoBabyBlue,Duke,1.0,Duke,True,1.0,58.0
+1009,GoBabyBlue,VCU,1.0,UCF,False,0.0,58.0
+1010,GoBabyBlue,Liberty,1.0,Liberty,True,1.0,58.0
+1011,GoBabyBlue,Virginia Tech,1.0,Virginia Tech,True,1.0,58.0
+1012,GoBabyBlue,Maryland,1.0,Maryland,True,1.0,58.0
+1013,GoBabyBlue,LSU,1.0,LSU,True,1.0,58.0
+1014,GoBabyBlue,Louisville,1.0,Minnesota,False,0.0,58.0
+1015,GoBabyBlue,Michigan State,1.0,Michigan State,True,1.0,58.0
+1016,GoBabyBlue,Gonzaga,1.0,Gonzaga,True,1.0,58.0
+1017,GoBabyBlue,Syracuse,1.0,Baylor,False,0.0,58.0
+1018,GoBabyBlue,Marquette,1.0,Murray State,False,0.0,58.0
+1019,GoBabyBlue,Florida St,1.0,Florida St,True,1.0,58.0
+1020,GoBabyBlue,Buffalo,1.0,Buffalo,True,1.0,58.0
+1021,GoBabyBlue,Texas Tech,1.0,Texas Tech,True,1.0,58.0
+1022,GoBabyBlue,Florida,1.0,Florida,True,1.0,58.0
+1023,GoBabyBlue,Michigan,1.0,Michigan,True,1.0,58.0
+1024,GoBabyBlue,Virginia,1.0,Virginia,True,1.0,58.0
+1025,GoBabyBlue,Oklahoma,1.0,Oklahoma,True,1.0,58.0
+1026,GoBabyBlue,Wisconsin,1.0,Oregon,False,0.0,58.0
+1027,GoBabyBlue,UC Irvine,1.0,UC Irvine,True,1.0,58.0
+1028,GoBabyBlue,Villanova,1.0,Villanova,True,1.0,58.0
+1029,GoBabyBlue,Purdue,1.0,Purdue,True,1.0,58.0
+1030,GoBabyBlue,Cincinnati,1.0,Iowa,False,0.0,58.0
+1031,GoBabyBlue,Tennessee,1.0,Tennessee,True,1.0,58.0
+1032,GoBabyBlue,North Carolina,1.0,North Carolina,True,1.0,58.0
+1033,GoBabyBlue,Washington,1.0,Washington,True,1.0,58.0
+1034,GoBabyBlue,New Mexico St,1.0,Auburn,False,0.0,58.0
+1035,GoBabyBlue,Kansas,1.0,Kansas,True,1.0,58.0
+1036,GoBabyBlue,Ohio State,1.0,Ohio State,True,1.0,58.0
+1037,GoBabyBlue,Houston,1.0,Houston,True,1.0,58.0
+1038,GoBabyBlue,Seton Hall,1.0,Wofford,False,0.0,58.0
+1039,GoBabyBlue,Kentucky,1.0,Kentucky,True,1.0,58.0
+1040,GoBabyBlue,Duke,2.0,Duke,True,2.0,58.0
+1041,GoBabyBlue,Virginia Tech,2.0,Virginia Tech,True,2.0,58.0
+1042,GoBabyBlue,Maryland,2.0,LSU,False,0.0,58.0
+1043,GoBabyBlue,Michigan State,2.0,Michigan State,True,2.0,58.0
+1044,GoBabyBlue,Gonzaga,2.0,Gonzaga,True,2.0,58.0
+1045,GoBabyBlue,Florida St,2.0,Florida St,True,2.0,58.0
+1046,GoBabyBlue,Buffalo,2.0,Texas Tech,False,0.0,58.0
+1047,GoBabyBlue,Michigan,2.0,Michigan,True,2.0,58.0
+1048,GoBabyBlue,Virginia,2.0,Virginia,True,2.0,58.0
+1049,GoBabyBlue,Wisconsin,2.0,Oregon,False,0.0,58.0
+1050,GoBabyBlue,Purdue,2.0,Purdue,True,2.0,58.0
+1051,GoBabyBlue,Tennessee,2.0,Tennessee,True,2.0,58.0
+1052,GoBabyBlue,North Carolina,2.0,North Carolina,True,2.0,58.0
+1053,GoBabyBlue,Kansas,2.0,Auburn,False,0.0,58.0
+1054,GoBabyBlue,Ohio State,2.0,Houston,False,0.0,58.0
+1055,GoBabyBlue,Kentucky,2.0,Kentucky,True,2.0,58.0
+1056,GoBabyBlue,Duke,4.0,Duke,True,4.0,58.0
+1057,GoBabyBlue,Michigan State,4.0,Michigan State,True,4.0,58.0
+1058,GoBabyBlue,Florida St,4.0,Gonzaga,False,0.0,58.0
+1059,GoBabyBlue,Michigan,4.0,Texas Tech,False,0.0,58.0
+1060,GoBabyBlue,Wisconsin,4.0,Virginia,False,0.0,58.0
+1061,GoBabyBlue,Tennessee,4.0,Purdue,False,0.0,58.0
+1062,GoBabyBlue,North Carolina,4.0,Auburn,False,0.0,58.0
+1063,GoBabyBlue,Kentucky,4.0,Kentucky,True,4.0,58.0
+1064,GoBabyBlue,Duke,8.0,Michigan State,False,0.0,58.0
+1065,GoBabyBlue,Michigan,8.0,Texas Tech,False,0.0,58.0
+1066,GoBabyBlue,Tennessee,8.0,Virginia,False,0.0,58.0
+1067,GoBabyBlue,North Carolina,8.0,Auburn,False,0.0,58.0
+1068,GoBabyBlue,Michigan,16.0,0,False,0.0,58.0
+1069,GoBabyBlue,North Carolina,16.0,0,False,0.0,58.0
+1070,GoBabyBlue,North Carolina,32.0,0,False,0.0,58.0
+1071,SteelerNixon 1,Duke,1.0,Duke,True,1.0,54.0
+1072,SteelerNixon 1,VCU,1.0,UCF,False,0.0,54.0
+1073,SteelerNixon 1,Mississippi St,1.0,Liberty,False,0.0,54.0
+1074,SteelerNixon 1,Virginia Tech,1.0,Virginia Tech,True,1.0,54.0
+1075,SteelerNixon 1,Belmont,1.0,Maryland,False,0.0,54.0
+1076,SteelerNixon 1,LSU,1.0,LSU,True,1.0,54.0
+1077,SteelerNixon 1,Louisville,1.0,Minnesota,False,0.0,54.0
+1078,SteelerNixon 1,Michigan State,1.0,Michigan State,True,1.0,54.0
+1079,SteelerNixon 1,Gonzaga,1.0,Gonzaga,True,1.0,54.0
+1080,SteelerNixon 1,Syracuse,1.0,Baylor,False,0.0,54.0
+1081,SteelerNixon 1,Murray State,1.0,Murray State,True,1.0,54.0
+1082,SteelerNixon 1,Florida St,1.0,Florida St,True,1.0,54.0
+1083,SteelerNixon 1,Arizona State,1.0,Buffalo,False,0.0,54.0
+1084,SteelerNixon 1,Texas Tech,1.0,Texas Tech,True,1.0,54.0
+1085,SteelerNixon 1,Florida,1.0,Florida,True,1.0,54.0
+1086,SteelerNixon 1,Michigan,1.0,Michigan,True,1.0,54.0
+1087,SteelerNixon 1,Virginia,1.0,Virginia,True,1.0,54.0
+1088,SteelerNixon 1,Oklahoma,1.0,Oklahoma,True,1.0,54.0
+1089,SteelerNixon 1,Wisconsin,1.0,Oregon,False,0.0,54.0
+1090,SteelerNixon 1,UC Irvine,1.0,UC Irvine,True,1.0,54.0
+1091,SteelerNixon 1,Villanova,1.0,Villanova,True,1.0,54.0
+1092,SteelerNixon 1,Purdue,1.0,Purdue,True,1.0,54.0
+1093,SteelerNixon 1,Iowa,1.0,Iowa,True,1.0,54.0
+1094,SteelerNixon 1,Tennessee,1.0,Tennessee,True,1.0,54.0
+1095,SteelerNixon 1,North Carolina,1.0,North Carolina,True,1.0,54.0
+1096,SteelerNixon 1,Utah State,1.0,Washington,False,0.0,54.0
+1097,SteelerNixon 1,Auburn,1.0,Auburn,True,1.0,54.0
+1098,SteelerNixon 1,Kansas,1.0,Kansas,True,1.0,54.0
+1099,SteelerNixon 1,Iowa State,1.0,Ohio State,False,0.0,54.0
+1100,SteelerNixon 1,Houston,1.0,Houston,True,1.0,54.0
+1101,SteelerNixon 1,Seton Hall,1.0,Wofford,False,0.0,54.0
+1102,SteelerNixon 1,Kentucky,1.0,Kentucky,True,1.0,54.0
+1103,SteelerNixon 1,Duke,2.0,Duke,True,2.0,54.0
+1104,SteelerNixon 1,Virginia Tech,2.0,Virginia Tech,True,2.0,54.0
+1105,SteelerNixon 1,LSU,2.0,LSU,True,2.0,54.0
+1106,SteelerNixon 1,Michigan State,2.0,Michigan State,True,2.0,54.0
+1107,SteelerNixon 1,Gonzaga,2.0,Gonzaga,True,2.0,54.0
+1108,SteelerNixon 1,Florida St,2.0,Florida St,True,2.0,54.0
+1109,SteelerNixon 1,Texas Tech,2.0,Texas Tech,True,2.0,54.0
+1110,SteelerNixon 1,Michigan,2.0,Michigan,True,2.0,54.0
+1111,SteelerNixon 1,Virginia,2.0,Virginia,True,2.0,54.0
+1112,SteelerNixon 1,Wisconsin,2.0,Oregon,False,0.0,54.0
+1113,SteelerNixon 1,Villanova,2.0,Purdue,False,0.0,54.0
+1114,SteelerNixon 1,Tennessee,2.0,Tennessee,True,2.0,54.0
+1115,SteelerNixon 1,North Carolina,2.0,North Carolina,True,2.0,54.0
+1116,SteelerNixon 1,Kansas,2.0,Auburn,False,0.0,54.0
+1117,SteelerNixon 1,Iowa State,2.0,Houston,False,0.0,54.0
+1118,SteelerNixon 1,Kentucky,2.0,Kentucky,True,2.0,54.0
+1119,SteelerNixon 1,Duke,4.0,Duke,True,4.0,54.0
+1120,SteelerNixon 1,Michigan State,4.0,Michigan State,True,4.0,54.0
+1121,SteelerNixon 1,Florida St,4.0,Gonzaga,False,0.0,54.0
+1122,SteelerNixon 1,Michigan,4.0,Texas Tech,False,0.0,54.0
+1123,SteelerNixon 1,Wisconsin,4.0,Virginia,False,0.0,54.0
+1124,SteelerNixon 1,Tennessee,4.0,Purdue,False,0.0,54.0
+1125,SteelerNixon 1,North Carolina,4.0,Auburn,False,0.0,54.0
+1126,SteelerNixon 1,Iowa State,4.0,Kentucky,False,0.0,54.0
+1127,SteelerNixon 1,Duke,8.0,Michigan State,False,0.0,54.0
+1128,SteelerNixon 1,Michigan,8.0,Texas Tech,False,0.0,54.0
+1129,SteelerNixon 1,Tennessee,8.0,Virginia,False,0.0,54.0
+1130,SteelerNixon 1,North Carolina,8.0,Auburn,False,0.0,54.0
+1131,SteelerNixon 1,Duke,16.0,0,False,0.0,54.0
+1132,SteelerNixon 1,North Carolina,16.0,0,False,0.0,54.0
+1133,SteelerNixon 1,Duke,32.0,0,False,0.0,54.0
+1134,BigDaddy,Duke,1.0,Duke,True,1.0,72.0
+1135,BigDaddy,VCU,1.0,UCF,False,0.0,72.0
+1136,BigDaddy,Mississippi St,1.0,Liberty,False,0.0,72.0
+1137,BigDaddy,Virginia Tech,1.0,Virginia Tech,True,1.0,72.0
+1138,BigDaddy,Maryland,1.0,Maryland,True,1.0,72.0
+1139,BigDaddy,LSU,1.0,LSU,True,1.0,72.0
+1140,BigDaddy,Minnesota,1.0,Minnesota,True,1.0,72.0
+1141,BigDaddy,Michigan State,1.0,Michigan State,True,1.0,72.0
+1142,BigDaddy,Gonzaga,1.0,Gonzaga,True,1.0,72.0
+1143,BigDaddy,Syracuse,1.0,Baylor,False,0.0,72.0
+1144,BigDaddy,Murray State,1.0,Murray State,True,1.0,72.0
+1145,BigDaddy,Florida St,1.0,Florida St,True,1.0,72.0
+1146,BigDaddy,Buffalo,1.0,Buffalo,True,1.0,72.0
+1147,BigDaddy,Texas Tech,1.0,Texas Tech,True,1.0,72.0
+1148,BigDaddy,Florida,1.0,Florida,True,1.0,72.0
+1149,BigDaddy,Michigan,1.0,Michigan,True,1.0,72.0
+1150,BigDaddy,Virginia,1.0,Virginia,True,1.0,72.0
+1151,BigDaddy,Ole Miss,1.0,Oklahoma,False,0.0,72.0
+1152,BigDaddy,Wisconsin,1.0,Oregon,False,0.0,72.0
+1153,BigDaddy,Kansas State,1.0,UC Irvine,False,0.0,72.0
+1154,BigDaddy,Saint Mary's,1.0,Villanova,False,0.0,72.0
+1155,BigDaddy,Purdue,1.0,Purdue,True,1.0,72.0
+1156,BigDaddy,Cincinnati,1.0,Iowa,False,0.0,72.0
+1157,BigDaddy,Tennessee,1.0,Tennessee,True,1.0,72.0
+1158,BigDaddy,North Carolina,1.0,North Carolina,True,1.0,72.0
+1159,BigDaddy,Washington,1.0,Washington,True,1.0,72.0
+1160,BigDaddy,Auburn,1.0,Auburn,True,1.0,72.0
+1161,BigDaddy,Northeastern,1.0,Kansas,False,0.0,72.0
+1162,BigDaddy,Iowa State,1.0,Ohio State,False,0.0,72.0
+1163,BigDaddy,Houston,1.0,Houston,True,1.0,72.0
+1164,BigDaddy,Wofford,1.0,Wofford,True,1.0,72.0
+1165,BigDaddy,Kentucky,1.0,Kentucky,True,1.0,72.0
+1166,BigDaddy,Duke,2.0,Duke,True,2.0,72.0
+1167,BigDaddy,Virginia Tech,2.0,Virginia Tech,True,2.0,72.0
+1168,BigDaddy,Maryland,2.0,LSU,False,0.0,72.0
+1169,BigDaddy,Michigan State,2.0,Michigan State,True,2.0,72.0
+1170,BigDaddy,Gonzaga,2.0,Gonzaga,True,2.0,72.0
+1171,BigDaddy,Florida St,2.0,Florida St,True,2.0,72.0
+1172,BigDaddy,Buffalo,2.0,Texas Tech,False,0.0,72.0
+1173,BigDaddy,Michigan,2.0,Michigan,True,2.0,72.0
+1174,BigDaddy,Virginia,2.0,Virginia,True,2.0,72.0
+1175,BigDaddy,Kansas State,2.0,Oregon,False,0.0,72.0
+1176,BigDaddy,Purdue,2.0,Purdue,True,2.0,72.0
+1177,BigDaddy,Cincinnati,2.0,Tennessee,False,0.0,72.0
+1178,BigDaddy,North Carolina,2.0,North Carolina,True,2.0,72.0
+1179,BigDaddy,Auburn,2.0,Auburn,True,2.0,72.0
+1180,BigDaddy,Iowa State,2.0,Houston,False,0.0,72.0
+1181,BigDaddy,Kentucky,2.0,Kentucky,True,2.0,72.0
+1182,BigDaddy,Duke,4.0,Duke,True,4.0,72.0
+1183,BigDaddy,Michigan State,4.0,Michigan State,True,4.0,72.0
+1184,BigDaddy,Florida St,4.0,Gonzaga,False,0.0,72.0
+1185,BigDaddy,Michigan,4.0,Texas Tech,False,0.0,72.0
+1186,BigDaddy,Virginia,4.0,Virginia,True,4.0,72.0
+1187,BigDaddy,Purdue,4.0,Purdue,True,4.0,72.0
+1188,BigDaddy,North Carolina,4.0,Auburn,False,0.0,72.0
+1189,BigDaddy,Kentucky,4.0,Kentucky,True,4.0,72.0
+1190,BigDaddy,Duke,8.0,Michigan State,False,0.0,72.0
+1191,BigDaddy,Michigan,8.0,Texas Tech,False,0.0,72.0
+1192,BigDaddy,Virginia,8.0,Virginia,True,8.0,72.0
+1193,BigDaddy,North Carolina,8.0,Auburn,False,0.0,72.0
+1194,BigDaddy,Duke,16.0,0,False,0.0,72.0
+1195,BigDaddy,North Carolina,16.0,0,False,0.0,72.0
+1196,BigDaddy,North Carolina,32.0,0,False,0.0,72.0
+1197,Ball & Oats,Duke,1.0,Duke,True,1.0,72.0
+1198,Ball & Oats,UCF,1.0,UCF,True,1.0,72.0
+1199,Ball & Oats,Mississippi St,1.0,Liberty,False,0.0,72.0
+1200,Ball & Oats,Virginia Tech,1.0,Virginia Tech,True,1.0,72.0
+1201,Ball & Oats,Belmont,1.0,Maryland,False,0.0,72.0
+1202,Ball & Oats,LSU,1.0,LSU,True,1.0,72.0
+1203,Ball & Oats,Louisville,1.0,Minnesota,False,0.0,72.0
+1204,Ball & Oats,Michigan State,1.0,Michigan State,True,1.0,72.0
+1205,Ball & Oats,Gonzaga,1.0,Gonzaga,True,1.0,72.0
+1206,Ball & Oats,Syracuse,1.0,Baylor,False,0.0,72.0
+1207,Ball & Oats,Murray State,1.0,Murray State,True,1.0,72.0
+1208,Ball & Oats,Florida St,1.0,Florida St,True,1.0,72.0
+1209,Ball & Oats,Buffalo,1.0,Buffalo,True,1.0,72.0
+1210,Ball & Oats,Texas Tech,1.0,Texas Tech,True,1.0,72.0
+1211,Ball & Oats,Nevada,1.0,Florida,False,0.0,72.0
+1212,Ball & Oats,Michigan,1.0,Michigan,True,1.0,72.0
+1213,Ball & Oats,Virginia,1.0,Virginia,True,1.0,72.0
+1214,Ball & Oats,Ole Miss,1.0,Oklahoma,False,0.0,72.0
+1215,Ball & Oats,Oregon,1.0,Oregon,True,1.0,72.0
+1216,Ball & Oats,UC Irvine,1.0,UC Irvine,True,1.0,72.0
+1217,Ball & Oats,Saint Mary's,1.0,Villanova,False,0.0,72.0
+1218,Ball & Oats,Purdue,1.0,Purdue,True,1.0,72.0
+1219,Ball & Oats,Cincinnati,1.0,Iowa,False,0.0,72.0
+1220,Ball & Oats,Tennessee,1.0,Tennessee,True,1.0,72.0
+1221,Ball & Oats,North Carolina,1.0,North Carolina,True,1.0,72.0
+1222,Ball & Oats,Utah State,1.0,Washington,False,0.0,72.0
+1223,Ball & Oats,Auburn,1.0,Auburn,True,1.0,72.0
+1224,Ball & Oats,Northeastern,1.0,Kansas,False,0.0,72.0
+1225,Ball & Oats,Iowa State,1.0,Ohio State,False,0.0,72.0
+1226,Ball & Oats,Houston,1.0,Houston,True,1.0,72.0
+1227,Ball & Oats,Seton Hall,1.0,Wofford,False,0.0,72.0
+1228,Ball & Oats,Kentucky,1.0,Kentucky,True,1.0,72.0
+1229,Ball & Oats,Duke,2.0,Duke,True,2.0,72.0
+1230,Ball & Oats,Virginia Tech,2.0,Virginia Tech,True,2.0,72.0
+1231,Ball & Oats,Belmont,2.0,LSU,False,0.0,72.0
+1232,Ball & Oats,Michigan State,2.0,Michigan State,True,2.0,72.0
+1233,Ball & Oats,Syracuse,2.0,Gonzaga,False,0.0,72.0
+1234,Ball & Oats,Florida St,2.0,Florida St,True,2.0,72.0
+1235,Ball & Oats,Buffalo,2.0,Texas Tech,False,0.0,72.0
+1236,Ball & Oats,Michigan,2.0,Michigan,True,2.0,72.0
+1237,Ball & Oats,Virginia,2.0,Virginia,True,2.0,72.0
+1238,Ball & Oats,Oregon,2.0,Oregon,True,2.0,72.0
+1239,Ball & Oats,Saint Mary's,2.0,Purdue,False,0.0,72.0
+1240,Ball & Oats,Tennessee,2.0,Tennessee,True,2.0,72.0
+1241,Ball & Oats,North Carolina,2.0,North Carolina,True,2.0,72.0
+1242,Ball & Oats,Auburn,2.0,Auburn,True,2.0,72.0
+1243,Ball & Oats,Houston,2.0,Houston,True,2.0,72.0
+1244,Ball & Oats,Kentucky,2.0,Kentucky,True,2.0,72.0
+1245,Ball & Oats,Duke,4.0,Duke,True,4.0,72.0
+1246,Ball & Oats,Michigan State,4.0,Michigan State,True,4.0,72.0
+1247,Ball & Oats,Florida St,4.0,Gonzaga,False,0.0,72.0
+1248,Ball & Oats,Buffalo,4.0,Texas Tech,False,0.0,72.0
+1249,Ball & Oats,Virginia,4.0,Virginia,True,4.0,72.0
+1250,Ball & Oats,Tennessee,4.0,Purdue,False,0.0,72.0
+1251,Ball & Oats,North Carolina,4.0,Auburn,False,0.0,72.0
+1252,Ball & Oats,Houston,4.0,Kentucky,False,0.0,72.0
+1253,Ball & Oats,Michigan State,8.0,Michigan State,True,8.0,72.0
+1254,Ball & Oats,Florida St,8.0,Texas Tech,False,0.0,72.0
+1255,Ball & Oats,Virginia,8.0,Virginia,True,8.0,72.0
+1256,Ball & Oats,North Carolina,8.0,Auburn,False,0.0,72.0
+1257,Ball & Oats,Michigan State,16.0,0,False,0.0,72.0
+1258,Ball & Oats,North Carolina,16.0,0,False,0.0,72.0
+1259,Ball & Oats,North Carolina,32.0,0,False,0.0,72.0
+1260,Reluctant Zags fan,Duke,1.0,Duke,True,1.0,68.0
+1261,Reluctant Zags fan,UCF,1.0,UCF,True,1.0,68.0
+1262,Reluctant Zags fan,Liberty,1.0,Liberty,True,1.0,68.0
+1263,Reluctant Zags fan,Virginia Tech,1.0,Virginia Tech,True,1.0,68.0
+1264,Reluctant Zags fan,Belmont,1.0,Maryland,False,0.0,68.0
+1265,Reluctant Zags fan,LSU,1.0,LSU,True,1.0,68.0
+1266,Reluctant Zags fan,Louisville,1.0,Minnesota,False,0.0,68.0
+1267,Reluctant Zags fan,Michigan State,1.0,Michigan State,True,1.0,68.0
+1268,Reluctant Zags fan,Gonzaga,1.0,Gonzaga,True,1.0,68.0
+1269,Reluctant Zags fan,Baylor,1.0,Baylor,True,1.0,68.0
+1270,Reluctant Zags fan,Marquette,1.0,Murray State,False,0.0,68.0
+1271,Reluctant Zags fan,Florida St,1.0,Florida St,True,1.0,68.0
+1272,Reluctant Zags fan,Arizona State,1.0,Buffalo,False,0.0,68.0
+1273,Reluctant Zags fan,Texas Tech,1.0,Texas Tech,True,1.0,68.0
+1274,Reluctant Zags fan,Florida,1.0,Florida,True,1.0,68.0
+1275,Reluctant Zags fan,Michigan,1.0,Michigan,True,1.0,68.0
+1276,Reluctant Zags fan,Virginia,1.0,Virginia,True,1.0,68.0
+1277,Reluctant Zags fan,Ole Miss,1.0,Oklahoma,False,0.0,68.0
+1278,Reluctant Zags fan,Wisconsin,1.0,Oregon,False,0.0,68.0
+1279,Reluctant Zags fan,UC Irvine,1.0,UC Irvine,True,1.0,68.0
+1280,Reluctant Zags fan,Saint Mary's,1.0,Villanova,False,0.0,68.0
+1281,Reluctant Zags fan,Purdue,1.0,Purdue,True,1.0,68.0
+1282,Reluctant Zags fan,Iowa,1.0,Iowa,True,1.0,68.0
+1283,Reluctant Zags fan,Tennessee,1.0,Tennessee,True,1.0,68.0
+1284,Reluctant Zags fan,North Carolina,1.0,North Carolina,True,1.0,68.0
+1285,Reluctant Zags fan,Utah State,1.0,Washington,False,0.0,68.0
+1286,Reluctant Zags fan,Auburn,1.0,Auburn,True,1.0,68.0
+1287,Reluctant Zags fan,Kansas,1.0,Kansas,True,1.0,68.0
+1288,Reluctant Zags fan,Iowa State,1.0,Ohio State,False,0.0,68.0
+1289,Reluctant Zags fan,Houston,1.0,Houston,True,1.0,68.0
+1290,Reluctant Zags fan,Seton Hall,1.0,Wofford,False,0.0,68.0
+1291,Reluctant Zags fan,Kentucky,1.0,Kentucky,True,1.0,68.0
+1292,Reluctant Zags fan,Duke,2.0,Duke,True,2.0,68.0
+1293,Reluctant Zags fan,Virginia Tech,2.0,Virginia Tech,True,2.0,68.0
+1294,Reluctant Zags fan,LSU,2.0,LSU,True,2.0,68.0
+1295,Reluctant Zags fan,Michigan State,2.0,Michigan State,True,2.0,68.0
+1296,Reluctant Zags fan,Gonzaga,2.0,Gonzaga,True,2.0,68.0
+1297,Reluctant Zags fan,Marquette,2.0,Florida St,False,0.0,68.0
+1298,Reluctant Zags fan,Texas Tech,2.0,Texas Tech,True,2.0,68.0
+1299,Reluctant Zags fan,Florida,2.0,Michigan,False,0.0,68.0
+1300,Reluctant Zags fan,Virginia,2.0,Virginia,True,2.0,68.0
+1301,Reluctant Zags fan,Wisconsin,2.0,Oregon,False,0.0,68.0
+1302,Reluctant Zags fan,Purdue,2.0,Purdue,True,2.0,68.0
+1303,Reluctant Zags fan,Tennessee,2.0,Tennessee,True,2.0,68.0
+1304,Reluctant Zags fan,North Carolina,2.0,North Carolina,True,2.0,68.0
+1305,Reluctant Zags fan,Kansas,2.0,Auburn,False,0.0,68.0
+1306,Reluctant Zags fan,Iowa State,2.0,Houston,False,0.0,68.0
+1307,Reluctant Zags fan,Kentucky,2.0,Kentucky,True,2.0,68.0
+1308,Reluctant Zags fan,Duke,4.0,Duke,True,4.0,68.0
+1309,Reluctant Zags fan,Michigan State,4.0,Michigan State,True,4.0,68.0
+1310,Reluctant Zags fan,Gonzaga,4.0,Gonzaga,True,4.0,68.0
+1311,Reluctant Zags fan,Texas Tech,4.0,Texas Tech,True,4.0,68.0
+1312,Reluctant Zags fan,Wisconsin,4.0,Virginia,False,0.0,68.0
+1313,Reluctant Zags fan,Tennessee,4.0,Purdue,False,0.0,68.0
+1314,Reluctant Zags fan,North Carolina,4.0,Auburn,False,0.0,68.0
+1315,Reluctant Zags fan,Iowa State,4.0,Kentucky,False,0.0,68.0
+1316,Reluctant Zags fan,Michigan State,8.0,Michigan State,True,8.0,68.0
+1317,Reluctant Zags fan,Gonzaga,8.0,Texas Tech,False,0.0,68.0
+1318,Reluctant Zags fan,Tennessee,8.0,Virginia,False,0.0,68.0
+1319,Reluctant Zags fan,North Carolina,8.0,Auburn,False,0.0,68.0
+1320,Reluctant Zags fan,Gonzaga,16.0,0,False,0.0,68.0
+1321,Reluctant Zags fan,North Carolina,16.0,0,False,0.0,68.0
+1322,Reluctant Zags fan,Gonzaga,32.0,0,False,0.0,68.0
+1323,Jay Huff is My Dad,Duke,1.0,Duke,True,1.0,64.0
+1324,Jay Huff is My Dad,VCU,1.0,UCF,False,0.0,64.0
+1325,Jay Huff is My Dad,Liberty,1.0,Liberty,True,1.0,64.0
+1326,Jay Huff is My Dad,Virginia Tech,1.0,Virginia Tech,True,1.0,64.0
+1327,Jay Huff is My Dad,Maryland,1.0,Maryland,True,1.0,64.0
+1328,Jay Huff is My Dad,LSU,1.0,LSU,True,1.0,64.0
+1329,Jay Huff is My Dad,Louisville,1.0,Minnesota,False,0.0,64.0
+1330,Jay Huff is My Dad,Michigan State,1.0,Michigan State,True,1.0,64.0
+1331,Jay Huff is My Dad,Gonzaga,1.0,Gonzaga,True,1.0,64.0
+1332,Jay Huff is My Dad,Syracuse,1.0,Baylor,False,0.0,64.0
+1333,Jay Huff is My Dad,Murray State,1.0,Murray State,True,1.0,64.0
+1334,Jay Huff is My Dad,Florida St,1.0,Florida St,True,1.0,64.0
+1335,Jay Huff is My Dad,Buffalo,1.0,Buffalo,True,1.0,64.0
+1336,Jay Huff is My Dad,N Kentucky,1.0,Texas Tech,False,0.0,64.0
+1337,Jay Huff is My Dad,Florida,1.0,Florida,True,1.0,64.0
+1338,Jay Huff is My Dad,Michigan,1.0,Michigan,True,1.0,64.0
+1339,Jay Huff is My Dad,Virginia,1.0,Virginia,True,1.0,64.0
+1340,Jay Huff is My Dad,Oklahoma,1.0,Oklahoma,True,1.0,64.0
+1341,Jay Huff is My Dad,Wisconsin,1.0,Oregon,False,0.0,64.0
+1342,Jay Huff is My Dad,Kansas State,1.0,UC Irvine,False,0.0,64.0
+1343,Jay Huff is My Dad,Villanova,1.0,Villanova,True,1.0,64.0
+1344,Jay Huff is My Dad,Purdue,1.0,Purdue,True,1.0,64.0
+1345,Jay Huff is My Dad,Iowa,1.0,Iowa,True,1.0,64.0
+1346,Jay Huff is My Dad,Tennessee,1.0,Tennessee,True,1.0,64.0
+1347,Jay Huff is My Dad,North Carolina,1.0,North Carolina,True,1.0,64.0
+1348,Jay Huff is My Dad,Utah State,1.0,Washington,False,0.0,64.0
+1349,Jay Huff is My Dad,Auburn,1.0,Auburn,True,1.0,64.0
+1350,Jay Huff is My Dad,Kansas,1.0,Kansas,True,1.0,64.0
+1351,Jay Huff is My Dad,Iowa State,1.0,Ohio State,False,0.0,64.0
+1352,Jay Huff is My Dad,Houston,1.0,Houston,True,1.0,64.0
+1353,Jay Huff is My Dad,Wofford,1.0,Wofford,True,1.0,64.0
+1354,Jay Huff is My Dad,Kentucky,1.0,Kentucky,True,1.0,64.0
+1355,Jay Huff is My Dad,Duke,2.0,Duke,True,2.0,64.0
+1356,Jay Huff is My Dad,Virginia Tech,2.0,Virginia Tech,True,2.0,64.0
+1357,Jay Huff is My Dad,LSU,2.0,LSU,True,2.0,64.0
+1358,Jay Huff is My Dad,Louisville,2.0,Michigan State,False,0.0,64.0
+1359,Jay Huff is My Dad,Gonzaga,2.0,Gonzaga,True,2.0,64.0
+1360,Jay Huff is My Dad,Florida St,2.0,Florida St,True,2.0,64.0
+1361,Jay Huff is My Dad,Buffalo,2.0,Texas Tech,False,0.0,64.0
+1362,Jay Huff is My Dad,Michigan,2.0,Michigan,True,2.0,64.0
+1363,Jay Huff is My Dad,Virginia,2.0,Virginia,True,2.0,64.0
+1364,Jay Huff is My Dad,Wisconsin,2.0,Oregon,False,0.0,64.0
+1365,Jay Huff is My Dad,Villanova,2.0,Purdue,False,0.0,64.0
+1366,Jay Huff is My Dad,Tennessee,2.0,Tennessee,True,2.0,64.0
+1367,Jay Huff is My Dad,North Carolina,2.0,North Carolina,True,2.0,64.0
+1368,Jay Huff is My Dad,Kansas,2.0,Auburn,False,0.0,64.0
+1369,Jay Huff is My Dad,Iowa State,2.0,Houston,False,0.0,64.0
+1370,Jay Huff is My Dad,Kentucky,2.0,Kentucky,True,2.0,64.0
+1371,Jay Huff is My Dad,Duke,4.0,Duke,True,4.0,64.0
+1372,Jay Huff is My Dad,Louisville,4.0,Michigan State,False,0.0,64.0
+1373,Jay Huff is My Dad,Florida St,4.0,Gonzaga,False,0.0,64.0
+1374,Jay Huff is My Dad,Michigan,4.0,Texas Tech,False,0.0,64.0
+1375,Jay Huff is My Dad,Virginia,4.0,Virginia,True,4.0,64.0
+1376,Jay Huff is My Dad,Villanova,4.0,Purdue,False,0.0,64.0
+1377,Jay Huff is My Dad,North Carolina,4.0,Auburn,False,0.0,64.0
+1378,Jay Huff is My Dad,Kentucky,4.0,Kentucky,True,4.0,64.0
+1379,Jay Huff is My Dad,Duke,8.0,Michigan State,False,0.0,64.0
+1380,Jay Huff is My Dad,Michigan,8.0,Texas Tech,False,0.0,64.0
+1381,Jay Huff is My Dad,Virginia,8.0,Virginia,True,8.0,64.0
+1382,Jay Huff is My Dad,North Carolina,8.0,Auburn,False,0.0,64.0
+1383,Jay Huff is My Dad,Duke,16.0,0,False,0.0,64.0
+1384,Jay Huff is My Dad,Virginia,16.0,0,False,0.0,64.0
+1385,Jay Huff is My Dad,Virginia,32.0,0,False,0.0,64.0
+1386,Jefe9999 1,Duke,1.0,Duke,True,1.0,60.0
+1387,Jefe9999 1,UCF,1.0,UCF,True,1.0,60.0
+1388,Jefe9999 1,Mississippi St,1.0,Liberty,False,0.0,60.0
+1389,Jefe9999 1,Saint Louis,1.0,Virginia Tech,False,0.0,60.0
+1390,Jefe9999 1,Maryland,1.0,Maryland,True,1.0,60.0
+1391,Jefe9999 1,LSU,1.0,LSU,True,1.0,60.0
+1392,Jefe9999 1,Louisville,1.0,Minnesota,False,0.0,60.0
+1393,Jefe9999 1,Michigan State,1.0,Michigan State,True,1.0,60.0
+1394,Jefe9999 1,Gonzaga,1.0,Gonzaga,True,1.0,60.0
+1395,Jefe9999 1,Baylor,1.0,Baylor,True,1.0,60.0
+1396,Jefe9999 1,Murray State,1.0,Murray State,True,1.0,60.0
+1397,Jefe9999 1,Florida St,1.0,Florida St,True,1.0,60.0
+1398,Jefe9999 1,Buffalo,1.0,Buffalo,True,1.0,60.0
+1399,Jefe9999 1,N Kentucky,1.0,Texas Tech,False,0.0,60.0
+1400,Jefe9999 1,Florida,1.0,Florida,True,1.0,60.0
+1401,Jefe9999 1,Michigan,1.0,Michigan,True,1.0,60.0
+1402,Jefe9999 1,Virginia,1.0,Virginia,True,1.0,60.0
+1403,Jefe9999 1,Ole Miss,1.0,Oklahoma,False,0.0,60.0
+1404,Jefe9999 1,Wisconsin,1.0,Oregon,False,0.0,60.0
+1405,Jefe9999 1,Kansas State,1.0,UC Irvine,False,0.0,60.0
+1406,Jefe9999 1,Villanova,1.0,Villanova,True,1.0,60.0
+1407,Jefe9999 1,Purdue,1.0,Purdue,True,1.0,60.0
+1408,Jefe9999 1,Iowa,1.0,Iowa,True,1.0,60.0
+1409,Jefe9999 1,Tennessee,1.0,Tennessee,True,1.0,60.0
+1410,Jefe9999 1,North Carolina,1.0,North Carolina,True,1.0,60.0
+1411,Jefe9999 1,Washington,1.0,Washington,True,1.0,60.0
+1412,Jefe9999 1,Auburn,1.0,Auburn,True,1.0,60.0
+1413,Jefe9999 1,Kansas,1.0,Kansas,True,1.0,60.0
+1414,Jefe9999 1,Iowa State,1.0,Ohio State,False,0.0,60.0
+1415,Jefe9999 1,Houston,1.0,Houston,True,1.0,60.0
+1416,Jefe9999 1,Wofford,1.0,Wofford,True,1.0,60.0
+1417,Jefe9999 1,Kentucky,1.0,Kentucky,True,1.0,60.0
+1418,Jefe9999 1,Duke,2.0,Duke,True,2.0,60.0
+1419,Jefe9999 1,Mississippi St,2.0,Virginia Tech,False,0.0,60.0
+1420,Jefe9999 1,LSU,2.0,LSU,True,2.0,60.0
+1421,Jefe9999 1,Louisville,2.0,Michigan State,False,0.0,60.0
+1422,Jefe9999 1,Gonzaga,2.0,Gonzaga,True,2.0,60.0
+1423,Jefe9999 1,Florida St,2.0,Florida St,True,2.0,60.0
+1424,Jefe9999 1,N Kentucky,2.0,Texas Tech,False,0.0,60.0
+1425,Jefe9999 1,Florida,2.0,Michigan,False,0.0,60.0
+1426,Jefe9999 1,Virginia,2.0,Virginia,True,2.0,60.0
+1427,Jefe9999 1,Kansas State,2.0,Oregon,False,0.0,60.0
+1428,Jefe9999 1,Purdue,2.0,Purdue,True,2.0,60.0
+1429,Jefe9999 1,Tennessee,2.0,Tennessee,True,2.0,60.0
+1430,Jefe9999 1,North Carolina,2.0,North Carolina,True,2.0,60.0
+1431,Jefe9999 1,Kansas,2.0,Auburn,False,0.0,60.0
+1432,Jefe9999 1,Houston,2.0,Houston,True,2.0,60.0
+1433,Jefe9999 1,Kentucky,2.0,Kentucky,True,2.0,60.0
+1434,Jefe9999 1,Duke,4.0,Duke,True,4.0,60.0
+1435,Jefe9999 1,Louisville,4.0,Michigan State,False,0.0,60.0
+1436,Jefe9999 1,Gonzaga,4.0,Gonzaga,True,4.0,60.0
+1437,Jefe9999 1,Florida,4.0,Texas Tech,False,0.0,60.0
+1438,Jefe9999 1,Kansas State,4.0,Virginia,False,0.0,60.0
+1439,Jefe9999 1,Purdue,4.0,Purdue,True,4.0,60.0
+1440,Jefe9999 1,North Carolina,4.0,Auburn,False,0.0,60.0
+1441,Jefe9999 1,Kentucky,4.0,Kentucky,True,4.0,60.0
+1442,Jefe9999 1,Duke,8.0,Michigan State,False,0.0,60.0
+1443,Jefe9999 1,Gonzaga,8.0,Texas Tech,False,0.0,60.0
+1444,Jefe9999 1,Purdue,8.0,Virginia,False,0.0,60.0
+1445,Jefe9999 1,North Carolina,8.0,Auburn,False,0.0,60.0
+1446,Jefe9999 1,Duke,16.0,0,False,0.0,60.0
+1447,Jefe9999 1,North Carolina,16.0,0,False,0.0,60.0
+1448,Jefe9999 1,Duke,32.0,0,False,0.0,60.0
+1449,bracket?,Duke,1.0,Duke,True,1.0,54.0
+1450,bracket?,UCF,1.0,UCF,True,1.0,54.0
+1451,bracket?,Mississippi St,1.0,Liberty,False,0.0,54.0
+1452,bracket?,Virginia Tech,1.0,Virginia Tech,True,1.0,54.0
+1453,bracket?,Maryland,1.0,Maryland,True,1.0,54.0
+1454,bracket?,Yale,1.0,LSU,False,0.0,54.0
+1455,bracket?,Louisville,1.0,Minnesota,False,0.0,54.0
+1456,bracket?,Michigan State,1.0,Michigan State,True,1.0,54.0
+1457,bracket?,Gonzaga,1.0,Gonzaga,True,1.0,54.0
+1458,bracket?,Syracuse,1.0,Baylor,False,0.0,54.0
+1459,bracket?,Marquette,1.0,Murray State,False,0.0,54.0
+1460,bracket?,Florida St,1.0,Florida St,True,1.0,54.0
+1461,bracket?,Arizona State,1.0,Buffalo,False,0.0,54.0
+1462,bracket?,Texas Tech,1.0,Texas Tech,True,1.0,54.0
+1463,bracket?,Florida,1.0,Florida,True,1.0,54.0
+1464,bracket?,Michigan,1.0,Michigan,True,1.0,54.0
+1465,bracket?,Virginia,1.0,Virginia,True,1.0,54.0
+1466,bracket?,Oklahoma,1.0,Oklahoma,True,1.0,54.0
+1467,bracket?,Wisconsin,1.0,Oregon,False,0.0,54.0
+1468,bracket?,Kansas State,1.0,UC Irvine,False,0.0,54.0
+1469,bracket?,Villanova,1.0,Villanova,True,1.0,54.0
+1470,bracket?,Purdue,1.0,Purdue,True,1.0,54.0
+1471,bracket?,Iowa,1.0,Iowa,True,1.0,54.0
+1472,bracket?,Tennessee,1.0,Tennessee,True,1.0,54.0
+1473,bracket?,North Carolina,1.0,North Carolina,True,1.0,54.0
+1474,bracket?,Washington,1.0,Washington,True,1.0,54.0
+1475,bracket?,Auburn,1.0,Auburn,True,1.0,54.0
+1476,bracket?,Kansas,1.0,Kansas,True,1.0,54.0
+1477,bracket?,Iowa State,1.0,Ohio State,False,0.0,54.0
+1478,bracket?,Houston,1.0,Houston,True,1.0,54.0
+1479,bracket?,Seton Hall,1.0,Wofford,False,0.0,54.0
+1480,bracket?,Kentucky,1.0,Kentucky,True,1.0,54.0
+1481,bracket?,Duke,2.0,Duke,True,2.0,54.0
+1482,bracket?,Virginia Tech,2.0,Virginia Tech,True,2.0,54.0
+1483,bracket?,Maryland,2.0,LSU,False,0.0,54.0
+1484,bracket?,Michigan State,2.0,Michigan State,True,2.0,54.0
+1485,bracket?,Syracuse,2.0,Gonzaga,False,0.0,54.0
+1486,bracket?,Florida St,2.0,Florida St,True,2.0,54.0
+1487,bracket?,Texas Tech,2.0,Texas Tech,True,2.0,54.0
+1488,bracket?,Michigan,2.0,Michigan,True,2.0,54.0
+1489,bracket?,Virginia,2.0,Virginia,True,2.0,54.0
+1490,bracket?,Wisconsin,2.0,Oregon,False,0.0,54.0
+1491,bracket?,Villanova,2.0,Purdue,False,0.0,54.0
+1492,bracket?,Iowa,2.0,Tennessee,False,0.0,54.0
+1493,bracket?,North Carolina,2.0,North Carolina,True,2.0,54.0
+1494,bracket?,Kansas,2.0,Auburn,False,0.0,54.0
+1495,bracket?,Houston,2.0,Houston,True,2.0,54.0
+1496,bracket?,Kentucky,2.0,Kentucky,True,2.0,54.0
+1497,bracket?,Duke,4.0,Duke,True,4.0,54.0
+1498,bracket?,Michigan State,4.0,Michigan State,True,4.0,54.0
+1499,bracket?,Florida St,4.0,Gonzaga,False,0.0,54.0
+1500,bracket?,Michigan,4.0,Texas Tech,False,0.0,54.0
+1501,bracket?,Virginia,4.0,Virginia,True,4.0,54.0
+1502,bracket?,Villanova,4.0,Purdue,False,0.0,54.0
+1503,bracket?,Kansas,4.0,Auburn,False,0.0,54.0
+1504,bracket?,Houston,4.0,Kentucky,False,0.0,54.0
+1505,bracket?,Duke,8.0,Michigan State,False,0.0,54.0
+1506,bracket?,Michigan,8.0,Texas Tech,False,0.0,54.0
+1507,bracket?,Villanova,8.0,Virginia,False,0.0,54.0
+1508,bracket?,Kansas,8.0,Auburn,False,0.0,54.0
+1509,bracket?,Michigan,16.0,0,False,0.0,54.0
+1510,bracket?,Kansas,16.0,0,False,0.0,54.0
+1511,bracket?,Michigan,32.0,0,False,0.0,54.0
+1512,RagsToRiches,Duke,1.0,Duke,True,1.0,61.0
+1513,RagsToRiches,VCU,1.0,UCF,False,0.0,61.0
+1514,RagsToRiches,Liberty,1.0,Liberty,True,1.0,61.0
+1515,RagsToRiches,Virginia Tech,1.0,Virginia Tech,True,1.0,61.0
+1516,RagsToRiches,Belmont,1.0,Maryland,False,0.0,61.0
+1517,RagsToRiches,LSU,1.0,LSU,True,1.0,61.0
+1518,RagsToRiches,Minnesota,1.0,Minnesota,True,1.0,61.0
+1519,RagsToRiches,Michigan State,1.0,Michigan State,True,1.0,61.0
+1520,RagsToRiches,Gonzaga,1.0,Gonzaga,True,1.0,61.0
+1521,RagsToRiches,Syracuse,1.0,Baylor,False,0.0,61.0
+1522,RagsToRiches,Murray State,1.0,Murray State,True,1.0,61.0
+1523,RagsToRiches,Florida St,1.0,Florida St,True,1.0,61.0
+1524,RagsToRiches,Buffalo,1.0,Buffalo,True,1.0,61.0
+1525,RagsToRiches,Texas Tech,1.0,Texas Tech,True,1.0,61.0
+1526,RagsToRiches,Nevada,1.0,Florida,False,0.0,61.0
+1527,RagsToRiches,Michigan,1.0,Michigan,True,1.0,61.0
+1528,RagsToRiches,Virginia,1.0,Virginia,True,1.0,61.0
+1529,RagsToRiches,Oklahoma,1.0,Oklahoma,True,1.0,61.0
+1530,RagsToRiches,Oregon,1.0,Oregon,True,1.0,61.0
+1531,RagsToRiches,Kansas State,1.0,UC Irvine,False,0.0,61.0
+1532,RagsToRiches,Villanova,1.0,Villanova,True,1.0,61.0
+1533,RagsToRiches,Old Dominion,1.0,Purdue,False,0.0,61.0
+1534,RagsToRiches,Cincinnati,1.0,Iowa,False,0.0,61.0
+1535,RagsToRiches,Tennessee,1.0,Tennessee,True,1.0,61.0
+1536,RagsToRiches,North Carolina,1.0,North Carolina,True,1.0,61.0
+1537,RagsToRiches,Utah State,1.0,Washington,False,0.0,61.0
+1538,RagsToRiches,Auburn,1.0,Auburn,True,1.0,61.0
+1539,RagsToRiches,Kansas,1.0,Kansas,True,1.0,61.0
+1540,RagsToRiches,Iowa State,1.0,Ohio State,False,0.0,61.0
+1541,RagsToRiches,Houston,1.0,Houston,True,1.0,61.0
+1542,RagsToRiches,Wofford,1.0,Wofford,True,1.0,61.0
+1543,RagsToRiches,Kentucky,1.0,Kentucky,True,1.0,61.0
+1544,RagsToRiches,Duke,2.0,Duke,True,2.0,61.0
+1545,RagsToRiches,Virginia Tech,2.0,Virginia Tech,True,2.0,61.0
+1546,RagsToRiches,Belmont,2.0,LSU,False,0.0,61.0
+1547,RagsToRiches,Michigan State,2.0,Michigan State,True,2.0,61.0
+1548,RagsToRiches,Syracuse,2.0,Gonzaga,False,0.0,61.0
+1549,RagsToRiches,Florida St,2.0,Florida St,True,2.0,61.0
+1550,RagsToRiches,Buffalo,2.0,Texas Tech,False,0.0,61.0
+1551,RagsToRiches,Michigan,2.0,Michigan,True,2.0,61.0
+1552,RagsToRiches,Virginia,2.0,Virginia,True,2.0,61.0
+1553,RagsToRiches,Kansas State,2.0,Oregon,False,0.0,61.0
+1554,RagsToRiches,Villanova,2.0,Purdue,False,0.0,61.0
+1555,RagsToRiches,Tennessee,2.0,Tennessee,True,2.0,61.0
+1556,RagsToRiches,North Carolina,2.0,North Carolina,True,2.0,61.0
+1557,RagsToRiches,Auburn,2.0,Auburn,True,2.0,61.0
+1558,RagsToRiches,Iowa State,2.0,Houston,False,0.0,61.0
+1559,RagsToRiches,Wofford,2.0,Kentucky,False,0.0,61.0
+1560,RagsToRiches,Duke,4.0,Duke,True,4.0,61.0
+1561,RagsToRiches,Michigan State,4.0,Michigan State,True,4.0,61.0
+1562,RagsToRiches,Florida St,4.0,Gonzaga,False,0.0,61.0
+1563,RagsToRiches,Buffalo,4.0,Texas Tech,False,0.0,61.0
+1564,RagsToRiches,Virginia,4.0,Virginia,True,4.0,61.0
+1565,RagsToRiches,Villanova,4.0,Purdue,False,0.0,61.0
+1566,RagsToRiches,North Carolina,4.0,Auburn,False,0.0,61.0
+1567,RagsToRiches,Iowa State,4.0,Kentucky,False,0.0,61.0
+1568,RagsToRiches,Duke,8.0,Michigan State,False,0.0,61.0
+1569,RagsToRiches,Florida St,8.0,Texas Tech,False,0.0,61.0
+1570,RagsToRiches,Virginia,8.0,Virginia,True,8.0,61.0
+1571,RagsToRiches,North Carolina,8.0,Auburn,False,0.0,61.0
+1572,RagsToRiches,Duke,16.0,0,False,0.0,61.0
+1573,RagsToRiches,Virginia,16.0,0,False,0.0,61.0
+1574,RagsToRiches,Virginia,32.0,0,False,0.0,61.0
+1575,Chaviddan 1,Duke,1.0,Duke,True,1.0,45.0
+1576,Chaviddan 1,UCF,1.0,UCF,True,1.0,45.0
+1577,Chaviddan 1,Mississippi St,1.0,Liberty,False,0.0,45.0
+1578,Chaviddan 1,Saint Louis,1.0,Virginia Tech,False,0.0,45.0
+1579,Chaviddan 1,Belmont,1.0,Maryland,False,0.0,45.0
+1580,Chaviddan 1,LSU,1.0,LSU,True,1.0,45.0
+1581,Chaviddan 1,Louisville,1.0,Minnesota,False,0.0,45.0
+1582,Chaviddan 1,Michigan State,1.0,Michigan State,True,1.0,45.0
+1583,Chaviddan 1,Gonzaga,1.0,Gonzaga,True,1.0,45.0
+1584,Chaviddan 1,Syracuse,1.0,Baylor,False,0.0,45.0
+1585,Chaviddan 1,Marquette,1.0,Murray State,False,0.0,45.0
+1586,Chaviddan 1,Florida St,1.0,Florida St,True,1.0,45.0
+1587,Chaviddan 1,Buffalo,1.0,Buffalo,True,1.0,45.0
+1588,Chaviddan 1,Texas Tech,1.0,Texas Tech,True,1.0,45.0
+1589,Chaviddan 1,Nevada,1.0,Florida,False,0.0,45.0
+1590,Chaviddan 1,Michigan,1.0,Michigan,True,1.0,45.0
+1591,Chaviddan 1,Virginia,1.0,Virginia,True,1.0,45.0
+1592,Chaviddan 1,Ole Miss,1.0,Oklahoma,False,0.0,45.0
+1593,Chaviddan 1,Wisconsin,1.0,Oregon,False,0.0,45.0
+1594,Chaviddan 1,Kansas State,1.0,UC Irvine,False,0.0,45.0
+1595,Chaviddan 1,Saint Mary's,1.0,Villanova,False,0.0,45.0
+1596,Chaviddan 1,Purdue,1.0,Purdue,True,1.0,45.0
+1597,Chaviddan 1,Cincinnati,1.0,Iowa,False,0.0,45.0
+1598,Chaviddan 1,Tennessee,1.0,Tennessee,True,1.0,45.0
+1599,Chaviddan 1,North Carolina,1.0,North Carolina,True,1.0,45.0
+1600,Chaviddan 1,Washington,1.0,Washington,True,1.0,45.0
+1601,Chaviddan 1,Auburn,1.0,Auburn,True,1.0,45.0
+1602,Chaviddan 1,Kansas,1.0,Kansas,True,1.0,45.0
+1603,Chaviddan 1,Ohio State,1.0,Ohio State,True,1.0,45.0
+1604,Chaviddan 1,Houston,1.0,Houston,True,1.0,45.0
+1605,Chaviddan 1,Seton Hall,1.0,Wofford,False,0.0,45.0
+1606,Chaviddan 1,Kentucky,1.0,Kentucky,True,1.0,45.0
+1607,Chaviddan 1,Duke,2.0,Duke,True,2.0,45.0
+1608,Chaviddan 1,Mississippi St,2.0,Virginia Tech,False,0.0,45.0
+1609,Chaviddan 1,LSU,2.0,LSU,True,2.0,45.0
+1610,Chaviddan 1,Louisville,2.0,Michigan State,False,0.0,45.0
+1611,Chaviddan 1,Syracuse,2.0,Gonzaga,False,0.0,45.0
+1612,Chaviddan 1,Florida St,2.0,Florida St,True,2.0,45.0
+1613,Chaviddan 1,Texas Tech,2.0,Texas Tech,True,2.0,45.0
+1614,Chaviddan 1,Michigan,2.0,Michigan,True,2.0,45.0
+1615,Chaviddan 1,Virginia,2.0,Virginia,True,2.0,45.0
+1616,Chaviddan 1,Kansas State,2.0,Oregon,False,0.0,45.0
+1617,Chaviddan 1,Purdue,2.0,Purdue,True,2.0,45.0
+1618,Chaviddan 1,Cincinnati,2.0,Tennessee,False,0.0,45.0
+1619,Chaviddan 1,North Carolina,2.0,North Carolina,True,2.0,45.0
+1620,Chaviddan 1,Auburn,2.0,Auburn,True,2.0,45.0
+1621,Chaviddan 1,Houston,2.0,Houston,True,2.0,45.0
+1622,Chaviddan 1,Kentucky,2.0,Kentucky,True,2.0,45.0
+1623,Chaviddan 1,Duke,4.0,Duke,True,4.0,45.0
+1624,Chaviddan 1,Louisville,4.0,Michigan State,False,0.0,45.0
+1625,Chaviddan 1,Florida St,4.0,Gonzaga,False,0.0,45.0
+1626,Chaviddan 1,Michigan,4.0,Texas Tech,False,0.0,45.0
+1627,Chaviddan 1,Kansas State,4.0,Virginia,False,0.0,45.0
+1628,Chaviddan 1,Cincinnati,4.0,Purdue,False,0.0,45.0
+1629,Chaviddan 1,North Carolina,4.0,Auburn,False,0.0,45.0
+1630,Chaviddan 1,Houston,4.0,Kentucky,False,0.0,45.0
+1631,Chaviddan 1,Duke,8.0,Michigan State,False,0.0,45.0
+1632,Chaviddan 1,Michigan,8.0,Texas Tech,False,0.0,45.0
+1633,Chaviddan 1,Kansas State,8.0,Virginia,False,0.0,45.0
+1634,Chaviddan 1,North Carolina,8.0,Auburn,False,0.0,45.0
+1635,Chaviddan 1,Duke,16.0,0,False,0.0,45.0
+1636,Chaviddan 1,North Carolina,16.0,0,False,0.0,45.0
+1637,Chaviddan 1,North Carolina,32.0,0,False,0.0,45.0
+1638,AlonzoMourning.GIF,Duke,1.0,Duke,True,1.0,50.0
+1639,AlonzoMourning.GIF,UCF,1.0,UCF,True,1.0,50.0
+1640,AlonzoMourning.GIF,Mississippi St,1.0,Liberty,False,0.0,50.0
+1641,AlonzoMourning.GIF,Saint Louis,1.0,Virginia Tech,False,0.0,50.0
+1642,AlonzoMourning.GIF,Belmont,1.0,Maryland,False,0.0,50.0
+1643,AlonzoMourning.GIF,Yale,1.0,LSU,False,0.0,50.0
+1644,AlonzoMourning.GIF,Minnesota,1.0,Minnesota,True,1.0,50.0
+1645,AlonzoMourning.GIF,Michigan State,1.0,Michigan State,True,1.0,50.0
+1646,AlonzoMourning.GIF,Gonzaga,1.0,Gonzaga,True,1.0,50.0
+1647,AlonzoMourning.GIF,Syracuse,1.0,Baylor,False,0.0,50.0
+1648,AlonzoMourning.GIF,Marquette,1.0,Murray State,False,0.0,50.0
+1649,AlonzoMourning.GIF,Florida St,1.0,Florida St,True,1.0,50.0
+1650,AlonzoMourning.GIF,Buffalo,1.0,Buffalo,True,1.0,50.0
+1651,AlonzoMourning.GIF,Texas Tech,1.0,Texas Tech,True,1.0,50.0
+1652,AlonzoMourning.GIF,Nevada,1.0,Florida,False,0.0,50.0
+1653,AlonzoMourning.GIF,Michigan,1.0,Michigan,True,1.0,50.0
+1654,AlonzoMourning.GIF,Virginia,1.0,Virginia,True,1.0,50.0
+1655,AlonzoMourning.GIF,Ole Miss,1.0,Oklahoma,False,0.0,50.0
+1656,AlonzoMourning.GIF,Wisconsin,1.0,Oregon,False,0.0,50.0
+1657,AlonzoMourning.GIF,Kansas State,1.0,UC Irvine,False,0.0,50.0
+1658,AlonzoMourning.GIF,Saint Mary's,1.0,Villanova,False,0.0,50.0
+1659,AlonzoMourning.GIF,Purdue,1.0,Purdue,True,1.0,50.0
+1660,AlonzoMourning.GIF,Cincinnati,1.0,Iowa,False,0.0,50.0
+1661,AlonzoMourning.GIF,Tennessee,1.0,Tennessee,True,1.0,50.0
+1662,AlonzoMourning.GIF,North Carolina,1.0,North Carolina,True,1.0,50.0
+1663,AlonzoMourning.GIF,Utah State,1.0,Washington,False,0.0,50.0
+1664,AlonzoMourning.GIF,Auburn,1.0,Auburn,True,1.0,50.0
+1665,AlonzoMourning.GIF,Northeastern,1.0,Kansas,False,0.0,50.0
+1666,AlonzoMourning.GIF,Ohio State,1.0,Ohio State,True,1.0,50.0
+1667,AlonzoMourning.GIF,Houston,1.0,Houston,True,1.0,50.0
+1668,AlonzoMourning.GIF,Wofford,1.0,Wofford,True,1.0,50.0
+1669,AlonzoMourning.GIF,Kentucky,1.0,Kentucky,True,1.0,50.0
+1670,AlonzoMourning.GIF,Duke,2.0,Duke,True,2.0,50.0
+1671,AlonzoMourning.GIF,Mississippi St,2.0,Virginia Tech,False,0.0,50.0
+1672,AlonzoMourning.GIF,Belmont,2.0,LSU,False,0.0,50.0
+1673,AlonzoMourning.GIF,Michigan State,2.0,Michigan State,True,2.0,50.0
+1674,AlonzoMourning.GIF,Gonzaga,2.0,Gonzaga,True,2.0,50.0
+1675,AlonzoMourning.GIF,Florida St,2.0,Florida St,True,2.0,50.0
+1676,AlonzoMourning.GIF,Buffalo,2.0,Texas Tech,False,0.0,50.0
+1677,AlonzoMourning.GIF,Michigan,2.0,Michigan,True,2.0,50.0
+1678,AlonzoMourning.GIF,Virginia,2.0,Virginia,True,2.0,50.0
+1679,AlonzoMourning.GIF,Kansas State,2.0,Oregon,False,0.0,50.0
+1680,AlonzoMourning.GIF,Saint Mary's,2.0,Purdue,False,0.0,50.0
+1681,AlonzoMourning.GIF,Tennessee,2.0,Tennessee,True,2.0,50.0
+1682,AlonzoMourning.GIF,North Carolina,2.0,North Carolina,True,2.0,50.0
+1683,AlonzoMourning.GIF,Auburn,2.0,Auburn,True,2.0,50.0
+1684,AlonzoMourning.GIF,Houston,2.0,Houston,True,2.0,50.0
+1685,AlonzoMourning.GIF,Wofford,2.0,Kentucky,False,0.0,50.0
+1686,AlonzoMourning.GIF,Duke,4.0,Duke,True,4.0,50.0
+1687,AlonzoMourning.GIF,Michigan State,4.0,Michigan State,True,4.0,50.0
+1688,AlonzoMourning.GIF,Florida St,4.0,Gonzaga,False,0.0,50.0
+1689,AlonzoMourning.GIF,Michigan,4.0,Texas Tech,False,0.0,50.0
+1690,AlonzoMourning.GIF,Virginia,4.0,Virginia,True,4.0,50.0
+1691,AlonzoMourning.GIF,Tennessee,4.0,Purdue,False,0.0,50.0
+1692,AlonzoMourning.GIF,North Carolina,4.0,Auburn,False,0.0,50.0
+1693,AlonzoMourning.GIF,Wofford,4.0,Kentucky,False,0.0,50.0
+1694,AlonzoMourning.GIF,Duke,8.0,Michigan State,False,0.0,50.0
+1695,AlonzoMourning.GIF,Florida St,8.0,Texas Tech,False,0.0,50.0
+1696,AlonzoMourning.GIF,Tennessee,8.0,Virginia,False,0.0,50.0
+1697,AlonzoMourning.GIF,North Carolina,8.0,Auburn,False,0.0,50.0
+1698,AlonzoMourning.GIF,Duke,16.0,0,False,0.0,50.0
+1699,AlonzoMourning.GIF,Tennessee,16.0,0,False,0.0,50.0
+1700,AlonzoMourning.GIF,Tennessee,32.0,0,False,0.0,50.0
+1701, Zags not “Zawgs” ,Duke,1.0,Duke,True,1.0,59.0
+1702, Zags not “Zawgs” ,VCU,1.0,UCF,False,0.0,59.0
+1703, Zags not “Zawgs” ,Mississippi St,1.0,Liberty,False,0.0,59.0
+1704, Zags not “Zawgs” ,Virginia Tech,1.0,Virginia Tech,True,1.0,59.0
+1705, Zags not “Zawgs” ,Belmont,1.0,Maryland,False,0.0,59.0
+1706, Zags not “Zawgs” ,LSU,1.0,LSU,True,1.0,59.0
+1707, Zags not “Zawgs” ,Minnesota,1.0,Minnesota,True,1.0,59.0
+1708, Zags not “Zawgs” ,Michigan State,1.0,Michigan State,True,1.0,59.0
+1709, Zags not “Zawgs” ,Gonzaga,1.0,Gonzaga,True,1.0,59.0
+1710, Zags not “Zawgs” ,Baylor,1.0,Baylor,True,1.0,59.0
+1711, Zags not “Zawgs” ,Marquette,1.0,Murray State,False,0.0,59.0
+1712, Zags not “Zawgs” ,Vermont,1.0,Florida St,False,0.0,59.0
+1713, Zags not “Zawgs” ,Arizona State,1.0,Buffalo,False,0.0,59.0
+1714, Zags not “Zawgs” ,Texas Tech,1.0,Texas Tech,True,1.0,59.0
+1715, Zags not “Zawgs” ,Nevada,1.0,Florida,False,0.0,59.0
+1716, Zags not “Zawgs” ,Montana,1.0,Michigan,False,0.0,59.0
+1717, Zags not “Zawgs” ,Virginia,1.0,Virginia,True,1.0,59.0
+1718, Zags not “Zawgs” ,Ole Miss,1.0,Oklahoma,False,0.0,59.0
+1719, Zags not “Zawgs” ,Oregon,1.0,Oregon,True,1.0,59.0
+1720, Zags not “Zawgs” ,Kansas State,1.0,UC Irvine,False,0.0,59.0
+1721, Zags not “Zawgs” ,Villanova,1.0,Villanova,True,1.0,59.0
+1722, Zags not “Zawgs” ,Purdue,1.0,Purdue,True,1.0,59.0
+1723, Zags not “Zawgs” ,Iowa,1.0,Iowa,True,1.0,59.0
+1724, Zags not “Zawgs” ,Tennessee,1.0,Tennessee,True,1.0,59.0
+1725, Zags not “Zawgs” ,North Carolina,1.0,North Carolina,True,1.0,59.0
+1726, Zags not “Zawgs” ,Washington,1.0,Washington,True,1.0,59.0
+1727, Zags not “Zawgs” ,Auburn,1.0,Auburn,True,1.0,59.0
+1728, Zags not “Zawgs” ,Kansas,1.0,Kansas,True,1.0,59.0
+1729, Zags not “Zawgs” ,Ohio State,1.0,Ohio State,True,1.0,59.0
+1730, Zags not “Zawgs” ,Houston,1.0,Houston,True,1.0,59.0
+1731, Zags not “Zawgs” ,Seton Hall,1.0,Wofford,False,0.0,59.0
+1732, Zags not “Zawgs” ,Kentucky,1.0,Kentucky,True,1.0,59.0
+1733, Zags not “Zawgs” ,Duke,2.0,Duke,True,2.0,59.0
+1734, Zags not “Zawgs” ,Virginia Tech,2.0,Virginia Tech,True,2.0,59.0
+1735, Zags not “Zawgs” ,LSU,2.0,LSU,True,2.0,59.0
+1736, Zags not “Zawgs” ,Minnesota,2.0,Michigan State,False,0.0,59.0
+1737, Zags not “Zawgs” ,Gonzaga,2.0,Gonzaga,True,2.0,59.0
+1738, Zags not “Zawgs” ,Marquette,2.0,Florida St,False,0.0,59.0
+1739, Zags not “Zawgs” ,Arizona State,2.0,Texas Tech,False,0.0,59.0
+1740, Zags not “Zawgs” ,Nevada,2.0,Michigan,False,0.0,59.0
+1741, Zags not “Zawgs” ,Virginia,2.0,Virginia,True,2.0,59.0
+1742, Zags not “Zawgs” ,Kansas State,2.0,Oregon,False,0.0,59.0
+1743, Zags not “Zawgs” ,Villanova,2.0,Purdue,False,0.0,59.0
+1744, Zags not “Zawgs” ,Iowa,2.0,Tennessee,False,0.0,59.0
+1745, Zags not “Zawgs” ,North Carolina,2.0,North Carolina,True,2.0,59.0
+1746, Zags not “Zawgs” ,Kansas,2.0,Auburn,False,0.0,59.0
+1747, Zags not “Zawgs” ,Ohio State,2.0,Houston,False,0.0,59.0
+1748, Zags not “Zawgs” ,Kentucky,2.0,Kentucky,True,2.0,59.0
+1749, Zags not “Zawgs” ,Duke,4.0,Duke,True,4.0,59.0
+1750, Zags not “Zawgs” ,LSU,4.0,Michigan State,False,0.0,59.0
+1751, Zags not “Zawgs” ,Gonzaga,4.0,Gonzaga,True,4.0,59.0
+1752, Zags not “Zawgs” ,Nevada,4.0,Texas Tech,False,0.0,59.0
+1753, Zags not “Zawgs” ,Virginia,4.0,Virginia,True,4.0,59.0
+1754, Zags not “Zawgs” ,Villanova,4.0,Purdue,False,0.0,59.0
+1755, Zags not “Zawgs” ,North Carolina,4.0,Auburn,False,0.0,59.0
+1756, Zags not “Zawgs” ,Kentucky,4.0,Kentucky,True,4.0,59.0
+1757, Zags not “Zawgs” ,Duke,8.0,Michigan State,False,0.0,59.0
+1758, Zags not “Zawgs” ,Gonzaga,8.0,Texas Tech,False,0.0,59.0
+1759, Zags not “Zawgs” ,Virginia,8.0,Virginia,True,8.0,59.0
+1760, Zags not “Zawgs” ,Kentucky,8.0,Auburn,False,0.0,59.0
+1761, Zags not “Zawgs” ,Gonzaga,16.0,0,False,0.0,59.0
+1762, Zags not “Zawgs” ,Virginia,16.0,0,False,0.0,59.0
+1763, Zags not “Zawgs” ,Gonzaga,32.0,0,False,0.0,59.0
+1764,Cocodog5192 1,Duke,1.0,Duke,True,1.0,46.0
+1765,Cocodog5192 1,VCU,1.0,UCF,False,0.0,46.0
+1766,Cocodog5192 1,Liberty,1.0,Liberty,True,1.0,46.0
+1767,Cocodog5192 1,Virginia Tech,1.0,Virginia Tech,True,1.0,46.0
+1768,Cocodog5192 1,Belmont,1.0,Maryland,False,0.0,46.0
+1769,Cocodog5192 1,Yale,1.0,LSU,False,0.0,46.0
+1770,Cocodog5192 1,Louisville,1.0,Minnesota,False,0.0,46.0
+1771,Cocodog5192 1,Michigan State,1.0,Michigan State,True,1.0,46.0
+1772,Cocodog5192 1,Gonzaga,1.0,Gonzaga,True,1.0,46.0
+1773,Cocodog5192 1,Syracuse,1.0,Baylor,False,0.0,46.0
+1774,Cocodog5192 1,Murray State,1.0,Murray State,True,1.0,46.0
+1775,Cocodog5192 1,Florida St,1.0,Florida St,True,1.0,46.0
+1776,Cocodog5192 1,Buffalo,1.0,Buffalo,True,1.0,46.0
+1777,Cocodog5192 1,Texas Tech,1.0,Texas Tech,True,1.0,46.0
+1778,Cocodog5192 1,Nevada,1.0,Florida,False,0.0,46.0
+1779,Cocodog5192 1,Michigan,1.0,Michigan,True,1.0,46.0
+1780,Cocodog5192 1,Virginia,1.0,Virginia,True,1.0,46.0
+1781,Cocodog5192 1,Ole Miss,1.0,Oklahoma,False,0.0,46.0
+1782,Cocodog5192 1,Wisconsin,1.0,Oregon,False,0.0,46.0
+1783,Cocodog5192 1,Kansas State,1.0,UC Irvine,False,0.0,46.0
+1784,Cocodog5192 1,Villanova,1.0,Villanova,True,1.0,46.0
+1785,Cocodog5192 1,Old Dominion,1.0,Purdue,False,0.0,46.0
+1786,Cocodog5192 1,Cincinnati,1.0,Iowa,False,0.0,46.0
+1787,Cocodog5192 1,Tennessee,1.0,Tennessee,True,1.0,46.0
+1788,Cocodog5192 1,North Carolina,1.0,North Carolina,True,1.0,46.0
+1789,Cocodog5192 1,Utah State,1.0,Washington,False,0.0,46.0
+1790,Cocodog5192 1,Auburn,1.0,Auburn,True,1.0,46.0
+1791,Cocodog5192 1,Kansas,1.0,Kansas,True,1.0,46.0
+1792,Cocodog5192 1,Iowa State,1.0,Ohio State,False,0.0,46.0
+1793,Cocodog5192 1,Houston,1.0,Houston,True,1.0,46.0
+1794,Cocodog5192 1,Seton Hall,1.0,Wofford,False,0.0,46.0
+1795,Cocodog5192 1,Kentucky,1.0,Kentucky,True,1.0,46.0
+1796,Cocodog5192 1,Duke,2.0,Duke,True,2.0,46.0
+1797,Cocodog5192 1,Virginia Tech,2.0,Virginia Tech,True,2.0,46.0
+1798,Cocodog5192 1,Yale,2.0,LSU,False,0.0,46.0
+1799,Cocodog5192 1,Michigan State,2.0,Michigan State,True,2.0,46.0
+1800,Cocodog5192 1,Gonzaga,2.0,Gonzaga,True,2.0,46.0
+1801,Cocodog5192 1,Murray State,2.0,Florida St,False,0.0,46.0
+1802,Cocodog5192 1,Buffalo,2.0,Texas Tech,False,0.0,46.0
+1803,Cocodog5192 1,Nevada,2.0,Michigan,False,0.0,46.0
+1804,Cocodog5192 1,Virginia,2.0,Virginia,True,2.0,46.0
+1805,Cocodog5192 1,Wisconsin,2.0,Oregon,False,0.0,46.0
+1806,Cocodog5192 1,Old Dominion,2.0,Purdue,False,0.0,46.0
+1807,Cocodog5192 1,Tennessee,2.0,Tennessee,True,2.0,46.0
+1808,Cocodog5192 1,North Carolina,2.0,North Carolina,True,2.0,46.0
+1809,Cocodog5192 1,Auburn,2.0,Auburn,True,2.0,46.0
+1810,Cocodog5192 1,Iowa State,2.0,Houston,False,0.0,46.0
+1811,Cocodog5192 1,Seton Hall,2.0,Kentucky,False,0.0,46.0
+1812,Cocodog5192 1,Duke,4.0,Duke,True,4.0,46.0
+1813,Cocodog5192 1,Michigan State,4.0,Michigan State,True,4.0,46.0
+1814,Cocodog5192 1,Gonzaga,4.0,Gonzaga,True,4.0,46.0
+1815,Cocodog5192 1,Buffalo,4.0,Texas Tech,False,0.0,46.0
+1816,Cocodog5192 1,Wisconsin,4.0,Virginia,False,0.0,46.0
+1817,Cocodog5192 1,Tennessee,4.0,Purdue,False,0.0,46.0
+1818,Cocodog5192 1,North Carolina,4.0,Auburn,False,0.0,46.0
+1819,Cocodog5192 1,Seton Hall,4.0,Kentucky,False,0.0,46.0
+1820,Cocodog5192 1,Duke,8.0,Michigan State,False,0.0,46.0
+1821,Cocodog5192 1,Gonzaga,8.0,Texas Tech,False,0.0,46.0
+1822,Cocodog5192 1,Tennessee,8.0,Virginia,False,0.0,46.0
+1823,Cocodog5192 1,North Carolina,8.0,Auburn,False,0.0,46.0
+1824,Cocodog5192 1,Gonzaga,16.0,0,False,0.0,46.0
+1825,Cocodog5192 1,Tennessee,16.0,0,False,0.0,46.0
+1826,Cocodog5192 1,Gonzaga,32.0,0,False,0.0,46.0
